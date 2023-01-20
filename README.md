@@ -19,3 +19,8 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Mathematical
 - Reactive
 - Dialect
+- Smart Contract
+- Probabilistic
+- Artificial Intelligence
+- Signal Processing
+- Hardware Description
