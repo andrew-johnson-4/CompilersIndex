@@ -18,3 +18,4 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Logic
 - Mathematical
 - Reactive
+- Dialect
