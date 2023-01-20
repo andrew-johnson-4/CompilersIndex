@@ -28,3 +28,4 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Virtual Machine
 - Graphics
 - Toolchain
+- Esoteric
