@@ -26,3 +26,4 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Signal Processing
 - Hardware Description
 - Virtual Machine
+- Graphics
