@@ -10,6 +10,7 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Intermediate Representation
 - Ahead of Time
 - Just in Time
+- Interpreter
 - Object Oriented
 - Functional
 - Procedural
@@ -24,3 +25,4 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Artificial Intelligence
 - Signal Processing
 - Hardware Description
+- Virtual Machine
