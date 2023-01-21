@@ -3,8 +3,6 @@
 - Peano axioms
 - Zermelo–Fraenkel set theory
 - Martin-Löf type theory
-- Soundness
-- Completeness
 - λ-cube
   - λ
   - λ2
