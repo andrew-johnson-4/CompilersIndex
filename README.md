@@ -1,5 +1,5 @@
 # Compilers Index
-A manually curated list of Open Source compilers and infrastructure components. This project is an evolution of my personal star/list usage patterns on Github. Projects may appear in multiple indices.
+A manually curated list of Open Source compilers and infrastructure components. This project is an evolution of my personal star/list usage patterns on Github. Projects may appear in multiple indices. Contributions across the project get merged/conflict-resolved during index construction. So whether a contribution edits an index or adds a project tag, the information will still propagate both ways.
 
 - Lambda Calculus
 - Turing Machine
