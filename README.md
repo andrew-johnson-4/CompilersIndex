@@ -29,3 +29,4 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Graphics
 - Toolchain
 - Esoteric
+- User Interface
