@@ -1,0 +1,10 @@
+---
+name: RustPython
+website: https://github.com/RustPython/RustPython
+tags:
+    - Python
+    - Rust
+    - Compiler
+    - JIT
+    - Interpreter
+    - WASM
