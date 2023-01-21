@@ -8,8 +8,8 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Untyped
 - Assembler
 - Intermediate Representation
-- Ahead of Time
-- Just in Time
+- [Ahead of Time](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/aot#readme)
+- [Just in Time](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/jit#readme)
 - Interpreter
 - Object Oriented
 - Functional
