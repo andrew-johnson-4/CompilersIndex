@@ -1,0 +1,8 @@
+---
+name: AssemblyScript
+website: https://www.assemblyscript.org/
+tags:
+    - Compiler
+    - TypeScript
+    - WASM
+    - AoT
