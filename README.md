@@ -6,7 +6,7 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - [Typed](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/typed#readme)
 - [Dynamic](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/dynamic#readme)
 - [Untyped](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/untyped#readme)
-- Assembler
+- [Assembler](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/assembler#readme)
 - Intermediate Representation
 - [Ahead of Time](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/aot#readme)
 - [Just in Time](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/jit#readme)
