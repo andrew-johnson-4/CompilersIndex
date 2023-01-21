@@ -1,6 +1,6 @@
 # Contributing
 
-Any and all contributions to CompilersIndex are dutifully appreciated.
+Any and all contributions to CompilersIndex are dutifully appreciated. Contributions are assumed to grant permission to use under the terms of the attached MIT permissive license.
 
 The file structure of this project follows this pattern:
 - tag1/
