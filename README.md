@@ -28,5 +28,5 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Virtual Machine
 - Graphics
 - Toolchain
-- Esoteric
+- [Esoteric](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/esoteric#readme)
 - User Interface
