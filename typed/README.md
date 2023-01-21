@@ -1,6 +1,6 @@
 # Type Systems
 
-- Hindly-Milner
+- Hindley-Milner
 - Linear Types
 - Dependent Types
 - Intersection Types
