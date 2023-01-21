@@ -1,0 +1,13 @@
+---
+name: GNU Compiler Collection
+website: https://gcc.gnu.org/
+tags:
+    - Compiler
+    - Toolchain
+    - C
+    - C++
+    - Objective-C
+    - Fortran
+    - Ada
+    - Go
+    - D
