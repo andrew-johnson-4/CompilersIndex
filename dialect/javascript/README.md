@@ -5,3 +5,4 @@
 - ECMAScript
 - JavaScript
 - Seed
+- TypeScript
