@@ -1,6 +1,6 @@
 # Contributing
 
-Any and all contributions to CompilersIndex are dutifully appreciated. Contributions are assumed to grant permission to use under the terms of the attached MIT permissive license.
+Any and all contributions to CompilersIndex are dutifully appreciated. Contributions are assumed to grant permission to use under the terms of the attached [MIT permissive license](https://github.com/andrew-johnson-4/CompilersIndex/blob/main/LICENSE).
 
 The file structure of this project follows this pattern:
 - tag1/
