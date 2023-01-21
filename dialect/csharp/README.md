@@ -1,7 +1,7 @@
 # C# Dialects
 
 - Boo
-- C#
+- [C#](https://github.com/dotnet/csharplang)
 - Fantom
 - F#
 - Iron Python
