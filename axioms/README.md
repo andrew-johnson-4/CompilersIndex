@@ -1,4 +1,4 @@
-# That which much be assumed
+# That which must be assumed
 
 - Peano axioms
 - Zermelo–Fraenkel set theory
