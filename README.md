@@ -3,8 +3,8 @@ A manually curated list of Open Source compilers and infrastructure components. 
 
 - Lambda Calculus
 - Turing Machine
-- Typed
-- Dynamic
+- [Typed](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/typed#readme)
+- [Dynamic](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/dynamic#readme)
 - Untyped
 - Assembler
 - Intermediate Representation
