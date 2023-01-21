@@ -20,7 +20,7 @@ A manually curated list of Open Source compilers and infrastructure components. 
 - Mathematical
 - Reactive
 - [Dialect](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/dialect#readme)
-- Smart Contract
+- [Smart Contract](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/smart_contract#readme)
 - Probabilistic
 - Artificial Intelligence
 - Signal Processing
