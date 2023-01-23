@@ -1,0 +1,14 @@
+---
+name: spack
+website: https://spack.io
+project: https://github.com/spack/spack
+tags:
+- build-tools
+- hpc
+- linux
+- macos
+- package-manager
+- python
+- radiuss
+- scientific-computing
+- spack

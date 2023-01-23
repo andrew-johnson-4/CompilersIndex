@@ -1,0 +1,13 @@
+---
+name: Nim
+website: https://nim-lang.org
+project: https://github.com/nim-lang/Nim
+tags:
+- compiler
+- efficient
+- hacktoberfest
+- language
+- macros
+- metaprogramming
+- nim
+- procedural

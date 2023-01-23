@@ -1,0 +1,13 @@
+---
+name: go-advanced
+website: https://www.facebook.com/zalopay.engineering/
+project: https://github.com/zalopay-oss/go-advanced
+tags:
+- cgo
+- distributed
+- distributed-systems
+- docker
+- golang
+- grpc-go
+- java
+- web-go

@@ -1,0 +1,9 @@
+---
+name: solc-js
+website: https://soliditylang.org
+project: https://github.com/ethereum/solc-js
+tags:
+- compiler
+- ethereum
+- hacktoberfest
+- solidity

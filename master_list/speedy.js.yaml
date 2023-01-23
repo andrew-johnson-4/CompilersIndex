@@ -1,0 +1,9 @@
+---
+name: speedy.js
+project: https://github.com/MichaReiser/speedy.js
+tags:
+- compiler
+- javascript
+- llvm
+- webassembly
+- webpack-loader

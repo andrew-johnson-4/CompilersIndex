@@ -1,0 +1,13 @@
+---
+name: closure-webpack-plugin
+website: https://developers.google.com/closure/
+project: https://github.com/webpack-contrib/closure-webpack-plugin
+tags:
+- closure-compiler
+- closure-library
+- google-closure-compiler
+- google-closure-library
+- optimization
+- treeshaking
+- uglifyjs
+- webpack

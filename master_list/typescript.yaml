@@ -1,0 +1,9 @@
+---
+name: TypeScript
+website: https://www.typescriptlang.org
+project: https://github.com/microsoft/TypeScript
+tags:
+- javascript
+- language
+- typechecker
+- typescript

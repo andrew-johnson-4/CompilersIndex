@@ -1,0 +1,9 @@
+---
+name: aniseed
+website: https://conjure.fun/discord
+project: https://github.com/Olical/aniseed
+tags:
+- fennel
+- lisp
+- lua
+- neovim

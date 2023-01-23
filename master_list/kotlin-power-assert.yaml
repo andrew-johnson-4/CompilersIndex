@@ -1,0 +1,8 @@
+---
+name: kotlin-power-assert
+project: https://github.com/bnorm/kotlin-power-assert
+tags:
+- assertions
+- kotlin
+- kotlin-ir
+- testing

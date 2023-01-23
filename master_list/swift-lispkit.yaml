@@ -1,0 +1,12 @@
+---
+name: swift-lispkit
+project: https://github.com/objecthub/swift-lispkit
+tags:
+- compiler
+- interpreter
+- lisp
+- macos
+- r7rs
+- scheme
+- swift
+- virtual-machine

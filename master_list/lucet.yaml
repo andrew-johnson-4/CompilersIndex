@@ -1,0 +1,9 @@
+---
+name: lucet
+project: https://github.com/bytecodealliance/lucet
+tags:
+- assemblyscript
+- rust
+- wasi
+- wasm
+- webassembly

@@ -1,0 +1,10 @@
+---
+name: frps-onekey
+project: https://github.com/MvsCode/frps-onekey
+tags:
+- frp
+- frps
+- frps-onekey
+- linux
+- nat
+- shell

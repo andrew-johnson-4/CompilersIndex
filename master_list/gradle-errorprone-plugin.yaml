@@ -1,0 +1,8 @@
+---
+name: gradle-errorprone-plugin
+project: https://github.com/tbroyer/gradle-errorprone-plugin
+tags:
+- error-prone
+- errorprone
+- gradle-plugin
+- java

@@ -1,0 +1,11 @@
+---
+name: grain
+website: https://grain-lang.org/
+project: https://github.com/grain-lang/grain
+tags:
+- compiler
+- functional-programming
+- grain
+- language
+- wasm
+- webassembly

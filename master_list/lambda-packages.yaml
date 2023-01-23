@@ -1,0 +1,13 @@
+---
+name: lambda-packages
+website: https://blog.zappa.io
+project: https://github.com/Miserlou/lambda-packages
+tags:
+- aws
+- aws-lambda
+- binary
+- lambda
+- package
+- python
+- serverless
+- zappa

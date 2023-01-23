@@ -1,0 +1,24 @@
+---
+name: bytecode-viewer
+website: https://bytecodeviewer.com
+project: https://github.com/Konloch/bytecode-viewer
+tags:
+- android
+- apk
+- baksmali
+- bytecode
+- bytecode-viewer
+- cfr
+- compiler
+- decompiler
+- dex2jar
+- fernflower
+- java
+- java-decompiler
+- jsp
+- krakatau
+- procyon
+- recompiler
+- smali
+- static-analysis
+- war

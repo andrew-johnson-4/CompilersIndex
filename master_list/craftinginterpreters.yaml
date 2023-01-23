@@ -1,0 +1,16 @@
+---
+name: craftinginterpreters
+website: http://www.craftinginterpreters.com/
+project: https://github.com/munificent/craftinginterpreters
+tags:
+- book
+- bytecode
+- c
+- compiler
+- interpreter
+- java
+- language
+- lox
+- markdown
+- parser
+- scripting-language

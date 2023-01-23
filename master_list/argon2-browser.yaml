@@ -1,0 +1,12 @@
+---
+name: argon2-browser
+website: https://antelle.net/argon2-browser
+project: https://github.com/antelle/argon2-browser
+tags:
+- argon2
+- hash
+- kdf
+- keepass
+- keeweb
+- wasm
+- webassembly

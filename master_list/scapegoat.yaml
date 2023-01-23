@@ -1,0 +1,8 @@
+---
+name: scapegoat
+project: https://github.com/scapegoat-scala/scapegoat
+tags:
+- hacktoberfest
+- inspection
+- scala
+- scala-compiler

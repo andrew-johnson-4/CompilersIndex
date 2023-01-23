@@ -1,0 +1,10 @@
+---
+name: magic-regexp
+website: https://regexp.dev
+project: https://github.com/danielroe/magic-regexp
+tags:
+- hacktoberfest
+- regex
+- regexp
+- regular-expression
+- typescript

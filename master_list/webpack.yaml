@@ -1,0 +1,21 @@
+---
+name: webpack
+website: https://webpack.js.org
+project: https://github.com/webpack/webpack
+tags:
+- amd
+- build-tool
+- commonjs
+- compiler
+- es2015
+- es6
+- esm
+- javascript
+- javascript-compiler
+- javascript-modules
+- loaders
+- module-bundler
+- plugins
+- web
+- web-performance
+- webpack

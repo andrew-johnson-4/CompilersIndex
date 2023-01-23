@@ -1,0 +1,15 @@
+---
+name: kuroko
+website: https://kuroko-lang.github.io/
+project: https://github.com/kuroko-lang/kuroko
+tags:
+- bytecode
+- bytecode-compiler
+- bytecode-vm
+- interpreter
+- kuroko
+- programming-language
+- python
+- repl
+- unicode-strings
+- vm

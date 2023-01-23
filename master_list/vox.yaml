@@ -1,0 +1,19 @@
+---
+name: vox
+project: https://github.com/MrSmith33/vox
+tags:
+- amd64
+- aot
+- codegen
+- compiler
+- d
+- dlang
+- jit
+- language
+- linker
+- pe-format
+- programming-language
+- ssa-form
+- vox
+- voxlang
+- x86-64

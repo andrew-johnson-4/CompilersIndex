@@ -1,0 +1,8 @@
+---
+name: gfortran-for-macOS
+project: https://github.com/fxcoudert/gfortran-for-macOS
+tags:
+- fortran-compiler
+- gcc
+- gfortran
+- macos

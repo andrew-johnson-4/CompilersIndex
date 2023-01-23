@@ -1,0 +1,12 @@
+---
+name: babel-polyfills
+project: https://github.com/babel/babel-polyfills
+tags:
+- babel
+- browsers
+- browserslist
+- core-js
+- es-shims
+- polyfills
+- preset-env
+- targets

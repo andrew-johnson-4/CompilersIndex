@@ -1,0 +1,13 @@
+---
+name: ghdl
+project: https://github.com/ghdl/ghdl
+tags:
+- compiler
+- gcc
+- ghdl
+- hacktoberfest
+- hardware
+- llvm
+- simulator
+- testbench
+- vhdl

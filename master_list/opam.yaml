@@ -1,0 +1,9 @@
+---
+name: opam
+website: https://opam.ocaml.org
+project: https://github.com/ocaml/opam
+tags:
+- git
+- ocaml
+- opam
+- package-manager

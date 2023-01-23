@@ -1,0 +1,8 @@
+---
+name: opendylan
+website: http://opendylan.org/
+project: https://github.com/dylan-lang/opendylan
+tags:
+- compiler
+- dylan
+- ide

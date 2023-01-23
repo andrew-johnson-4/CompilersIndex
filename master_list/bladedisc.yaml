@@ -1,0 +1,12 @@
+---
+name: BladeDISC
+project: https://github.com/alibaba/BladeDISC
+tags:
+- compiler
+- deep-learning
+- inference-optimization
+- machine-learning
+- mlir
+- neural-network
+- pytorch
+- tensorflow

@@ -1,0 +1,8 @@
+---
+name: DirectXShaderCompiler
+project: https://github.com/microsoft/DirectXShaderCompiler
+tags:
+- directx-shader-compiler
+- dxil
+- hlsl
+- shader-programs

@@ -1,0 +1,7 @@
+---
+name: kiwi
+project: https://github.com/vanlooverenkoen/kiwi
+tags:
+- dart
+- dependency-injection
+- flutter

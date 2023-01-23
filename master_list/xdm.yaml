@@ -1,0 +1,13 @@
+---
+name: xdm
+website: http://wooorm.com/xdm/
+project: https://github.com/wooorm/xdm
+tags:
+- babel
+- esbuild
+- jsx
+- markdown
+- mdx
+- mdxjs
+- rollup
+- webpack

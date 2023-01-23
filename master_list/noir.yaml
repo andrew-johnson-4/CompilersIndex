@@ -1,0 +1,7 @@
+---
+name: noir
+project: https://github.com/noir-lang/noir
+tags:
+- compiler
+- cryptography
+- zero-knowledge

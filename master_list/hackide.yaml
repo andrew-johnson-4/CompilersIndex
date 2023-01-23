@@ -1,0 +1,10 @@
+---
+name: hackIDE
+website: http://hackide.herokuapp.com/
+project: https://github.com/sahildua2305/hackIDE
+tags:
+- code
+- code-editor
+- django
+- hackerearth-api
+- interpreter

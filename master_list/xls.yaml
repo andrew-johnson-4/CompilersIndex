@@ -1,0 +1,9 @@
+---
+name: xls
+website: http://google.github.io/xls/
+project: https://github.com/google/xls
+tags:
+- compiler
+- high-level-synthesis
+- hls
+- open-source

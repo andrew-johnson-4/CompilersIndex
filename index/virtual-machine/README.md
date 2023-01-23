@@ -1,0 +1,18 @@
+# virtual-machine
+
+[virtual-machine](https://github.com/ArkScript-lang/Ark)
+[virtual-machine](https://github.com/aalhour/awesome-compilers)
+[virtual-machine](https://github.com/hlorenzi/customasm)
+[virtual-machine](https://github.com/GetFirefly/firefly)
+[virtual-machine](https://github.com/vasyop/miniC-hosting)
+[virtual-machine](https://github.com/never-lang/never)
+[virtual-machine](https://github.com/eclipse-openj9/openj9)
+[virtual-machine](https://github.com/symisc/PH7)
+[virtual-machine](https://github.com/shining1984/PL-Compiler-Resource)
+[virtual-machine](https://github.com/quickjs-zh/QuickJS)
+[virtual-machine](https://github.com/ring-lang/ring)
+[virtual-machine](https://github.com/cksystemsteaching/selfie)
+[virtual-machine](https://github.com/objecthub/swift-lispkit)
+[virtual-machine](https://github.com/tagua-vm/tagua-vm)
+[virtual-machine](https://github.com/vtereshkov/umka-lang)
+[virtual-machine](https://github.com/v8/v8)

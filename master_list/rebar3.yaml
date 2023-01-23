@@ -1,0 +1,14 @@
+---
+name: rebar3
+website: http://www.rebar3.org
+project: https://github.com/erlang/rebar3
+tags:
+- build
+- compile
+- dependencies
+- erlang
+- hacktoberfest
+- packages
+- releases
+- template
+- test

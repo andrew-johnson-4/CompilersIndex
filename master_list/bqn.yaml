@@ -1,0 +1,12 @@
+---
+name: BQN
+website: https://mlochbaum.github.io/BQN/
+project: https://github.com/mlochbaum/BQN
+tags:
+- apl
+- bqn
+- compiler
+- functional-programming
+- immutable
+- language
+- multidimensional-arrays

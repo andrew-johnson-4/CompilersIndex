@@ -1,0 +1,10 @@
+---
+name: assemblyscript
+website: https://www.assemblyscript.org
+project: https://github.com/AssemblyScript/assemblyscript
+tags:
+- assemblyscript
+- compiler
+- typescript
+- wasm
+- webassembly

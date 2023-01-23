@@ -1,0 +1,11 @@
+---
+name: ts-protoc-gen
+project: https://github.com/improbable-eng/ts-protoc-gen
+tags:
+- grpc
+- grpc-web
+- plugin
+- protoc
+- protocol-buffers
+- ts
+- typescript

@@ -1,0 +1,7 @@
+---
+name: OctoPrint-FirmwareUpdater
+website: https://plugins.octoprint.org/plugins/firmwareupdater/
+project: https://github.com/OctoPrint/OctoPrint-FirmwareUpdater
+tags:
+- octoprint
+- octoprint-plugin

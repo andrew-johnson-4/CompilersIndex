@@ -1,0 +1,12 @@
+---
+name: bankai
+project: https://github.com/choojs/bankai
+tags:
+- assets
+- browserify
+- compile
+- css
+- css-in-js
+- modular
+- server
+- sheetify

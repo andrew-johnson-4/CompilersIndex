@@ -1,0 +1,22 @@
+---
+name: RE-flex
+website: https://www.genivia.com/doc/reflex/html
+project: https://github.com/Genivia/RE-flex
+tags:
+- bison
+- compiler
+- flex
+- flex-regex
+- fuzzy-matching
+- graphviz-dot
+- lex
+- lexer
+- lexer-generator
+- lexical-analyzer
+- pcre
+- regex
+- regex-engine
+- regex-library
+- regex-pattern
+- regular-expression
+- regular-expressions

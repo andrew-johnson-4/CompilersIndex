@@ -1,0 +1,12 @@
+---
+name: taco
+website: http://tensor-compiler.org
+project: https://github.com/tensor-compiler/taco
+tags:
+- code-generator
+- library
+- linear-algebra
+- sparse
+- tensor
+- tensor-algebra
+- tensor-algebra-compiler

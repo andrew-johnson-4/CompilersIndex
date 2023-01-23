@@ -1,0 +1,13 @@
+---
+name: Adlik
+project: https://github.com/Adlik/Adlik
+tags:
+- compiler
+- deep-learning
+- docker-images
+- inference
+- inference-engine
+- model-optimizer
+- openvino
+- tensorflow-serving
+- tensorrt

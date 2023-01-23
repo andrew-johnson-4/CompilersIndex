@@ -1,0 +1,11 @@
+---
+name: expression-language
+website: https://symfony.com/expression-language
+project: https://github.com/symfony/expression-language
+tags:
+- component
+- dsl
+- expression
+- php
+- symfony
+- symfony-component

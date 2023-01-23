@@ -1,0 +1,14 @@
+---
+name: ccache
+website: https://ccache.dev
+project: https://github.com/ccache/ccache
+tags:
+- c
+- c-plus-plus
+- cache
+- ccache
+- clang
+- compiler
+- cplusplus
+- cpp
+- gcc

@@ -1,0 +1,9 @@
+---
+name: JWebAssembly
+project: https://github.com/i-net-software/JWebAssembly
+tags:
+- compiler
+- java
+- jwebassembly
+- wasm
+- webassembly

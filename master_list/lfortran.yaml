@@ -1,0 +1,13 @@
+---
+name: lfortran
+website: https://lfortran.org/
+project: https://github.com/lfortran/lfortran
+tags:
+- compiler
+- fortran
+- interactive
+- jupyter
+- jupyter-kernels
+- jupyter-notebook
+- library
+- repl

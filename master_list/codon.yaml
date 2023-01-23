@@ -1,0 +1,11 @@
+---
+name: codon
+website: https://docs.exaloop.io/codon
+project: https://github.com/exaloop/codon
+tags:
+- compiler
+- gpu-programming
+- high-performance
+- llvm
+- parallel-programming
+- python

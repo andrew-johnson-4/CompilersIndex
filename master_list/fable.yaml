@@ -1,0 +1,11 @@
+---
+name: Fable
+website: http://fable.io/
+project: https://github.com/fable-compiler/Fable
+tags:
+- dart
+- fsharp
+- javascript
+- python
+- rust
+- typescript

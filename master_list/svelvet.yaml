@@ -1,0 +1,10 @@
+---
+name: svelvet
+project: https://github.com/jacobdeichert/svelvet
+tags:
+- bundler
+- cli
+- esm
+- snowpack
+- svelte
+- watcher

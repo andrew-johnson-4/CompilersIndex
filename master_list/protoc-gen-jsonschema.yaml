@@ -1,0 +1,4 @@
+---
+name: protoc-gen-jsonschema
+project: https://github.com/chrusty/protoc-gen-jsonschema
+tags:

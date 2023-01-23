@@ -1,0 +1,9 @@
+---
+name: rust-embed
+project: https://github.com/pyrossh/rust-embed
+tags:
+- code-generator
+- rust
+- rust-lang
+- server
+- static-server

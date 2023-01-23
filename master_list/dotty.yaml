@@ -1,0 +1,10 @@
+---
+name: dotty
+website: https://dotty.epfl.ch
+project: https://github.com/lampepfl/dotty
+tags:
+- compiler
+- dotty
+- epfl
+- scala
+- scala3

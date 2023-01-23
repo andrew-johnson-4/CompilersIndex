@@ -1,0 +1,8 @@
+---
+name: OneOf
+project: https://github.com/mcintyre321/OneOf
+tags:
+- c-sharp
+- discriminated-unions
+- dotnetcore
+- f-sharp

@@ -1,0 +1,10 @@
+---
+name: simplenetes
+project: https://github.com/simplenetes-io/simplenetes
+tags:
+- cluster
+- pod
+- podc
+- podcompiler
+- podman
+- simple

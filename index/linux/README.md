@@ -1,0 +1,16 @@
+# linux
+
+[linux](https://github.com/jserv/amacc)
+[linux](https://github.com/vygr/ChrysaLisp)
+[linux](https://github.com/a2flo/floor)
+[linux](https://github.com/MvsCode/frps-onekey)
+[linux](https://github.com/larsbrinkhoff/lbForth)
+[linux](https://github.com/vnmakarov/mir)
+[linux](https://github.com/tinyclub/open-c-book)
+[linux](https://github.com/ring-lang/ring)
+[linux](https://github.com/MobiVM/robovm)
+[linux](https://github.com/jserv/shecc)
+[linux](https://github.com/skiffos/SkiffOS)
+[linux](https://github.com/alexfru/SmallerC)
+[linux](https://github.com/spack/spack)
+[linux](https://github.com/screetsec/TheFatRat)

@@ -1,0 +1,11 @@
+---
+name: kcov
+website: http://simonkagstrom.github.com/kcov/index.html
+project: https://github.com/SimonKagstrom/kcov
+tags:
+- codecov
+- codecov-uploader
+- coverage
+- instrumentation
+- travis-ci
+- unittesting

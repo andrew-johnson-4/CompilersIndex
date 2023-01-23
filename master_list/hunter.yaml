@@ -1,0 +1,11 @@
+---
+name: Hunter
+project: https://github.com/Leaking/Hunter
+tags:
+- android
+- asm
+- bytecode-manipulation
+- gradle
+- gradle-plugin
+- hugo
+- okhttp

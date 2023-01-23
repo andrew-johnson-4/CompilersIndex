@@ -1,0 +1,11 @@
+---
+name: RsyncOSX
+website: https://rsyncosx.netlify.app/
+project: https://github.com/rsyncOSX/RsyncOSX
+tags:
+- backup
+- macos-bigsur
+- nas
+- rsync
+- swift
+- xcode

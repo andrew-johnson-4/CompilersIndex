@@ -1,0 +1,25 @@
+---
+name: arrow-meta
+website: https://meta.arrow-kt.io
+project: https://github.com/arrow-kt/arrow-meta
+tags:
+- code
+- codegeneration
+- compiler-plugin
+- generics
+- higher-kinded-types
+- ide
+- intellij-plugin
+- kotlin
+- kotlin-compiler
+- kotlin-multiplatform
+- linter
+- macros
+- meta
+- metaprogramming
+- quasiquote
+- template-metaprogramming
+- tree-structure
+- typeclasses
+- typesystem
+- union-type

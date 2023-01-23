@@ -1,0 +1,11 @@
+---
+name: lightningcss
+website: https://lightningcss.dev
+project: https://github.com/parcel-bundler/lightningcss
+tags:
+- build-tool
+- compiler
+- css
+- minifier
+- parser
+- rust

@@ -1,0 +1,11 @@
+---
+name: ante
+website: http://antelang.org
+project: https://github.com/jfecher/ante
+tags:
+- ante
+- compiler
+- language
+- llvm
+- refinement-types
+- systems-language

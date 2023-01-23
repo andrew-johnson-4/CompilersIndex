@@ -1,0 +1,22 @@
+---
+name: oscrypto
+project: https://github.com/wbond/oscrypto
+tags:
+- 3des
+- aes
+- cryptography
+- des
+- dsa
+- ecdsa
+- oaep
+- pbkdf2
+- pkcs12
+- pkcs1v15
+- pkcs8
+- pss
+- python
+- rc2
+- rc4
+- rsa
+- tls
+- x509

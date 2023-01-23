@@ -1,0 +1,17 @@
+---
+name: enso
+website: https://enso.org
+project: https://github.com/enso-org/enso
+tags:
+- compiler
+- enso
+- functional
+- graalvm
+- hybrid
+- interpreter
+- jit
+- language
+- polyglot
+- rts
+- textual
+- visual

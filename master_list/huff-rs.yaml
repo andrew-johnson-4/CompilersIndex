@@ -1,0 +1,13 @@
+---
+name: huff-rs
+website: https://huff.sh
+project: https://github.com/huff-language/huff-rs
+tags:
+- bytecode
+- compiler
+- ethereum
+- evm
+- huff
+- language
+- rust
+- solidity

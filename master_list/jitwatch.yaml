@@ -1,0 +1,12 @@
+---
+name: jitwatch
+project: https://github.com/AdoptOpenJDK/jitwatch
+tags:
+- escape-analysis
+- hotspot
+- hotspot-jit-compiler
+- java
+- javafx
+- jit-compiler
+- jitwatch
+- log-analyser

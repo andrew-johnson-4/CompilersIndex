@@ -1,0 +1,23 @@
+---
+name: KCLVM
+website: https://kcl-lang.io/
+project: https://github.com/KusionStack/KCLVM
+tags:
+- cloud-native
+- compiler
+- configuration
+- configuration-language
+- configuration-management
+- devops
+- functional
+- infrastructure-as-code
+- kubernetes
+- language
+- platform-engineering
+- policy
+- programming-languages
+- record
+- rust
+- schema
+- shift-left
+- validation

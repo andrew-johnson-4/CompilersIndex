@@ -1,0 +1,10 @@
+---
+name: ldc
+website: http://wiki.dlang.org/LDC
+project: https://github.com/ldc-developers/ldc
+tags:
+- compiler
+- d
+- dlang
+- ldc
+- llvm

@@ -1,0 +1,13 @@
+---
+name: cranelift
+website: https://cranelift.readthedocs.io/
+project: https://github.com/bytecodealliance/cranelift
+tags:
+- aot-compilation
+- codegen
+- compiler
+- cranelift
+- cretonne
+- jit
+- rust
+- wasm

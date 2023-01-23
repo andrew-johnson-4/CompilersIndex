@@ -1,0 +1,9 @@
+---
+name: amulet
+website: https://amulet.works/
+project: https://github.com/amuletml/amulet
+tags:
+- compiler
+- functional-language
+- haskell
+- ml

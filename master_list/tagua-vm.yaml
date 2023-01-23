@@ -1,0 +1,10 @@
+---
+name: tagua-vm
+website: http://tagua.io/
+project: https://github.com/tagua-vm/tagua-vm
+tags:
+- llvm
+- php
+- rust
+- tagua-vm
+- virtual-machine

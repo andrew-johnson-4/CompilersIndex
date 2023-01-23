@@ -1,0 +1,14 @@
+---
+name: graphit
+website: http://graphit-lang.org/
+project: https://github.com/GraphIt-DSL/graphit
+tags:
+- code-generation
+- compiler
+- domain-specific-language
+- graph-analytics
+- graph-computing
+- high-performance-computing
+- m
+- machine-learning
+- parallel-computing

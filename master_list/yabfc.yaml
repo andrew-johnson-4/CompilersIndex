@@ -1,0 +1,8 @@
+---
+name: yabfc
+project: https://github.com/julianneswinoga/yabfc
+tags:
+- brainfuck
+- compiler
+- compiler-optimization
+- no-dependencies

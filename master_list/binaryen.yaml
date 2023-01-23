@@ -1,0 +1,9 @@
+---
+name: binaryen
+project: https://github.com/WebAssembly/binaryen
+tags:
+- c-plus-plus
+- compilers
+- emscripten
+- hacktoberfest
+- webassembly

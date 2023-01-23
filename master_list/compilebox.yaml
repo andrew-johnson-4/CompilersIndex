@@ -1,0 +1,6 @@
+---
+name: compilebox
+project: https://github.com/remoteinterview/compilebox
+tags:
+- remote-build
+- sandbox

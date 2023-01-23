@@ -1,0 +1,9 @@
+---
+name: libsodium.js
+project: https://github.com/jedisct1/libsodium.js
+tags:
+- crypto
+- cryptography
+- javascript
+- libsodium
+- webassembly

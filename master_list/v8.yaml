@@ -1,0 +1,10 @@
+---
+name: v8
+website: https://chromium.googlesource.com/v8/v8.git
+project: https://github.com/v8/v8
+tags:
+- compiler
+- interpreter
+- javascript
+- javascript-engine
+- virtual-machine

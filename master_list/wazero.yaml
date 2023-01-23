@@ -1,0 +1,15 @@
+---
+name: wazero
+website: https://wazero.io/
+project: https://github.com/tetratelabs/wazero
+tags:
+- ahead-of-time
+- compiler
+- go
+- golang
+- jit
+- runtime
+- vm
+- wasi
+- wasm
+- webassembly

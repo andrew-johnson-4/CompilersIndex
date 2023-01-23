@@ -1,0 +1,8 @@
+---
+name: clangwarnings.com
+website: https://clangwarnings.com
+project: https://github.com/NSHipster/clangwarnings.com
+tags:
+- clang
+- compiler
+- warnings

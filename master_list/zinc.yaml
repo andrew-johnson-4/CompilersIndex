@@ -1,0 +1,8 @@
+---
+name: zinc
+project: https://github.com/sbt/zinc
+tags:
+- compiler
+- sbt
+- scala
+- zinc

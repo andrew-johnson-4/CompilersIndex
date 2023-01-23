@@ -1,0 +1,11 @@
+---
+name: graphql-compiler
+project: https://github.com/kensho-technologies/graphql-compiler
+tags:
+- compiler
+- database
+- graphql
+- graphql-query
+- orientdb
+- python
+- sql

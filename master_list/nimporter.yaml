@@ -1,0 +1,15 @@
+---
+name: nimporter
+project: https://github.com/Pebaz/nimporter
+tags:
+- compiler
+- cython
+- cython-alternative
+- nim
+- nim-compiler
+- nim-source
+- nimporter-libraries
+- nimpy
+- performance
+- python
+- transpiler

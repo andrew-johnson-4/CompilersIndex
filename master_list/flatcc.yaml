@@ -1,0 +1,12 @@
+---
+name: flatcc
+project: https://github.com/dvidelabs/flatcc
+tags:
+- c
+- flatbuffers
+- idl
+- json
+- json-parser
+- protocol
+- schema
+- serialization

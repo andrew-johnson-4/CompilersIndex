@@ -1,0 +1,22 @@
+---
+name: kgt
+project: https://github.com/katef/kgt
+tags:
+- abnf
+- bnf
+- cfgs
+- chomsky
+- compiler
+- compiler-designs
+- compiler-principles
+- compilers
+- ebnf
+- grammar
+- grammar-specification
+- grammars
+- parser
+- parser-library
+- parsing
+- syntax
+- syntax-tree
+- wsn

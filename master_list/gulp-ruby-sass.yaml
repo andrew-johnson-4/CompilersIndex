@@ -1,0 +1,11 @@
+---
+name: gulp-ruby-sass
+project: https://github.com/sindresorhus/gulp-ruby-sass
+tags:
+- css
+- deprecated
+- gulp-plugin
+- javascript
+- nodejs
+- ruby
+- sass

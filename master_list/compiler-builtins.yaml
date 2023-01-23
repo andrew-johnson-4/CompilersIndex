@@ -1,0 +1,5 @@
+---
+name: compiler-builtins
+website: https://github.com/rust-lang/rust/issues/35437
+project: https://github.com/rust-lang/compiler-builtins
+tags:

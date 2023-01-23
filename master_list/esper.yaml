@@ -1,0 +1,13 @@
+---
+name: esper
+project: https://github.com/espertechinc/esper
+tags:
+- cep
+- compiler
+- complex-event-processing
+- esper
+- espertech
+- event-series-analysis
+- java
+- open-source
+- streaming-sql

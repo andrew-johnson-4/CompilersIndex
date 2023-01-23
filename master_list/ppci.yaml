@@ -1,0 +1,17 @@
+---
+name: ppci
+website: https://ppci.readthedocs.io/en/latest/
+project: https://github.com/windelbouwman/ppci
+tags:
+- arm
+- assembler
+- c-compiler
+- c-preprocessor
+- compiler
+- m68k
+- msp430
+- python
+- riscv
+- webassembly
+- x86-64
+- xtensa

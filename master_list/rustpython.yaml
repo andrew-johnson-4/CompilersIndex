@@ -1,0 +1,14 @@
+---
+name: RustPython
+website: https://rustpython.github.io
+project: https://github.com/RustPython/RustPython
+tags:
+- compiler
+- hacktoberfest
+- interpreter
+- jit
+- language
+- python-language
+- python3
+- rust
+- wasm

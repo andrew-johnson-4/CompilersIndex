@@ -1,0 +1,9 @@
+---
+name: better-enums
+website: http://aantron.github.io/better-enums
+project: https://github.com/aantron/better-enums
+tags:
+- cpp
+- enum
+- header-only
+- reflection

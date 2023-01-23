@@ -1,0 +1,10 @@
+---
+name: ruby-packer
+project: https://github.com/pmq20/ruby-packer
+tags:
+- compiler
+- ruby
+- ruby-packer
+- rubyc
+- squashfs
+- windows

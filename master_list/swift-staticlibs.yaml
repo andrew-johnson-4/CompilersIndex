@@ -1,0 +1,8 @@
+---
+name: swift-staticlibs
+project: https://github.com/keith/swift-staticlibs
+tags:
+- ios
+- static-library
+- swift
+- xcode

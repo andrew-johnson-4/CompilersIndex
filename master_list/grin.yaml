@@ -1,0 +1,11 @@
+---
+name: grin
+website: https://grin-compiler.github.io/
+project: https://github.com/grin-compiler/grin
+tags:
+- compiler
+- data-flow-analysis
+- functional-programming
+- haskell
+- llvm
+- optimisation

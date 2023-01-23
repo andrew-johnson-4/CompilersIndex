@@ -1,0 +1,15 @@
+---
+name: open-c-book
+website: https://tinylab.gitbooks.io/cbook
+project: https://github.com/tinyclub/open-c-book
+tags:
+- c
+- compiler
+- debugging
+- editor
+- elf
+- excutables
+- linker
+- linux
+- loader
+- process

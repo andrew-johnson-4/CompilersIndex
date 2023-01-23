@@ -1,0 +1,13 @@
+---
+name: shaderc
+project: https://github.com/google/shaderc
+tags:
+- compiler
+- glsl
+- glslang
+- graphics
+- hlsl
+- shaderc
+- spirv
+- spirv-cross
+- vulkan

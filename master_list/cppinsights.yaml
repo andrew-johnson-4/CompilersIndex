@@ -1,0 +1,18 @@
+---
+name: cppinsights
+website: https://cppinsights.io
+project: https://github.com/andreasfertig/cppinsights
+tags:
+- ast
+- clang
+- cplusplus
+- cplusplus-11
+- cplusplus-14
+- cplusplus-17
+- cplusplus-20
+- cpp
+- cpp11
+- cpp14
+- cpp17
+- cpp20
+- llvm

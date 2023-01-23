@@ -1,0 +1,11 @@
+---
+name: stronginject
+project: https://github.com/YairHalberstadt/stronginject
+tags:
+- csharp
+- csharp-sourcegenerator
+- di
+- dotnet
+- hacktoberfest
+- ioc
+- source-generators

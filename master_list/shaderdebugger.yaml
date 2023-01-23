@@ -1,0 +1,9 @@
+---
+name: ShaderDebugger
+project: https://github.com/dfranx/ShaderDebugger
+tags:
+- compiler
+- debugger
+- glsl
+- hlsl
+- shader-editor

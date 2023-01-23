@@ -1,0 +1,10 @@
+---
+name: doxyrest
+project: https://github.com/vovkos/doxyrest
+tags:
+- documentation-generator
+- documentation-tool
+- lua
+- restructured-text
+- sphinx-doc
+- template-engine

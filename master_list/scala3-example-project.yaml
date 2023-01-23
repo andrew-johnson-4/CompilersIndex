@@ -1,0 +1,8 @@
+---
+name: scala3-example-project
+project: https://github.com/scala/scala3-example-project
+tags:
+- dotty
+- epfl
+- sbt
+- scala

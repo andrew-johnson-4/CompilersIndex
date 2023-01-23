@@ -1,0 +1,17 @@
+---
+name: hedgehog-lab
+website: https://hlab.app
+project: https://github.com/Hedgehog-Computing/hedgehog-lab
+tags:
+- computer-algebra
+- data-visualization
+- gpu-acceleration
+- javascript
+- latex
+- machine-learning
+- matrix-library
+- scientific-computing
+- symbolic-computation
+- tex
+- webgl
+- webgl2

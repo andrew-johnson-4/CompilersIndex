@@ -1,0 +1,4 @@
+---
+name: StyleCopAnalyzers
+project: https://github.com/DotNetAnalyzers/StyleCopAnalyzers
+tags:

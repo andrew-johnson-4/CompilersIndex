@@ -1,0 +1,16 @@
+---
+name: parcel
+website: https://parceljs.org
+project: https://github.com/parcel-bundler/parcel
+tags:
+- assets
+- build-tool
+- commonjs
+- compiler
+- css
+- es6
+- html
+- javascript
+- module-bundler
+- modules
+- web

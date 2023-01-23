@@ -1,0 +1,22 @@
+---
+name: faust
+website: http://faust.grame.fr
+project: https://github.com/grame-cncm/faust
+tags:
+- audio
+- c
+- c-plus-plus
+- cmajor
+- compiler
+- cpp
+- csharp
+- dlang
+- dsp
+- faust
+- functional-programming
+- jax
+- julia
+- julia-language
+- llvm
+- rust
+- wasm

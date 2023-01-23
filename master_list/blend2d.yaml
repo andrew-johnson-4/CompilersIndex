@@ -1,0 +1,10 @@
+---
+name: blend2d
+website: https://blend2d.com
+project: https://github.com/blend2d/blend2d
+tags:
+- 2d-graphics
+- asmjit
+- cpp
+- jit
+- rasterization

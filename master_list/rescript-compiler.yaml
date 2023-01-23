@@ -1,0 +1,9 @@
+---
+name: rescript-compiler
+website: https://rescript-lang.org
+project: https://github.com/rescript-lang/rescript-compiler
+tags:
+- altjs
+- compiler
+- javascript
+- rescript

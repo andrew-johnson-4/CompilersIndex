@@ -1,0 +1,9 @@
+---
+name: pkg
+website: https://npmjs.com/pkg
+project: https://github.com/vercel/pkg
+tags:
+- binaries
+- cli
+- compiler
+- nodejs

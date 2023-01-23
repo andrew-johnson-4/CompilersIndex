@@ -1,0 +1,8 @@
+---
+name: scala-clippy
+project: https://github.com/softwaremill/scala-clippy
+tags:
+- sbt-plugin
+- scala
+- scala-clippy
+- scala-compiler

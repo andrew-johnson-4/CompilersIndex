@@ -1,0 +1,7 @@
+---
+name: wasm
+project: https://github.com/sdiehl/wasm
+tags:
+- assembler
+- haskell
+- webassembly

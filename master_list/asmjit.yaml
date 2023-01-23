@@ -1,0 +1,13 @@
+---
+name: asmjit
+website: https://asmjit.com
+project: https://github.com/asmjit/asmjit
+tags:
+- aarch64
+- asmjit
+- assembler
+- compiler
+- cpp
+- jit
+- x86
+- x86-64

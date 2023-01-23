@@ -1,0 +1,17 @@
+---
+name: nginx-autoinstall
+project: https://github.com/angristan/nginx-autoinstall
+tags:
+- alpn
+- brotli
+- chacha20-poly1305
+- cloudflare
+- curve25519
+- debian
+- geoip
+- http2
+- libressl
+- nginx
+- openssl
+- pagespeed
+- waf

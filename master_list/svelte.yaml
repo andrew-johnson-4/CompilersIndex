@@ -1,0 +1,8 @@
+---
+name: svelte
+website: https://svelte.dev
+project: https://github.com/sveltejs/svelte
+tags:
+- compiler
+- template
+- ui

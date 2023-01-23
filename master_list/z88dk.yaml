@@ -1,0 +1,25 @@
+---
+name: z88dk
+website: https://www.z88dk.org
+project: https://github.com/z88dk/z88dk
+tags:
+- 8080
+- asm
+- assembler
+- assembly-language
+- c
+- c-compiler
+- embedded
+- gbz80
+- libc
+- libm
+- linker
+- rabbit2000
+- sccz80
+- sdcc
+- z180
+- z80
+- z80asm
+- z88dk
+- zcc
+- zsdcc

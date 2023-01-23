@@ -1,0 +1,12 @@
+---
+name: effectfuljs
+website: https://effectful.js.org
+project: https://github.com/awto/effectfuljs
+tags:
+- babel
+- babel-plugin
+- continuation
+- javascript
+- javascript-transpiler
+- monad
+- monadic-interface

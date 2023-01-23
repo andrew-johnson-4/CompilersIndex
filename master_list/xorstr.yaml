@@ -1,0 +1,12 @@
+---
+name: xorstr
+project: https://github.com/JustasMasiulis/xorstr
+tags:
+- compile-time
+- cpp
+- cpp17
+- encryption
+- string
+- template
+- vectorized
+- xor

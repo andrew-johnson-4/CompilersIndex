@@ -1,0 +1,17 @@
+---
+name: slim
+website: https://slimtoolkit.org
+project: https://github.com/slimtoolkit/slim
+tags:
+- apparmor
+- containers
+- docker
+- go
+- golang
+- hacktoberfest
+- minify
+- minify-images
+- seccomp
+- seccomp-profile
+- security
+- slim

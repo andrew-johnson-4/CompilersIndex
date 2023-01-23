@@ -1,0 +1,10 @@
+---
+name: roslyn
+website: https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/
+project: https://github.com/dotnet/roslyn
+tags:
+- csharp
+- hacktoberfest
+- roslyn
+- visual-basic
+- visual-studio

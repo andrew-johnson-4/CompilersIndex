@@ -1,0 +1,4 @@
+---
+name: rollup-plugin-closure-compiler
+project: https://github.com/ampproject/rollup-plugin-closure-compiler
+tags:

@@ -1,0 +1,9 @@
+---
+name: tiny-compiler
+project: https://github.com/zakirullin/tiny-compiler
+tags:
+- asm
+- ast
+- compiler
+- lexer
+- parser

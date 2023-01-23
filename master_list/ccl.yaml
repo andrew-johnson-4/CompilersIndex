@@ -1,0 +1,10 @@
+---
+name: ccl
+website: http://ccl.clozure.com/
+project: https://github.com/Clozure/ccl
+tags:
+- ccl
+- clozure-cl
+- common-lisp
+- compiler
+- lisp

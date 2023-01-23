@@ -1,0 +1,10 @@
+---
+name: jittor
+website: https://cg.cs.tsinghua.edu.cn/jittor/
+project: https://github.com/Jittor/jittor
+tags:
+- cuda
+- deep-learning
+- gpu
+- jittor
+- python

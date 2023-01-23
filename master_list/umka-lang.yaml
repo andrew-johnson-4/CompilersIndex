@@ -1,0 +1,15 @@
+---
+name: umka-lang
+project: https://github.com/vtereshkov/umka-lang
+tags:
+- c
+- compiler
+- concurrency
+- coroutines
+- cross-platform
+- fibers
+- interpreter
+- programming-language
+- scripting-language
+- static-typing
+- virtual-machine

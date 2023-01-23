@@ -1,0 +1,10 @@
+---
+name: purescript
+website: https://www.purescript.org
+project: https://github.com/purescript/purescript
+tags:
+- alt-js
+- haskell
+- javascript
+- purescript
+- typed-language

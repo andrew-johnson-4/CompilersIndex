@@ -1,0 +1,11 @@
+---
+name: wasm-git
+project: https://github.com/petersalomonsen/wasm-git
+tags:
+- emscripten
+- git
+- javascript
+- libgit2
+- nodejs
+- wasm
+- webassembly

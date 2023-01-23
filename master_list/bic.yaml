@@ -1,0 +1,9 @@
+---
+name: bic
+project: https://github.com/hexagonal-sun/bic
+tags:
+- c
+- compiler
+- evaluator
+- interpreter
+- repl

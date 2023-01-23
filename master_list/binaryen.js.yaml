@@ -1,0 +1,10 @@
+---
+name: binaryen.js
+website: http://github.com/WebAssembly/binaryen
+project: https://github.com/AssemblyScript/binaryen.js
+tags:
+- binaryen
+- compiler
+- javascript
+- typescript
+- webassembly

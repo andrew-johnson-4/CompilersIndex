@@ -1,0 +1,10 @@
+---
+name: homebrew-macos-cross-toolchains
+project: https://github.com/messense/homebrew-macos-cross-toolchains
+tags:
+- cross-compiler-toolchain
+- gcc
+- gcc-cross-compiler
+- gcc-toolchain
+- macos
+- macos-toolchain

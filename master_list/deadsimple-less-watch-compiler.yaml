@@ -1,0 +1,11 @@
+---
+name: deadsimple-less-watch-compiler
+project: https://github.com/jonycheung/deadsimple-less-watch-compiler
+tags:
+- css-files
+- file-watchers
+- less-compiler
+- less-plugin
+- less-watcher
+- watch-compiler
+- watch-files

@@ -1,0 +1,10 @@
+---
+name: ts-morph
+website: https://ts-morph.com
+project: https://github.com/dsherret/ts-morph
+tags:
+- ast
+- code-generation
+- javascript
+- static-analysis
+- typescript

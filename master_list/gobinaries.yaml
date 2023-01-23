@@ -1,0 +1,8 @@
+---
+name: gobinaries
+website: https://gobinaries.com/
+project: https://github.com/tj/gobinaries
+tags:
+- cross-compilation
+- golang
+- golang-tools

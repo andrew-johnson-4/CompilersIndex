@@ -1,0 +1,10 @@
+---
+name: crepe
+project: https://github.com/ekzhang/crepe
+tags:
+- datalog
+- logic-programming
+- rust
+- souffle
+- static-analysis
+- translator

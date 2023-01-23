@@ -1,0 +1,24 @@
+---
+name: nebullvm
+website: https://www.nebuly.com/
+project: https://github.com/nebuly-ai/nebullvm
+tags:
+- compiler
+- computing
+- deep-learning
+- edge-computing
+- gpu
+- huggingface
+- inference
+- machine-learning
+- neural-network
+- onnx
+- openvino
+- optimization
+- pypi
+- pytorch
+- quantization
+- tensorflow
+- tensorrt
+- transformers
+- tvm

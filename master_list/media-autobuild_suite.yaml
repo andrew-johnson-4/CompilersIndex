@@ -1,0 +1,12 @@
+---
+name: media-autobuild_suite
+project: https://github.com/m-ab-s/media-autobuild_suite
+tags:
+- batch
+- ffmpeg
+- mingw
+- mingw-environment
+- mpv
+- msys2
+- powershell
+- windows-batchscript

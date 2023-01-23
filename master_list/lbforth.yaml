@@ -1,0 +1,23 @@
+---
+name: lbForth
+project: https://github.com/larsbrinkhoff/lbForth
+tags:
+- 6502
+- 8051
+- arm
+- asmjs
+- avr
+- compiler
+- cortex-m
+- forth
+- interpreter
+- linux
+- m68k
+- metacompiler
+- msp430
+- pdp11
+- programming-language
+- risc-v
+- riscv
+- self-hosted
+- x86

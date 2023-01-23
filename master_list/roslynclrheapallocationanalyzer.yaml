@@ -1,0 +1,7 @@
+---
+name: RoslynClrHeapAllocationAnalyzer
+project: https://github.com/microsoft/RoslynClrHeapAllocationAnalyzer
+tags:
+- allocations
+- compiler
+- roslyn

@@ -1,0 +1,6 @@
+---
+name: less-loader
+project: https://github.com/webpack-contrib/less-loader
+tags:
+- less
+- webpack-loader
