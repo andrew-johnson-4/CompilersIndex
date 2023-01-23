@@ -1,0 +1,10 @@
+---
+name: minigo
+project: https://github.com/DQNEO/minigo
+tags:
+- assembly
+- compiler
+- go
+- golang
+- lexer
+- parser

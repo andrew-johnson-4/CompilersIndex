@@ -1,0 +1,11 @@
+---
+name: gleam
+website: https://gleam.run
+project: https://github.com/gleam-lang/gleam
+tags:
+- compiler
+- erlang
+- gleam
+- hacktoberfest
+- programming-language
+- statically-typed

@@ -1,0 +1,12 @@
+---
+name: Rezoom.SQL
+project: https://github.com/fsprojects/Rezoom.SQL
+tags:
+- compiler
+- fsharp
+- postgresql
+- sql
+- sqlite
+- sqlserver
+- tsql
+- typechecker

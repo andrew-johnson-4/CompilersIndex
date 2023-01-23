@@ -1,0 +1,9 @@
+---
+name: Hikari
+project: https://github.com/HikariObfuscator/Hikari
+tags:
+- compiler
+- llvm
+- obfuscator
+- obfuscator-llvm
+- security

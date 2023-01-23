@@ -1,0 +1,25 @@
+---
+name: raspberry-pi-cross-compilers
+website: https://sourceforge.net/projects/raspberry-pi-cross-compilers
+project: https://github.com/abhiTronix/raspberry-pi-cross-compilers
+tags:
+- aarch64
+- aarch64-linux-toolchain
+- arm
+- arm-linux-gnueabi
+- arm64
+- cmake
+- cross-compiler
+- gcc
+- gcc-arm-toolchain
+- gcc-cross-compiler
+- pi
+- pi4
+- precompiled-toolchains
+- qt
+- qt5
+- raspberry-pi
+- raspberry-pi-cross-compilers
+- raspberrypi
+- rootfs
+- toolchain

@@ -1,0 +1,11 @@
+---
+name: XShaderCompiler
+project: https://github.com/LukasBanana/XShaderCompiler
+tags:
+- c
+- cpp
+- cpp11
+- csharp
+- glsl
+- hlsl
+- shader-cross-compiler

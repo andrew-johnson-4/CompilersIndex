@@ -1,0 +1,10 @@
+---
+name: moonscript
+website: https://moonscript.org
+project: https://github.com/leafo/moonscript
+tags:
+- language
+- lua
+- moonscript
+- parsing-expression-grammar
+- transpiler

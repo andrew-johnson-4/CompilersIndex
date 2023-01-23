@@ -1,0 +1,19 @@
+---
+name: PipelineC
+website: https://github.com/JulianKemmerer/PipelineC/wiki
+project: https://github.com/JulianKemmerer/PipelineC
+tags:
+- c
+- fpga
+- fpga-acceleration
+- fpga-accelerators
+- fpga-programming
+- hardware
+- hardware-description
+- hardware-description-language
+- high-level-synthesis
+- hls
+- open-source-hardware
+- pipelines
+- python
+- vhdl

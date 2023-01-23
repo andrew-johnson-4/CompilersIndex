@@ -1,0 +1,10 @@
+---
+name: inc
+project: https://github.com/namin/inc
+tags:
+- c
+- compiler
+- compiler-construction
+- paper-implementations
+- scheme
+- x86

@@ -1,0 +1,16 @@
+---
+name: utoipa
+project: https://github.com/juhaku/utoipa
+tags:
+- auto-generated
+- compile-time
+- documentation
+- generated
+- openapi
+- openapi-documentation
+- openapi3
+- rest
+- rest-api
+- rest-api-documentation
+- rust
+- swagger

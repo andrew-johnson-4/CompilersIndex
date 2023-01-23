@@ -1,0 +1,10 @@
+---
+name: ructe
+website: https://crates.io/crates/ructe
+project: https://github.com/kaj/ructe
+tags:
+- html
+- loop
+- rust
+- template-engine
+- web

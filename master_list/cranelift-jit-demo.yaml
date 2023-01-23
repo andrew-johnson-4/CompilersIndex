@@ -1,0 +1,8 @@
+---
+name: cranelift-jit-demo
+project: https://github.com/bytecodealliance/cranelift-jit-demo
+tags:
+- cranelift
+- demo
+- jit
+- toy-language

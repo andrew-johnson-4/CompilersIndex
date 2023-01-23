@@ -1,7 +1,12 @@
 ---
-name: Gatsby
-website: https://www.gatsbyjs.com/
+name: gatsby
+website: https://www.gatsbyjs.com
+project: https://github.com/gatsbyjs/gatsby
 tags:
-    - Compiler
-    - React
-    - UI
+- blog
+- compiler
+- gatsby
+- graphql
+- react
+- static-site-generator
+- web-app

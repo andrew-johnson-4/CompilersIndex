@@ -1,0 +1,14 @@
+---
+name: dmd
+website: https://dlang.org
+project: https://github.com/dlang/dmd
+tags:
+- compiler
+- d
+- dlang
+- dmd
+- fast
+- hacktoberfest
+- language
+- native
+- programming-language

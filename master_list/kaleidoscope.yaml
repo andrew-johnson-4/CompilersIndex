@@ -1,0 +1,11 @@
+---
+name: kaleidoscope
+website: http://www.stephendiehl.com/llvm
+project: https://github.com/sdiehl/kaleidoscope
+tags:
+- compiler
+- haskell
+- kaleidoscope
+- llvm-bindings
+- llvm-tutorial
+- tutorial

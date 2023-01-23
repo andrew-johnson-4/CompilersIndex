@@ -1,0 +1,12 @@
+---
+name: OpenRAM
+website: http://www.openram.org
+project: https://github.com/VLSIDA/OpenRAM
+tags:
+- gds
+- magic
+- netgen
+- netlists
+- ngspice
+- python
+- sram

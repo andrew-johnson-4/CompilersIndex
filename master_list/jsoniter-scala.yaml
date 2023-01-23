@@ -1,0 +1,13 @@
+---
+name: jsoniter-scala
+project: https://github.com/plokhotnyuk/jsoniter-scala
+tags:
+- high-performance
+- jmh-benchmarks
+- json
+- macros
+- parsing
+- scala
+- scala-js
+- scala-native
+- serialization

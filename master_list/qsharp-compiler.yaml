@@ -1,0 +1,10 @@
+---
+name: qsharp-compiler
+website: https://docs.microsoft.com/quantum
+project: https://github.com/microsoft/qsharp-compiler
+tags:
+- hacktoberfest
+- qdk
+- qsharp
+- quantum
+- quantum-development-kit

@@ -1,0 +1,7 @@
+---
+name: dotnet-releaser
+project: https://github.com/xoofx/dotnet-releaser
+tags:
+- dotnet
+- releaser
+- tool

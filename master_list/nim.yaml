@@ -1,7 +1,13 @@
 ---
 name: Nim
-website: https://nim-lang.org/
+website: https://nim-lang.org
+project: https://github.com/nim-lang/Nim
 tags:
-    - Compiler
-    - Language
-    - AoT
+- compiler
+- efficient
+- hacktoberfest
+- language
+- macros
+- metaprogramming
+- nim
+- procedural

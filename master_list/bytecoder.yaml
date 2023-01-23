@@ -1,0 +1,17 @@
+---
+name: Bytecoder
+website: https://www.mirkosertic.de/blog/2017/06/compiling-bytecode-to-javascript/
+project: https://github.com/mirkosertic/Bytecoder
+tags:
+- bytecode
+- compiler
+- decompiler
+- java-bytecode
+- javascript
+- jvm-bytecode
+- kotlin
+- llvm
+- llvm-frontend
+- opencl
+- transpiler
+- webassembly

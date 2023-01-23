@@ -1,0 +1,14 @@
+---
+name: remix-project
+website: https://remix-ide.readthedocs.io
+project: https://github.com/ethereum/remix-project
+tags:
+- blockchain
+- ethereum
+- evm
+- hacktoberfest
+- remix
+- remix-ide
+- smart-contracts
+- solidity
+- vyper

@@ -1,0 +1,8 @@
+---
+name: flang
+project: https://github.com/flang-compiler/flang
+tags:
+- compiler
+- fortran
+- fortran-compiler
+- llvm

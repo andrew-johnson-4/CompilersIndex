@@ -1,0 +1,12 @@
+---
+name: clang
+website: https://github.com/llvm/llvm-project
+project: https://github.com/llvm-mirror/clang
+tags:
+- c
+- c-plus-plus
+- coding-style
+- compiler
+- objective-c
+- performance
+- static-analyzer

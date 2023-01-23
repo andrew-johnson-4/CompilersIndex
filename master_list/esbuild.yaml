@@ -1,9 +1,16 @@
 ---
 name: esbuild
 website: https://esbuild.github.io/
+project: https://github.com/evanw/esbuild
 tags:
-    - Compiler
-    - JavaScript
-    - React
-    - JSX
-    - AoT
+- bundler
+- commonjs
+- compiler
+- css
+- esm
+- javascript
+- jsx
+- minifier
+- react
+- tsx
+- typescript

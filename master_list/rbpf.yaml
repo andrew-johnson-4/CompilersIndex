@@ -1,0 +1,12 @@
+---
+name: rbpf
+project: https://github.com/qmonnet/rbpf
+tags:
+- assembler
+- bpf
+- ebpf
+- ebpf-programs
+- interpreter
+- jit-compiler
+- packet-filtering
+- rust

@@ -1,0 +1,11 @@
+---
+name: tasmocompiler
+project: https://github.com/benzino77/tasmocompiler
+tags:
+- compiler
+- esp32
+- esp8266
+- firmware
+- sonoff
+- tasmota
+- tasmota-compiler

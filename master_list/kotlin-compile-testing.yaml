@@ -1,0 +1,14 @@
+---
+name: kotlin-compile-testing
+project: https://github.com/tschuchortdev/kotlin-compile-testing
+tags:
+- annotation-processing
+- annotation-processor
+- annotation-processors
+- compile
+- compiler
+- compiler-plugin
+- kotlin
+- testing
+- testing-kotlin
+- testing-tools

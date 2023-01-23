@@ -1,0 +1,12 @@
+---
+name: scala
+website: https://www.scala-lang.org/
+project: https://github.com/scala/scala
+tags:
+- functional-programming
+- jvm-languages
+- object-oriented-programming
+- scala
+- scala-compiler
+- scala-library
+- scala-programming-language

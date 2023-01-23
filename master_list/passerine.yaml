@@ -1,0 +1,11 @@
+---
+name: passerine
+website: https://passerine.io
+project: https://github.com/vrtbl/passerine
+tags:
+- compiler
+- interpreter
+- macros
+- passerine
+- programming-language
+- vm

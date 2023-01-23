@@ -1,0 +1,10 @@
+---
+name: mlton
+website: http://mlton.org
+project: https://github.com/MLton/mlton
+tags:
+- compiler
+- functional-programming
+- mlton
+- sml
+- standard-ml

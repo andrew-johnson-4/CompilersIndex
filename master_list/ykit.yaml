@@ -1,0 +1,12 @@
+---
+name: ykit
+website: https://ykit.ymfe.org/
+project: https://github.com/YMFE/ykit
+tags:
+- build-tool
+- compiler
+- javascript
+- module-loader
+- webpack
+- ykit
+- ymfe

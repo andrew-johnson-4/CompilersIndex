@@ -1,0 +1,12 @@
+---
+name: ariadne
+website: https://crates.io/crates/ariadne
+project: https://github.com/zesterer/ariadne
+tags:
+- compiler
+- diagnostics
+- error
+- error-messages
+- error-reporting
+- parser
+- rust

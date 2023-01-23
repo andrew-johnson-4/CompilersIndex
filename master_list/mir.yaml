@@ -1,0 +1,17 @@
+---
+name: mir
+project: https://github.com/vnmakarov/mir
+tags:
+- aarch64
+- apple
+- c
+- compiler
+- intermediate-representation
+- interpreter
+- jit-compiler
+- linux
+- m1
+- macos
+- ppc64
+- s390x
+- x86-64

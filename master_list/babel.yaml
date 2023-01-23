@@ -1,7 +1,12 @@
 ---
-name: Babel
-website: https://babel.dev/
+name: babel
+website: https://babel.dev
+project: https://github.com/babel/babel
 tags:
-    - Compiler
-    - JavaScript
-    - AoT
+- ast
+- babel
+- compiler
+- es2015
+- es6
+- flavortown
+- javascript

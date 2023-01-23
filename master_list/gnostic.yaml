@@ -1,0 +1,11 @@
+---
+name: gnostic
+project: https://github.com/google/gnostic
+tags:
+- apis
+- code-generation
+- gnostic
+- linters
+- openapi
+- openapi3
+- protocol-buffers

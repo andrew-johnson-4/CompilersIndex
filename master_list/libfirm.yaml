@@ -1,0 +1,12 @@
+---
+name: libfirm
+website: http://libfirm.org
+project: https://github.com/libfirm/libfirm
+tags:
+- backend
+- c
+- compiler
+- graph
+- libfirm
+- optimization
+- ssa

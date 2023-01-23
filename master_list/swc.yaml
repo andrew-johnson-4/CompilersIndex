@@ -1,7 +1,16 @@
 ---
-name: SWC
-website: https://swc.rs/
+name: swc
+website: https://swc.rs
+project: https://github.com/swc-project/swc
 tags:
-    - Compiler
-    - JavaScript
-    - Rust
+- babel
+- compiler
+- ecmascript
+- ecmascript-parser
+- javascript
+- parser
+- rust
+- swc
+- typescript
+- typescript-compiler
+- typescript-parser

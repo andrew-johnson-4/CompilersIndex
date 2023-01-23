@@ -1,0 +1,12 @@
+---
+name: datafun
+website: http://www.rntz.net/datafun/
+project: https://github.com/rntz/datafun
+tags:
+- compiler
+- datalog
+- monotonicity
+- programming-language
+- query
+- semilattices
+- type-theory

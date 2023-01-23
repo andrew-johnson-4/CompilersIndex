@@ -1,0 +1,12 @@
+---
+name: apollo-rs
+project: https://github.com/apollographql/apollo-rs
+tags:
+- apollo
+- compiler
+- graphql
+- graphql-compiler
+- graphql-parser
+- graphql-tools
+- parser
+- rust

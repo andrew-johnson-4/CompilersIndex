@@ -1,0 +1,17 @@
+---
+name: pikelet
+website: https://pikelet-lang.github.io/pikelet/
+project: https://github.com/pikelet-lang/pikelet
+tags:
+- bidirectional-typechecking
+- compiler
+- dependent-record-types
+- dependent-records
+- dependent-types
+- programming-language
+- rust
+- systems-language
+- systems-programming
+- type-system
+- type-theory
+- typechecker

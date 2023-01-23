@@ -1,0 +1,9 @@
+---
+name: elm-platform
+project: https://github.com/elm-lang/elm-platform
+tags:
+- compiler
+- elm
+- install
+- platform
+- repl

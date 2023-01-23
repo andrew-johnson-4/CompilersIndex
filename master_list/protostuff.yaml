@@ -1,0 +1,11 @@
+---
+name: protostuff
+website: https://protostuff.github.io
+project: https://github.com/protostuff/protostuff
+tags:
+- graph
+- java
+- json
+- protobuf
+- protostuff
+- serialization

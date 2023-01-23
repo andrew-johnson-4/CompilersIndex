@@ -1,0 +1,9 @@
+---
+name: QPULib
+project: https://github.com/mn416/QPULib
+tags:
+- compiler
+- gpu
+- qpu
+- raspberry-pi
+- vector

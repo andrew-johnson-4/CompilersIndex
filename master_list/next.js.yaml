@@ -1,8 +1,19 @@
 ---
-name: Next.js
-website: https://nextjs.org/
+name: next.js
+website: https://nextjs.org
+project: https://github.com/vercel/next.js
 tags:
-    - Compiler
-    - JavaScript
-    - React
-    - Node.js
+- blog
+- browser
+- compiler
+- components
+- hybrid
+- nextjs
+- node
+- react
+- server-rendering
+- ssg
+- static
+- static-site-generator
+- universal
+- vercel

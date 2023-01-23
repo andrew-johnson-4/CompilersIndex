@@ -1,0 +1,10 @@
+---
+name: sablejs
+project: https://github.com/sablejs/sablejs
+tags:
+- compiler
+- ecma5
+- interpreter
+- javascript
+- opcode
+- sandbox

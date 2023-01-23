@@ -1,0 +1,13 @@
+---
+name: go-binsize-treemap
+project: https://github.com/nikolaydubina/go-binsize-treemap
+tags:
+- binary
+- binary-analysis
+- compiler
+- data-visualization
+- go
+- golang
+- svg
+- symtab
+- treemap

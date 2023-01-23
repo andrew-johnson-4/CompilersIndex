@@ -1,0 +1,8 @@
+---
+name: emscripten
+project: https://github.com/emscripten-core/emscripten
+tags:
+- emscripten
+- hacktoberfest
+- wasm
+- webassembly

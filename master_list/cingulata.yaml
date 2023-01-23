@@ -1,0 +1,10 @@
+---
+name: Cingulata
+project: https://github.com/CEA-LIST/Cingulata
+tags:
+- compiler
+- encryption
+- fhe
+- homomorphic-encryption
+- privacy
+- toolchain

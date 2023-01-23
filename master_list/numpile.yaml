@@ -1,0 +1,13 @@
+---
+name: numpile
+website: http://dev.stephendiehl.com/numpile/
+project: https://github.com/sdiehl/numpile
+tags:
+- compiler
+- ipython-notebook
+- jit
+- llvm-tutorial
+- numba
+- python
+- specializer
+- tutorial

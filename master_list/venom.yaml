@@ -1,0 +1,13 @@
+---
+name: venom
+project: https://github.com/r00t-3xp10it/venom
+tags:
+- compiler
+- handler
+- metasploit
+- msfvenom
+- multi-platform-payloads
+- post-exploitation
+- rat
+- reverse-tcp-shell
+- shellcode

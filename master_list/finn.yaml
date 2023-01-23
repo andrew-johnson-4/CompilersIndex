@@ -1,0 +1,10 @@
+---
+name: finn
+website: https://xilinx.github.io/finn
+project: https://github.com/Xilinx/finn
+tags:
+- compiler
+- dataflow
+- fpga
+- neural-network
+- quantization

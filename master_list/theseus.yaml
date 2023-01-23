@@ -1,0 +1,11 @@
+---
+name: Theseus
+website: https://www.theseus-os.com/
+project: https://github.com/theseus-os/Theseus
+tags:
+- intralingual
+- kernel
+- operating-system
+- research
+- rust
+- theseus

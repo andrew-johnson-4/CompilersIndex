@@ -1,7 +1,12 @@
 ---
-name: Kotlin
-website: https://kotlinlang.org/
+name: kotlin
+website: https://kotlinlang.org
+project: https://github.com/JetBrains/kotlin
 tags:
-    - Compiler
-    - Language
-    - AoT
+- compiler
+- gradle-plugin
+- intellij-plugin
+- kotlin
+- kotlin-library
+- maven-plugin
+- programming-language

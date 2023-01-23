@@ -1,0 +1,5 @@
+---
+name: homebrew-musl-cross
+website: https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/
+project: https://github.com/FiloSottile/homebrew-musl-cross
+tags:

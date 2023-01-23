@@ -1,0 +1,11 @@
+---
+name: scala-native
+website: http://scala-native.org
+project: https://github.com/scala-native/scala-native
+tags:
+- aot
+- compiler
+- llvm
+- native
+- scala
+- scala-native

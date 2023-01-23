@@ -1,0 +1,9 @@
+---
+name: xla
+website: https://pytorch.org/xla/release/1.13/index.html
+project: https://github.com/pytorch/xla
+tags:
+- compiler
+- deep-learning
+- pytorch
+- xla

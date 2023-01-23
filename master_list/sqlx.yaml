@@ -1,0 +1,14 @@
+---
+name: sqlx
+project: https://github.com/launchbadge/sqlx
+tags:
+- async
+- await
+- mariadb
+- mssql
+- mysql
+- postgres
+- postgresql
+- rust
+- sql
+- sqlite

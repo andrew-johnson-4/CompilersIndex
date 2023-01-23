@@ -1,0 +1,19 @@
+---
+name: ShaderConductor
+project: https://github.com/microsoft/ShaderConductor
+tags:
+- compiler
+- d3d10
+- d3d11
+- d3d12
+- d3d9
+- dxil
+- glsl
+- graphics
+- hlsl
+- metal
+- opengl
+- opengl-es
+- shader
+- spir-v
+- vulkan

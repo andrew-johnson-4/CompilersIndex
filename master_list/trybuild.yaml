@@ -1,0 +1,4 @@
+---
+name: trybuild
+project: https://github.com/dtolnay/trybuild
+tags:

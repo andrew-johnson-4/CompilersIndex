@@ -1,0 +1,9 @@
+---
+name: askama
+project: https://github.com/djc/askama
+tags:
+- custom-derive
+- jinja2
+- rust
+- rust-library
+- templating

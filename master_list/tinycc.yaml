@@ -1,0 +1,10 @@
+---
+name: tinycc
+website: http://repo.or.cz/w/tinycc.git
+project: https://github.com/TinyCC/tinycc
+tags:
+- c
+- compiler
+- jit
+- tcc
+- tinycc

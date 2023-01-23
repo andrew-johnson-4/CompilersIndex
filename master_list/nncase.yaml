@@ -1,0 +1,9 @@
+---
+name: nncase
+project: https://github.com/kendryte/nncase
+tags:
+- deep-learning
+- k210
+- k510
+- kendryte
+- neural-network

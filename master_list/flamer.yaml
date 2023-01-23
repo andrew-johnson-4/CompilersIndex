@@ -1,0 +1,8 @@
+---
+name: flamer
+project: https://github.com/llogiq/flamer
+tags:
+- flamegraphs
+- hacktoberfest
+- instrumentation
+- rust

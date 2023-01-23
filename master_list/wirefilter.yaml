@@ -1,0 +1,13 @@
+---
+name: wirefilter
+website: https://blog.cloudflare.com/building-fast-interpreters-in-rust/
+project: https://github.com/cloudflare/wirefilter
+tags:
+- compiler
+- engine
+- filters
+- firewall
+- firewall-configuration
+- firewall-rules
+- rust
+- wireshark

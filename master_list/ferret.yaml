@@ -1,0 +1,15 @@
+---
+name: ferret
+website: https://ferret-lang.org
+project: https://github.com/nakkaya/ferret
+tags:
+- arduino
+- arm
+- atmega
+- bare-metal
+- clojure
+- compiler
+- embedded-systems
+- lisp
+- microcontroller
+- teensy

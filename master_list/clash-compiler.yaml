@@ -1,0 +1,12 @@
+---
+name: clash-compiler
+website: https://clash-lang.org/
+project: https://github.com/clash-lang/clash-compiler
+tags:
+- asic
+- fpga
+- hardware-description-language
+- haskell
+- systemverilog
+- verilog
+- vhdl

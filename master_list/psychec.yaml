@@ -1,0 +1,16 @@
+---
+name: psychec
+project: https://github.com/ltcmelo/psychec
+tags:
+- c
+- c-language
+- clanguage
+- compiler
+- compiler-frontend
+- language-semantics
+- parser
+- parsing
+- parsing-library
+- program-analysis
+- static-analysis
+- type-inference

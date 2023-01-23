@@ -1,0 +1,11 @@
+---
+name: FFmpeg-Android
+website: https://bravobit.nl/
+project: https://github.com/bravobit/FFmpeg-Android
+tags:
+- android-library
+- armv7
+- ffmpeg
+- ffmpeg-android
+- ffprobe
+- x86

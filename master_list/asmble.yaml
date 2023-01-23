@@ -1,0 +1,7 @@
+---
+name: asmble
+project: https://github.com/cretz/asmble
+tags:
+- jvm
+- wasm
+- webassembly

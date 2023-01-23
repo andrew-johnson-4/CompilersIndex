@@ -1,0 +1,8 @@
+---
+name: kivy-ios
+website: https://kivy.org/docs/guide/packaging-ios.html
+project: https://github.com/kivy/kivy-ios
+tags:
+- ios
+- packaging
+- python

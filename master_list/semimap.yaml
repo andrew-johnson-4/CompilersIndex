@@ -1,0 +1,9 @@
+---
+name: semimap
+website: https://www.youtube.com/watch?v=qNAbGpV1ZkU
+project: https://github.com/hogliux/semimap
+tags:
+- compile-time
+- constexpr
+- containers
+- hashmap

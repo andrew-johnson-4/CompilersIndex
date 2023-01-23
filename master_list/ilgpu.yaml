@@ -1,0 +1,23 @@
+---
+name: ILGPU
+website: http://www.ilgpu.net
+project: https://github.com/m4rs-mt/ILGPU
+tags:
+- amd
+- cil
+- compiler
+- cpu
+- cuda
+- dotnet
+- gpgpu
+- gpgpu-computing
+- gpu
+- ilgpu
+- intel
+- jit
+- kernels
+- msil
+- nvidia
+- opencl
+- parallel
+- ptx

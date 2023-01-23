@@ -1,0 +1,9 @@
+---
+name: pavex
+project: https://github.com/LukeMathWalker/pavex
+tags:
+- backend
+- compiler
+- framework
+- rust
+- web

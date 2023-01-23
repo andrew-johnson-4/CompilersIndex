@@ -1,0 +1,14 @@
+---
+name: vult
+website: https://vult-dsp.github.io/vult
+project: https://github.com/vult-dsp/vult
+tags:
+- audio-effect
+- compiler
+- dsp
+- microcontroller
+- ocaml
+- puredata
+- synthesizer
+- vult
+- webaudio

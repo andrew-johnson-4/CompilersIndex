@@ -1,0 +1,10 @@
+---
+name: glslcc
+project: https://github.com/septag/glslcc
+tags:
+- glsl
+- hlsl
+- msl
+- spirv-cross
+- toolset
+- transcompiler

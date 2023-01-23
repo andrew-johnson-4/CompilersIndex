@@ -1,0 +1,13 @@
+---
+name: gcem
+website: https://gcem.readthedocs.io/en/latest/
+project: https://github.com/kthohr/gcem
+tags:
+- constexpr
+- cpp
+- cpp11
+- cpp14
+- cpp17
+- expression-math
+- math
+- special-functions

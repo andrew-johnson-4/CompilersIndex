@@ -1,0 +1,14 @@
+---
+name: ChrysaLisp
+project: https://github.com/vygr/ChrysaLisp
+tags:
+- aarch64
+- assembly
+- gui
+- linux
+- lisp
+- os
+- osx
+- raspberry-pi-3
+- vm
+- x86-64

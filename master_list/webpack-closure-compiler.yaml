@@ -1,0 +1,8 @@
+---
+name: webpack-closure-compiler
+project: https://github.com/roman01la/webpack-closure-compiler
+tags:
+- closure-compiler
+- optimization
+- tree-shaking
+- webpack-closure-compiler

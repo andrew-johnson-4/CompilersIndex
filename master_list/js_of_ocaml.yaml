@@ -1,0 +1,10 @@
+---
+name: js_of_ocaml
+website: http://ocsigen.org/js_of_ocaml/
+project: https://github.com/ocsigen/js_of_ocaml
+tags:
+- compiler
+- javascript
+- jsoo
+- ocaml
+- ocsigen

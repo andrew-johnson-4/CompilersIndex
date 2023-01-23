@@ -1,0 +1,12 @@
+---
+name: Halide
+website: https://halide-lang.org
+project: https://github.com/halide/Halide
+tags:
+- compiler
+- dsl
+- gpu
+- halide
+- hexagon
+- image-processing
+- performance

@@ -1,0 +1,12 @@
+---
+name: caramel
+website: https://caramel.run
+project: https://github.com/AbstractMachinesLab/caramel
+tags:
+- caramel
+- compiler
+- elixir
+- erlang
+- functional-language
+- ocaml
+- type-safe

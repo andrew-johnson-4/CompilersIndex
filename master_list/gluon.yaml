@@ -1,0 +1,14 @@
+---
+name: gluon
+website: https://gluon-lang.org
+project: https://github.com/gluon-lang/gluon
+tags:
+- compiler
+- embeddable
+- functional
+- gluon
+- language
+- programming-language
+- repl
+- rust
+- type-inference

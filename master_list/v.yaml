@@ -1,7 +1,10 @@
 ---
-name: V
-website: https://vlang.io/
+name: v
+project: https://github.com/vlang/v
 tags:
-    - Compiler
-    - Language
-    - AoT
+- compiler
+- hacktoberfest
+- hacktoberfest-accepted
+- language
+- programming-language
+- v

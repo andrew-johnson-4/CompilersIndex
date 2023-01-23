@@ -1,7 +1,8 @@
 ---
-name: Zig
-website: https://ziglang.org/
+name: zig
+website: https://ziglang.org
+project: https://github.com/ziglang/zig
 tags:
-    - Compiler
-    - Language
-    - AoT
+- compiler
+- language
+- zig

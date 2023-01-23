@@ -1,0 +1,23 @@
+---
+name: libfsm
+project: https://github.com/katef/libfsm
+tags:
+- automata
+- compiler
+- compiler-principles
+- compilers
+- dfa
+- finite-state-automata
+- finite-state-machine
+- finite-state-machines
+- fsm
+- lex
+- lexer
+- lexer-generator
+- lexical-analysis
+- lexing
+- nfa
+- regex
+- regex-validator
+- regexes
+- regexp

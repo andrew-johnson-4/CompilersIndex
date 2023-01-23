@@ -1,0 +1,17 @@
+---
+name: OpenCV-MinGW-Build
+website: https://opencv.org/
+project: https://github.com/huihut/OpenCV-MinGW-Build
+tags:
+- build
+- cmake
+- codeblocks
+- dll
+- mingw
+- mingw32
+- opencv
+- opencv-contrib
+- opencv-library
+- opencv-mingw
+- qt
+- windows

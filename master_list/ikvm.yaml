@@ -1,0 +1,17 @@
+---
+name: ikvm
+project: https://github.com/ikvm-revived/ikvm
+tags:
+- bytecode-converter
+- compiler
+- converter
+- dotnet
+- java
+- java-se
+- java-virtual-machine
+- jdk
+- jre
+- jvm
+- machine
+- openjdk
+- virtual

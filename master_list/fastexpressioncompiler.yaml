@@ -1,0 +1,13 @@
+---
+name: FastExpressionCompiler
+project: https://github.com/dadhi/FastExpressionCompiler
+tags:
+- benchmark
+- closure
+- compiler
+- delegate
+- delegates
+- dryioc
+- expression-tree
+- il-optimizations
+- performance

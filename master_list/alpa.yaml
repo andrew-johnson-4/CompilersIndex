@@ -1,0 +1,15 @@
+---
+name: alpa
+website: https://alpa.ai
+project: https://github.com/alpa-projects/alpa
+tags:
+- alpa
+- auto-parallelization
+- compiler
+- deep-learning
+- distributed-computing
+- distributed-training
+- high-performance-computing
+- jax
+- llm
+- machine-learning

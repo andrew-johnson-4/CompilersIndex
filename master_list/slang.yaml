@@ -1,0 +1,10 @@
+---
+name: slang
+project: https://github.com/MikePopoloski/slang
+tags:
+- compiler
+- language-service
+- parse
+- slang
+- systemverilog
+- verilog

@@ -1,0 +1,10 @@
+---
+name: tinyrb
+website: http://code.macournoyer.com/tinyrb/
+project: https://github.com/macournoyer/tinyrb
+tags:
+- bytecode
+- compiler
+- language
+- parser
+- vm

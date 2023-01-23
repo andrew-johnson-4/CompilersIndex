@@ -1,0 +1,15 @@
+---
+name: packem
+website: https://packem.github.io/
+project: https://github.com/packem/packem
+tags:
+- build-tool
+- bundler
+- code-splitting
+- compiler
+- javascript
+- minify
+- packem
+- plugin
+- prebuilt-binaries
+- rust

@@ -1,0 +1,10 @@
+---
+name: intellij-java2smali
+project: https://github.com/ollide/intellij-java2smali
+tags:
+- android-development
+- android-studio-plugin
+- dex
+- idea-plugin
+- java
+- smali

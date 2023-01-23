@@ -1,7 +1,9 @@
 ---
-name: Rust
-website: https://www.rust-lang.org/
+name: rust
+website: https://www.rust-lang.org
+project: https://github.com/rust-lang/rust
 tags:
-    - Compiler
-    - AoT
-    - Language
+- compiler
+- hacktoberfest
+- language
+- rust

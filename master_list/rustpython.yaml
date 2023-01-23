@@ -1,10 +1,14 @@
 ---
 name: RustPython
-website: https://github.com/RustPython/RustPython
+website: https://rustpython.github.io
+project: https://github.com/RustPython/RustPython
 tags:
-    - Python
-    - Rust
-    - Compiler
-    - JIT
-    - Interpreter
-    - WASM
+- compiler
+- hacktoberfest
+- interpreter
+- jit
+- language
+- python-language
+- python3
+- rust
+- wasm

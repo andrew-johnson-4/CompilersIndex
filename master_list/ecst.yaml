@@ -1,0 +1,14 @@
+---
+name: ecst
+website: http://vittorioromeo.info
+project: https://github.com/vittorioromeo/ecst
+tags:
+- cpp
+- cpp11
+- cpp14
+- entity
+- entity-component
+- generic
+- library
+- parallel
+- thesis

@@ -1,8 +1,10 @@
 ---
-name: AssemblyScript
-website: https://www.assemblyscript.org/
+name: assemblyscript
+website: https://www.assemblyscript.org
+project: https://github.com/AssemblyScript/assemblyscript
 tags:
-    - Compiler
-    - TypeScript
-    - WASM
-    - AoT
+- assemblyscript
+- compiler
+- typescript
+- wasm
+- webassembly

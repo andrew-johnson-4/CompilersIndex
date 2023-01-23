@@ -1,0 +1,9 @@
+---
+name: luafun
+website: https://luafun.github.io/
+project: https://github.com/luafun/luafun
+tags:
+- functional-programming
+- lua
+- luajit
+- luarocks

@@ -1,0 +1,13 @@
+---
+name: fsharp
+website: https://dotnet.microsoft.com/languages/fsharp
+project: https://github.com/dotnet/fsharp
+tags:
+- compiler
+- dotnet
+- fsharp
+- functional-programming
+- intellisense
+- netcore
+- tools
+- visual-studio

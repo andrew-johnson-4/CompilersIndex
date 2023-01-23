@@ -1,0 +1,9 @@
+---
+name: glsl-optimizer
+project: https://github.com/aras-p/glsl-optimizer
+tags:
+- cross-compiler
+- glsl
+- metal
+- optimizer
+- shaders

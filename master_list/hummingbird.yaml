@@ -1,0 +1,9 @@
+---
+name: hummingbird
+project: https://github.com/microsoft/hummingbird
+tags:
+- machine-learning
+- neural-networks
+- pytorch
+- scikit-learn
+- tensor-computation

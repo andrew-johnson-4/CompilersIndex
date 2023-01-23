@@ -1,0 +1,8 @@
+---
+name: cargo-ndk
+project: https://github.com/bbqsrc/cargo-ndk
+tags:
+- android
+- cargo
+- ndk
+- rust

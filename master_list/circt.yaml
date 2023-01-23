@@ -1,0 +1,8 @@
+---
+name: circt
+website: https://circt.org
+project: https://github.com/llvm/circt
+tags:
+- circt
+- llvm
+- mlir

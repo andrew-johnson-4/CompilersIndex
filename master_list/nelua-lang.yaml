@@ -1,0 +1,16 @@
+---
+name: nelua-lang
+website: https://nelua.io
+project: https://github.com/edubart/nelua-lang
+tags:
+- c
+- compiler
+- efficient
+- language
+- lua
+- luajit
+- metaprogramming
+- minimal
+- nelua
+- programming-language
+- statically-typed

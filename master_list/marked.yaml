@@ -1,7 +1,11 @@
 ---
-name: Marked
-website: https://marked.js.org/
+name: marked
+website: https://marked.js.org
+project: https://github.com/markedjs/marked
 tags:
-    - Compiler
-    - Markdown
-    - AoT
+- commonmark
+- compiler
+- gfm
+- hacktoberfest
+- markdown
+- parser

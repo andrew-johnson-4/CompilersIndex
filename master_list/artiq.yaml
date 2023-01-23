@@ -1,0 +1,12 @@
+---
+name: artiq
+website: https://m-labs.hk/artiq
+project: https://github.com/m-labs/artiq
+tags:
+- compiler
+- physics
+- python
+- qt
+- quantum-computing
+- rust
+- science

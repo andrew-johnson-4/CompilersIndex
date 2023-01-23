@@ -1,0 +1,11 @@
+---
+name: hy
+website: http://hylang.org/
+project: https://github.com/hylang/hy
+tags:
+- compiler
+- hy
+- lisps
+- macros
+- metaprogramming
+- python

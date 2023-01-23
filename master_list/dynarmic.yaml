@@ -1,0 +1,11 @@
+---
+name: dynarmic
+project: https://github.com/merryhime/dynarmic
+tags:
+- arm
+- compiler
+- cpp17
+- emulation
+- jit
+- runtime-compilation
+- x86-64

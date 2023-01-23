@@ -1,0 +1,15 @@
+---
+name: futhark
+website: http://futhark-lang.org
+project: https://github.com/diku-dk/futhark
+tags:
+- boom
+- compiler
+- cuda
+- futhark
+- gpgpu
+- gpu
+- hacktoberfest
+- hpc
+- language
+- opencl
