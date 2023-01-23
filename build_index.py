@@ -1,22 +1,40 @@
 import os
-from ghapi.all import GhApi
-api = GhApi()
+import yaml
 
-for page in range(0,40):
-    res = api.search.repos(q="compiler",sort="stars",order="desc",page=str(page))
-    for item in res["items"]:
-        name = item["name"]
-        url = item["homepage"]
-        html_url = item["html_url"]
-        stars = item["stargazers_count"]
-        topics = item["topics"]
-        filename = "master_list/" + name.lower().replace(" ","_") + ".yaml"
-        fp = open(filename,"w")
-        fp.write("---\n")
-        fp.write("name: " + name + "\n")
-        if url:
-            fp.write("website: " + url + "\n")
-        fp.write("project: " + html_url + "\n")
-        fp.write("tags:\n")
-        for tag in topics:
-            fp.write("- " + tag + "\n")
+indices = {}
+
+for filename in os.listdir("master_list"):
+    if not filename.endswith(".yaml"):
+        continue
+    o = yaml.load(open("master_list/"+filename).read())
+    name = o["name"]
+    if "project" in o:
+        url = o["project"]
+    elif "website" in o:
+        url = o["website"]
+    else:
+        continue
+    if not o["tags"]:
+        continue
+    for t in o["tags"]:
+        if t not in indices:
+            indices[t] = []
+        indices[t].append((name, url))
+
+for key in indices:
+    skey = str(key)
+    if not os.path.exists(skey):
+        os.mkdir(skey)
+    f = open(skey + "/README.md", "w")
+    f.write("# " + skey + "\n\n")
+    for (name,url) in indices[key]:
+        f.write("[" + skey + "](" + url + ")\n")
+
+home = open("README.md","w")
+home.write("# Compilers Index\n")
+home.write("A manually curated list of Open Source compilers and infrastructure components. ")
+home.write("This project is an evolution of my personal star/list usage patterns on Github.\n\n")
+
+for key in indices:
+    skey = str(key)
+    home.write("[" + skey + "](https://github.com/andrew-johnson-4/CompilersIndex/tree/main/" + skey + "#readme)\n")

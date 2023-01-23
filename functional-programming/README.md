@@ -1,0 +1,17 @@
+# functional-programming
+
+[functional-programming](https://github.com/mlochbaum/BQN)
+[functional-programming](https://github.com/clio-lang/clio)
+[functional-programming](https://github.com/evhub/coconut)
+[functional-programming](https://github.com/grame-cncm/faust)
+[functional-programming](https://github.com/felix-lang/felix)
+[functional-programming](https://github.com/dotnet/fsharp)
+[functional-programming](https://github.com/grain-lang/grain)
+[functional-programming](https://github.com/grin-compiler/grin)
+[functional-programming](https://github.com/apache/groovy)
+[functional-programming](https://github.com/jank-lang/jank)
+[functional-programming](https://github.com/luafun/luafun)
+[functional-programming](https://github.com/MLton/mlton)
+[functional-programming](https://github.com/ring-lang/ring)
+[functional-programming](https://github.com/scala/scala)
+[functional-programming](https://github.com/sdiehl/write-you-a-haskell)
