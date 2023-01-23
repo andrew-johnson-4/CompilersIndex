@@ -1,7 +1,0 @@
----
-name: sericum
-project: https://github.com/maekawatoshiki/sericum
-tags:
-- compiler
-- llvm
-- rust

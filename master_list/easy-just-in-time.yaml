@@ -1,7 +1,0 @@
----
-name: easy-just-in-time
-project: https://github.com/jmmartinez/easy-just-in-time
-tags:
-- cpp
-- jit
-- llvm

@@ -1,8 +1,0 @@
----
-name: asterius
-project: https://github.com/tweag/asterius
-tags:
-- compiler
-- ghc
-- haskell
-- webassembly

@@ -1,9 +1,0 @@
----
-name: castl
-project: https://github.com/PaulBernier/castl
-tags:
-- colony
-- javascript
-- lua
-- luajit
-- transpiler

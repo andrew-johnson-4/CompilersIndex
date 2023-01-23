@@ -1,9 +1,0 @@
----
-name: flow-to-typescript
-project: https://github.com/bcherny/flow-to-typescript
-tags:
-- compiler
-- flow
-- flowtype
-- javascript
-- typescript

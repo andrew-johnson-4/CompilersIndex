@@ -1,8 +1,0 @@
----
-name: eslisp
-project: https://github.com/anko/eslisp
-tags:
-- compiler
-- javascript
-- lisp
-- macro

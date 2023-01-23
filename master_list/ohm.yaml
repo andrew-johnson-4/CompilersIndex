@@ -1,7 +1,0 @@
----
-name: ohm
-project: https://github.com/harc/ohm
-tags:
-- grammars
-- parsing
-- peg

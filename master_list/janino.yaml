@@ -1,9 +1,0 @@
----
-name: janino
-website: http://janino-compiler.github.io/janino
-project: https://github.com/janino-compiler/janino
-tags:
-- compiler
-- in-memory-java-compiler
-- janino
-- java-compiler

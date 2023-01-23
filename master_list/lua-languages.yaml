@@ -1,8 +1,0 @@
----
-name: lua-languages
-project: https://github.com/hengestone/lua-languages
-tags:
-- javascript-transpiler
-- lisp
-- lua
-- lua-language

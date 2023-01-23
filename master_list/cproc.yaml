@@ -1,9 +1,0 @@
----
-name: cproc
-website: https://sr.ht/~mcf/cproc
-project: https://github.com/michaelforney/cproc
-tags:
-- c
-- compiler
-- qbe
-- unix

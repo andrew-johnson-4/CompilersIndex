@@ -1,9 +1,0 @@
----
-name: TurboScript
-project: https://github.com/01alchemist/TurboScript
-tags:
-- compiler
-- javascript
-- parallel-computing
-- typescript
-- webassembly

@@ -1,9 +1,0 @@
----
-name: raytracer.hpp
-project: https://github.com/tcbrindle/raytracer.hpp
-tags:
-- c-plus-plus
-- c-plus-plus-17
-- compile-time
-- raytracer
-- raytracing

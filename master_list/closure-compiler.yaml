@@ -1,9 +1,0 @@
----
-name: closure-compiler
-website: https://developers.google.com/closure/compiler/
-project: https://github.com/google/closure-compiler
-tags:
-- closure-compiler
-- javascript
-- optimization
-- typechecking

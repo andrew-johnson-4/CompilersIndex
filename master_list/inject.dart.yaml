@@ -1,7 +1,0 @@
----
-name: inject.dart
-project: https://github.com/google/inject.dart
-tags:
-- dart
-- dependency-injection
-- flutter

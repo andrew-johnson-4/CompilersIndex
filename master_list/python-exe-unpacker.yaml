@@ -1,6 +1,0 @@
----
-name: python-exe-unpacker
-project: https://github.com/WithSecureLabs/python-exe-unpacker
-tags:
-- countercept
-- unpacker

@@ -1,9 +1,0 @@
----
-name: rlsl
-project: https://github.com/MaikKlein/rlsl
-tags:
-- gamedev
-- rust
-- shader
-- spir-v
-- vulkan

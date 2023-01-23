@@ -1,7 +1,0 @@
----
-name: circular-dependency-plugin
-website: https://www.npmjs.com/package/circular-dependency-plugin
-project: https://github.com/aackerman/circular-dependency-plugin
-tags:
-- javascript
-- webpack

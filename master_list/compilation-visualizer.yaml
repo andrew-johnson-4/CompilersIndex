@@ -1,8 +1,0 @@
----
-name: compilation-visualizer
-project: https://github.com/needle-tools/compilation-visualizer
-tags:
-- assembly
-- compact
-- compilation-visualizer
-- unity

@@ -1,7 +1,0 @@
----
-name: cocoapods-binary
-project: https://github.com/leavez/cocoapods-binary
-tags:
-- cocoapods
-- cocoapods-plugin
-- compile-time

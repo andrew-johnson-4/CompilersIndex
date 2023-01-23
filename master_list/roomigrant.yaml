@@ -1,8 +1,0 @@
----
-name: Roomigrant
-project: https://github.com/MatrixDev/Roomigrant
-tags:
-- android
-- database
-- migration
-- room-library

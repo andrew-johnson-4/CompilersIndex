@@ -1,8 +1,0 @@
----
-name: vscode-linux-kernel
-project: https://github.com/amezin/vscode-linux-kernel
-tags:
-- kernel
-- linux-kernel
-- visual-studio-code
-- vscode

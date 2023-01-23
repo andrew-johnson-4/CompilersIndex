@@ -1,9 +1,0 @@
----
-name: rustc-dev-guide
-website: https://rustc-dev-guide.rust-lang.org
-project: https://github.com/rust-lang/rustc-dev-guide
-tags:
-- compiler
-- contributing
-- rust
-- rustc

@@ -1,7 +1,0 @@
----
-name: liblucy
-website: https://lucylang.org/
-project: https://github.com/lucydsl/liblucy
-tags:
-- lucy
-- xstate

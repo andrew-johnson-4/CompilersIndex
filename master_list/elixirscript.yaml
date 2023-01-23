@@ -1,9 +1,0 @@
----
-name: elixirscript
-website: https://elixirscript.github.io/
-project: https://github.com/elixirscript/elixirscript
-tags:
-- compiler
-- elixir
-- javascript
-- transpiler

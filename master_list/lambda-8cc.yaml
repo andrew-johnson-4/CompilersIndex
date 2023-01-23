@@ -1,8 +1,0 @@
----
-name: lambda-8cc
-project: https://github.com/woodrush/lambda-8cc
-tags:
-- c
-- c-compiler
-- lambda-calculus
-- ski-combinator-calculus

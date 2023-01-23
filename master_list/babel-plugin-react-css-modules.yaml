@@ -1,7 +1,0 @@
----
-name: babel-plugin-react-css-modules
-project: https://github.com/gajus/babel-plugin-react-css-modules
-tags:
-- babel-plugin
-- css-modules
-- react

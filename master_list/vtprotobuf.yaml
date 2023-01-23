@@ -1,9 +1,0 @@
----
-name: vtprotobuf
-project: https://github.com/planetscale/vtprotobuf
-tags:
-- codegen
-- go
-- grpc
-- protobuf
-- vitess

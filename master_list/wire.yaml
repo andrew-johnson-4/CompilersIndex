@@ -1,9 +1,0 @@
----
-name: wire
-project: https://github.com/google/wire
-tags:
-- codegen
-- dependency-injection
-- go
-- golang
-- initialization

@@ -1,8 +1,0 @@
----
-name: walt
-website: https://ballercat.github.io/walt/
-project: https://github.com/ballercat/walt
-tags:
-- compiler
-- javascript
-- webassembly

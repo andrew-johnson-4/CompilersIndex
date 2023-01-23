@@ -1,8 +1,0 @@
----
-name: kaitai_struct_compiler
-website: http://kaitai.io/
-project: https://github.com/kaitai-io/kaitai_struct_compiler
-tags:
-- compiler
-- kaitai-struct
-- scala

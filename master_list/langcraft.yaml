@@ -1,7 +1,0 @@
----
-name: langcraft
-project: https://github.com/SuperTails/langcraft
-tags:
-- compiler
-- llvm
-- minecraft

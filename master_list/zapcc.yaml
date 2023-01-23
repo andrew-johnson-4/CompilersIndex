@@ -1,8 +1,0 @@
----
-name: zapcc
-project: https://github.com/yrnkrn/zapcc
-tags:
-- c-plus-plus
-- clang
-- llvm
-- precompiled-headers

@@ -1,7 +1,0 @@
----
-name: sbcl
-website: https://www.sbcl.org
-project: https://github.com/sbcl/sbcl
-tags:
-- common-lisp
-- compiler

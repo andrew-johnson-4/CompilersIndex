@@ -1,8 +1,0 @@
----
-name: wean
-website: https://wean.deno.dev
-project: https://github.com/ctripcorp/wean
-tags:
-- bundler
-- miniprogram
-- webpack-wean

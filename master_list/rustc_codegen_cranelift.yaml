@@ -1,9 +1,0 @@
----
-name: rustc_codegen_cranelift
-project: https://github.com/bjorn3/rustc_codegen_cranelift
-tags:
-- aot
-- compiler
-- cranelift
-- jit
-- rust

@@ -1,8 +1,0 @@
----
-name: see-phit
-project: https://github.com/rep-movsd/see-phit
-tags:
-- constexpr
-- cpp14
-- html
-- parsing

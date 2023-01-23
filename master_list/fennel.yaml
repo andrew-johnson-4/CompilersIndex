@@ -1,9 +1,0 @@
----
-name: Fennel
-website: https://fennel-lang.org
-project: https://github.com/bakpakin/Fennel
-tags:
-- compiler
-- language
-- lisp
-- lua

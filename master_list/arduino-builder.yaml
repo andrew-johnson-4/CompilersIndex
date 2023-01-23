@@ -1,8 +1,0 @@
----
-name: arduino-builder
-project: https://github.com/arduino/arduino-builder
-tags:
-- arduino
-- command-line
-- golang
-- tooling-team

@@ -1,9 +1,0 @@
----
-name: scala-js
-website: https://www.scala-js.org/
-project: https://github.com/scala-js/scala-js
-tags:
-- compiler
-- javascript-compiler
-- language
-- scala

@@ -1,7 +1,0 @@
----
-name: rust-cross
-project: https://github.com/japaric/rust-cross
-tags:
-- cross-compilation
-- how-to
-- rust

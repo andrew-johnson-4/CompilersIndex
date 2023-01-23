@@ -1,8 +1,0 @@
----
-name: nlvm
-project: https://github.com/arnetheduck/nlvm
-tags:
-- compiler
-- language
-- llvm
-- nim

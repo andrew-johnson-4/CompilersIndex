@@ -1,7 +1,0 @@
----
-name: arocc
-project: https://github.com/Vexu/arocc
-tags:
-- c
-- compiler
-- zig

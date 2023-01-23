@@ -1,9 +1,0 @@
----
-name: rollup-plugin-typescript2
-project: https://github.com/ezolenko/rollup-plugin-typescript2
-tags:
-- rollup
-- rollup-plugin
-- rollup-plugin-typescript
-- rollup-plugin-typescript2
-- typescript

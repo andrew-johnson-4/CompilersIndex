@@ -1,7 +1,0 @@
----
-name: torch-mlir
-project: https://github.com/llvm/torch-mlir
-tags:
-- compiler
-- mlir
-- pytorch

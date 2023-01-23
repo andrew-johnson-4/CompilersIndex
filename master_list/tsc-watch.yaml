@@ -1,9 +1,0 @@
----
-name: tsc-watch
-project: https://github.com/gilamran/tsc-watch
-tags:
-- nodemon
-- onchange
-- tsc
-- typescript
-- watch

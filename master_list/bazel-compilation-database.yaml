@@ -1,7 +1,0 @@
----
-name: bazel-compilation-database
-project: https://github.com/grailbio/bazel-compilation-database
-tags:
-- bazel
-- clang
-- compilation-database

@@ -1,9 +1,0 @@
----
-name: quilc
-project: https://github.com/quil-lang/quilc
-tags:
-- common-lisp
-- compiler
-- forest
-- quantum-computing
-- quil

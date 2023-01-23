@@ -1,7 +1,0 @@
----
-name: error-prone
-website: https://errorprone.info
-project: https://github.com/google/error-prone
-tags:
-- java
-- static-analysis

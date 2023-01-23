@@ -1,8 +1,0 @@
----
-name: anvil
-project: https://github.com/square/anvil
-tags:
-- dagger2
-- dagger2-android
-- kotlin
-- kotlin-compiler-plugin

@@ -1,8 +1,0 @@
----
-name: austral
-website: https://austral-lang.org/
-project: https://github.com/austral/austral
-tags:
-- capabilities
-- compiler
-- linear-types

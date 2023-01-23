@@ -1,8 +1,0 @@
----
-name: dcc
-project: https://github.com/amimo/dcc
-tags:
-- compiler
-- dalvik
-- java2c
-- obfuscator

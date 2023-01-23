@@ -1,8 +1,0 @@
----
-name: vue-compiler
-project: https://github.com/HerringtonDarkholme/vue-compiler
-tags:
-- compiler
-- rust
-- vue
-- vuejs

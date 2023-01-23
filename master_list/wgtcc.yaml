@@ -1,9 +1,0 @@
----
-name: wgtcc
-project: https://github.com/wgtdkp/wgtcc
-tags:
-- assembly
-- c11
-- compilers
-- cpp11
-- preprocessor

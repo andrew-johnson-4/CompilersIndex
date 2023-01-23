@@ -1,9 +1,0 @@
----
-name: rust
-website: https://www.rust-lang.org
-project: https://github.com/rust-lang/rust
-tags:
-- compiler
-- hacktoberfest
-- language
-- rust

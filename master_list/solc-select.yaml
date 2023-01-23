@@ -1,6 +1,0 @@
----
-name: solc-select
-project: https://github.com/crytic/solc-select
-tags:
-- ethereum
-- solidity

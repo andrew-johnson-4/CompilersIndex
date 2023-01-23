@@ -1,8 +1,0 @@
----
-name: acwj
-project: https://github.com/DoctorWkt/acwj
-tags:
-- c
-- compiler
-- lexical-analysis
-- parsing

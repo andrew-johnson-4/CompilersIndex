@@ -1,8 +1,0 @@
----
-name: luago-book
-project: https://github.com/zxh0/luago-book
-tags:
-- compiler
-- golang
-- lua
-- vm

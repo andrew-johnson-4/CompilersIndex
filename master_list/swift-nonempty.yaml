@@ -1,9 +1,0 @@
----
-name: swift-nonempty
-website: https://www.pointfree.co/episodes/ep20-nonempty
-project: https://github.com/pointfreeco/swift-nonempty
-tags:
-- collections
-- conditional-conformance
-- swift
-- type-safety

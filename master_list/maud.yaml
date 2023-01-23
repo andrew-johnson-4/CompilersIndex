@@ -1,8 +1,0 @@
----
-name: maud
-website: https://maud.lambda.xyz
-project: https://github.com/lambda-fairy/maud
-tags:
-- macro
-- rust
-- template-engine

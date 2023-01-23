@@ -1,7 +1,0 @@
----
-name: gopher-lua
-project: https://github.com/yuin/gopher-lua
-tags:
-- go
-- gopher-lua
-- lua

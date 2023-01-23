@@ -1,8 +1,0 @@
----
-name: tl
-project: https://github.com/teal-language/tl
-tags:
-- compiler
-- lua
-- teal
-- type-checking

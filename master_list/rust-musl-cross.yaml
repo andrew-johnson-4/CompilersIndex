@@ -1,8 +1,0 @@
----
-name: rust-musl-cross
-project: https://github.com/rust-cross/rust-musl-cross
-tags:
-- docker-image
-- musl-cross
-- musl-libc
-- rust

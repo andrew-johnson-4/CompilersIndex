@@ -1,9 +1,0 @@
----
-name: gopherjs
-project: https://github.com/gopherjs/gopherjs
-tags:
-- compiler
-- go
-- golang
-- hacktoberfest
-- javascript

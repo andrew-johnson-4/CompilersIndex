@@ -1,8 +1,0 @@
----
-name: cl-python
-website: http://common-lisp.net/project/clpython/
-project: https://github.com/metawilm/cl-python
-tags:
-- common-lisp
-- compiler
-- python

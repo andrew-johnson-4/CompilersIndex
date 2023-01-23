@@ -1,7 +1,0 @@
----
-name: hobbes
-website: http://hobbes.readthedocs.io/
-project: https://github.com/morganstanley/hobbes
-tags:
-- haskell-application
-- hobbes

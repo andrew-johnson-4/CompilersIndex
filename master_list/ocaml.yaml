@@ -1,8 +1,0 @@
----
-name: ocaml
-website: https://ocaml.org
-project: https://github.com/ocaml/ocaml
-tags:
-- compiler
-- functional-language
-- ocaml

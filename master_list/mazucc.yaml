@@ -1,9 +1,0 @@
----
-name: MazuCC
-project: https://github.com/jserv/MazuCC
-tags:
-- c
-- compiler
-- gcc-complier
-- gnu
-- x86-64

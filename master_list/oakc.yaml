@@ -1,8 +1,0 @@
----
-name: oakc
-project: https://github.com/adam-mcdaniel/oakc
-tags:
-- c
-- compiler
-- compiler-design
-- golang

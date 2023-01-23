@@ -1,8 +1,0 @@
----
-name: LLVMSwift
-project: https://github.com/llvm-swift/LLVMSwift
-tags:
-- compiler
-- llvm
-- swift
-- swiftpm

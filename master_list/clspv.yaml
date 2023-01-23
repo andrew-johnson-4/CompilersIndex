@@ -1,9 +1,0 @@
----
-name: clspv
-project: https://github.com/google/clspv
-tags:
-- opencl
-- spir
-- spirv
-- vulkan
-- vulkan-compute-shaders

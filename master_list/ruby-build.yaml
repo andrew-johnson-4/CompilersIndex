@@ -1,6 +1,0 @@
----
-name: ruby-build
-project: https://github.com/rbenv/ruby-build
-tags:
-- hacktoberfest
-- ruby

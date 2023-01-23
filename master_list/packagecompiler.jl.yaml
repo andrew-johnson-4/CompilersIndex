@@ -1,7 +1,0 @@
----
-name: PackageCompiler.jl
-website: https://julialang.github.io/PackageCompiler.jl/dev/
-project: https://github.com/JuliaLang/PackageCompiler.jl
-tags:
-- julia
-- packagecompiler

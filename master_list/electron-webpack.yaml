@@ -1,8 +1,0 @@
----
-name: electron-webpack
-website: https://webpack.electron.build/
-project: https://github.com/electron-userland/electron-webpack
-tags:
-- electron
-- electron-webpack
-- webpack

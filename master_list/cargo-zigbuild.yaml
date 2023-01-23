@@ -1,7 +1,0 @@
----
-name: cargo-zigbuild
-project: https://github.com/rust-cross/cargo-zigbuild
-tags:
-- cargo-subcommand
-- cross-compile
-- zig

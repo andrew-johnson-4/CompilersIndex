@@ -1,9 +1,0 @@
----
-name: Reduceron
-project: https://github.com/tommythorn/Reduceron
-tags:
-- compiler
-- fpga
-- haskell
-- lava
-- verilog

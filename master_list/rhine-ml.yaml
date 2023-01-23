@@ -1,8 +1,0 @@
----
-name: rhine-ml
-project: https://github.com/artagnon/rhine-ml
-tags:
-- compiler
-- llvm
-- ocaml
-- programming-language

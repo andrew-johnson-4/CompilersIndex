@@ -1,7 +1,0 @@
----
-name: mypyc
-project: https://github.com/mypyc/mypyc
-tags:
-- compiler
-- python
-- types

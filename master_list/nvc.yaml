@@ -1,9 +1,0 @@
----
-name: nvc
-website: https://www.nickg.me.uk/nvc/
-project: https://github.com/nickg/nvc
-tags:
-- compiler
-- fpga
-- simulator
-- vhdl

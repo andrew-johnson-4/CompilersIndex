@@ -1,8 +1,0 @@
----
-name: python-cmake-buildsystem
-project: https://github.com/python-cmake-buildsystem/python-cmake-buildsystem
-tags:
-- build-system
-- cmake
-- cpython
-- cross-platform

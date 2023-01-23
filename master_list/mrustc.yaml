@@ -1,7 +1,0 @@
----
-name: mrustc
-project: https://github.com/thepowersgang/mrustc
-tags:
-- compiler
-- rust-compiler
-- rust-language

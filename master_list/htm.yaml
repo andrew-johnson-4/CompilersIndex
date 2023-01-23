@@ -1,9 +1,0 @@
----
-name: htm
-project: https://github.com/developit/htm
-tags:
-- babel
-- babel-plugin
-- jsx
-- tagged-template
-- virtual-dom

@@ -1,8 +1,0 @@
----
-name: ScalaPB
-website: https://scalapb.github.io/
-project: https://github.com/scalapb/ScalaPB
-tags:
-- protocol-buffers
-- scala
-- scalapb
