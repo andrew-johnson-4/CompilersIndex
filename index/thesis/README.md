@@ -1,3 +1,3 @@
 # thesis
 
-[thesis](https://github.com/vittorioromeo/ecst)
+[ecst](https://github.com/vittorioromeo/ecst)

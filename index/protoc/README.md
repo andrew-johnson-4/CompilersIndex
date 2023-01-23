@@ -1,3 +1,3 @@
 # protoc
 
-[protoc](https://github.com/improbable-eng/ts-protoc-gen)
+[ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen)

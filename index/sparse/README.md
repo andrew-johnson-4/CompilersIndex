@@ -1,3 +1,3 @@
 # sparse
 
-[sparse](https://github.com/tensor-compiler/taco)
+[taco](https://github.com/tensor-compiler/taco)

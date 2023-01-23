@@ -1,4 +1,4 @@
 # spirv-cross
 
-[spirv-cross](https://github.com/septag/glslcc)
-[spirv-cross](https://github.com/google/shaderc)
+[glslcc](https://github.com/septag/glslcc)
+[shaderc](https://github.com/google/shaderc)

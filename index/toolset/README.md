@@ -1,3 +1,3 @@
 # toolset
 
-[toolset](https://github.com/septag/glslcc)
+[glslcc](https://github.com/septag/glslcc)

@@ -1,3 +1,3 @@
 # factories
 
-[factories](https://github.com/nette/di)
+[di](https://github.com/nette/di)

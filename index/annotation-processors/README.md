@@ -1,3 +1,3 @@
 # annotation-processors
 
-[annotation-processors](https://github.com/tschuchortdev/kotlin-compile-testing)
+[kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)

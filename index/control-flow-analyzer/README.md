@@ -1,3 +1,3 @@
 # control-flow-analyzer
 
-[control-flow-analyzer](https://github.com/PyHDI/Pyverilog)
+[Pyverilog](https://github.com/PyHDI/Pyverilog)

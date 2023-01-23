@@ -1,3 +1,3 @@
 # lisps
 
-[lisps](https://github.com/hylang/hy)
+[hy](https://github.com/hylang/hy)

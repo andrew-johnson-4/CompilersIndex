@@ -1,3 +1,3 @@
 # threat-intelligence
 
-[threat-intelligence](https://github.com/alvin-tosh/Malware-Exhibit)
+[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)

@@ -1,4 +1,4 @@
 # type-checking
 
-[type-checking](https://github.com/teal-language/tl)
-[type-checking](https://github.com/sdiehl/write-you-a-haskell)
+[tl](https://github.com/teal-language/tl)
+[write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell)

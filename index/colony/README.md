@@ -1,3 +1,3 @@
 # colony
 
-[colony](https://github.com/PaulBernier/castl)
+[castl](https://github.com/PaulBernier/castl)

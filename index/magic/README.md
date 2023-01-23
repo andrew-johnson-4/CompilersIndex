@@ -1,3 +1,3 @@
 # magic
 
-[magic](https://github.com/VLSIDA/OpenRAM)
+[OpenRAM](https://github.com/VLSIDA/OpenRAM)

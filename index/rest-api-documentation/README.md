@@ -1,3 +1,3 @@
 # rest-api-documentation
 
-[rest-api-documentation](https://github.com/juhaku/utoipa)
+[utoipa](https://github.com/juhaku/utoipa)

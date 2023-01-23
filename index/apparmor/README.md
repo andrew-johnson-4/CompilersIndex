@@ -1,3 +1,3 @@
 # apparmor
 
-[apparmor](https://github.com/slimtoolkit/slim)
+[slim](https://github.com/slimtoolkit/slim)

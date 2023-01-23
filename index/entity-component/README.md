@@ -1,4 +1,4 @@
 # entity-component
 
-[entity-component](https://github.com/vittorioromeo/ecst)
-[entity-component](https://github.com/phisko/kengine)
+[ecst](https://github.com/vittorioromeo/ecst)
+[kengine](https://github.com/phisko/kengine)

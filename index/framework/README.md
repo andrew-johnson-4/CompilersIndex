@@ -1,4 +1,4 @@
 # framework
 
-[framework](https://github.com/LukeMathWalker/pavex)
-[framework](https://github.com/railt/railt)
+[pavex](https://github.com/LukeMathWalker/pavex)
+[railt](https://github.com/railt/railt)

@@ -1,3 +1,3 @@
 # paddlepaddle
 
-[paddlepaddle](https://github.com/NervanaSystems/ngraph)
+[ngraph](https://github.com/NervanaSystems/ngraph)

@@ -1,3 +1,3 @@
 # transcrypt
 
-[transcrypt](https://github.com/QQuick/Transcrypt)
+[Transcrypt](https://github.com/QQuick/Transcrypt)

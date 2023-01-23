@@ -1,3 +1,3 @@
 # prolog
 
-[prolog](https://github.com/EvgSkv/logica)
+[logica](https://github.com/EvgSkv/logica)

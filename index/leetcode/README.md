@@ -1,3 +1,3 @@
 # leetcode
 
-[leetcode](https://github.com/Rishabh-malhotraa/caucus)
+[caucus](https://github.com/Rishabh-malhotraa/caucus)

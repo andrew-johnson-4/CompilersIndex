@@ -1,9 +1,9 @@
 # codegen
 
 [codegen](https://github.com/pdziepak/codegen)
-[codegen](https://github.com/bytecodealliance/cranelift)
-[codegen](https://github.com/nottheswimmer/pytago)
-[codegen](https://github.com/MrSmith33/vox)
-[codegen](https://github.com/planetscale/vtprotobuf)
-[codegen](https://github.com/google/wire)
-[codegen](https://github.com/Shopify/yjit)
+[cranelift](https://github.com/bytecodealliance/cranelift)
+[pytago](https://github.com/nottheswimmer/pytago)
+[vox](https://github.com/MrSmith33/vox)
+[vtprotobuf](https://github.com/planetscale/vtprotobuf)
+[wire](https://github.com/google/wire)
+[yjit](https://github.com/Shopify/yjit)

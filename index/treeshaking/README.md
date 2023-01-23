@@ -1,3 +1,3 @@
 # treeshaking
 
-[treeshaking](https://github.com/webpack-contrib/closure-webpack-plugin)
+[closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin)

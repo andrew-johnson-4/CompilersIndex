@@ -1,3 +1,3 @@
 # physical-quantities
 
-[physical-quantities](https://github.com/mpusz/units)
+[units](https://github.com/mpusz/units)

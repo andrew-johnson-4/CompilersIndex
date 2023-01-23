@@ -1,3 +1,3 @@
 # emojis
 
-[emojis](https://github.com/emojicode/emojicode)
+[emojicode](https://github.com/emojicode/emojicode)

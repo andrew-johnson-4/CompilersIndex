@@ -1,3 +1,3 @@
 # rustc
 
-[rustc](https://github.com/rust-lang/rustc-dev-guide)
+[rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide)

@@ -1,3 +1,3 @@
 # aspnet
 
-[aspnet](https://github.com/dotnet/razor)
+[razor](https://github.com/dotnet/razor)

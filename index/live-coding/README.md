@@ -1,3 +1,3 @@
 # live-coding
 
-[live-coding](https://github.com/onqtam/rcrl)
+[rcrl](https://github.com/onqtam/rcrl)

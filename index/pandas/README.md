@@ -1,3 +1,3 @@
 # pandas
 
-[pandas](https://github.com/IntelPython/sdc)
+[sdc](https://github.com/IntelPython/sdc)

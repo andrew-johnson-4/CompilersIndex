@@ -1,3 +1,3 @@
 # swiftpm
 
-[swiftpm](https://github.com/llvm-swift/LLVMSwift)
+[LLVMSwift](https://github.com/llvm-swift/LLVMSwift)

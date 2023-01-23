@@ -1,3 +1,3 @@
 # obfuscator-llvm
 
-[obfuscator-llvm](https://github.com/HikariObfuscator/Hikari)
+[Hikari](https://github.com/HikariObfuscator/Hikari)

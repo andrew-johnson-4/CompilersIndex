@@ -1,8 +1,8 @@
 # jsx
 
-[jsx](https://github.com/one-aalam/awesome-solid-js)
-[jsx](https://github.com/evanw/esbuild)
-[jsx](https://github.com/developit/htm)
-[jsx](https://github.com/BuilderIO/mitosis)
-[jsx](https://github.com/alangpierce/sucrase)
-[jsx](https://github.com/wooorm/xdm)
+[awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)
+[esbuild](https://github.com/evanw/esbuild)
+[htm](https://github.com/developit/htm)
+[mitosis](https://github.com/BuilderIO/mitosis)
+[sucrase](https://github.com/alangpierce/sucrase)
+[xdm](https://github.com/wooorm/xdm)

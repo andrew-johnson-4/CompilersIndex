@@ -1,3 +1,3 @@
 # cyclone-scheme
 
-[cyclone-scheme](https://github.com/justinethier/cyclone)
+[cyclone](https://github.com/justinethier/cyclone)

@@ -1,3 +1,3 @@
 # releaser
 
-[releaser](https://github.com/xoofx/dotnet-releaser)
+[dotnet-releaser](https://github.com/xoofx/dotnet-releaser)

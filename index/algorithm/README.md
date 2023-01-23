@@ -1,3 +1,3 @@
 # algorithm
 
-[algorithm](https://github.com/XWHQSJ/ebooks)
+[ebooks](https://github.com/XWHQSJ/ebooks)

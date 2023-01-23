@@ -1,3 +1,3 @@
 # rubber-ducky
 
-[rubber-ducky](https://github.com/Dukweeno/Duckuino)
+[Duckuino](https://github.com/Dukweeno/Duckuino)

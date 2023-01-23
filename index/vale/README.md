@@ -1,3 +1,3 @@
 # vale
 
-[vale](https://github.com/ValeLang/Vale)
+[Vale](https://github.com/ValeLang/Vale)

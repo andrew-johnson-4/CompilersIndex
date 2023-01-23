@@ -1,3 +1,3 @@
 # lip-sync
 
-[lip-sync](https://github.com/hecomi/uLipSync)
+[uLipSync](https://github.com/hecomi/uLipSync)

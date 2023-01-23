@@ -1,3 +1,3 @@
 # codecov-uploader
 
-[codecov-uploader](https://github.com/SimonKagstrom/kcov)
+[kcov](https://github.com/SimonKagstrom/kcov)

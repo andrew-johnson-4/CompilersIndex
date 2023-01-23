@@ -1,3 +1,3 @@
 # pipeline
 
-[pipeline](https://github.com/calebwin/pipelines)
+[pipelines](https://github.com/calebwin/pipelines)

@@ -1,3 +1,3 @@
 # marching-cubes-algorithm
 
-[marching-cubes-algorithm](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
+[Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)

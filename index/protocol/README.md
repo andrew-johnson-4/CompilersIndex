@@ -1,3 +1,3 @@
 # protocol
 
-[protocol](https://github.com/dvidelabs/flatcc)
+[flatcc](https://github.com/dvidelabs/flatcc)

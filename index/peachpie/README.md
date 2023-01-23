@@ -1,4 +1,4 @@
 # peachpie
 
 [peachpie](https://github.com/peachpiecompiler/peachpie)
-[peachpie](https://github.com/iolevel/wpdotnet-sdk)
+[wpdotnet-sdk](https://github.com/iolevel/wpdotnet-sdk)

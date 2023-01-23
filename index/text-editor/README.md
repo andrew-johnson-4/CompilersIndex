@@ -1,3 +1,3 @@
 # text-editor
 
-[text-editor](https://github.com/vlang/ved)
+[ved](https://github.com/vlang/ved)

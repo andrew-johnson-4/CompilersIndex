@@ -1,5 +1,5 @@
 # datalog
 
-[datalog](https://github.com/ekzhang/crepe)
-[datalog](https://github.com/rntz/datafun)
-[datalog](https://github.com/EvgSkv/logica)
+[crepe](https://github.com/ekzhang/crepe)
+[datafun](https://github.com/rntz/datafun)
+[logica](https://github.com/EvgSkv/logica)

@@ -1,3 +1,3 @@
 # web-gui
 
-[web-gui](https://github.com/jnmaloney/WebGui)
+[WebGui](https://github.com/jnmaloney/WebGui)

@@ -1,3 +1,3 @@
 # huggingface
 
-[huggingface](https://github.com/nebuly-ai/nebullvm)
+[nebullvm](https://github.com/nebuly-ai/nebullvm)

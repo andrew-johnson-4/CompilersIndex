@@ -1,3 +1,3 @@
 # website
 
-[website](https://github.com/MoOx/phenomic)
+[phenomic](https://github.com/MoOx/phenomic)

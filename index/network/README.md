@@ -1,4 +1,4 @@
 # network
 
-[network](https://github.com/odarriba/docker-timemachine)
-[network](https://github.com/XWHQSJ/ebooks)
+[docker-timemachine](https://github.com/odarriba/docker-timemachine)
+[ebooks](https://github.com/XWHQSJ/ebooks)

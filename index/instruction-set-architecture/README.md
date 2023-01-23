@@ -1,3 +1,3 @@
 # instruction-set-architecture
 
-[instruction-set-architecture](https://github.com/hlorenzi/customasm)
+[customasm](https://github.com/hlorenzi/customasm)

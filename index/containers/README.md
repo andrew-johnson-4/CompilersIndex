@@ -1,5 +1,5 @@
 # containers
 
-[containers](https://github.com/hogliux/semimap)
-[containers](https://github.com/skiffos/SkiffOS)
-[containers](https://github.com/slimtoolkit/slim)
+[semimap](https://github.com/hogliux/semimap)
+[SkiffOS](https://github.com/skiffos/SkiffOS)
+[slim](https://github.com/slimtoolkit/slim)

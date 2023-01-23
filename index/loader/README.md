@@ -1,4 +1,4 @@
 # loader
 
-[loader](https://github.com/tinyclub/open-c-book)
-[loader](https://github.com/webpack-contrib/sass-loader)
+[open-c-book](https://github.com/tinyclub/open-c-book)
+[sass-loader](https://github.com/webpack-contrib/sass-loader)

@@ -1,5 +1,5 @@
 # luajit
 
-[luajit](https://github.com/PaulBernier/castl)
-[luajit](https://github.com/luafun/luafun)
-[luajit](https://github.com/edubart/nelua-lang)
+[castl](https://github.com/PaulBernier/castl)
+[luafun](https://github.com/luafun/luafun)
+[nelua-lang](https://github.com/edubart/nelua-lang)

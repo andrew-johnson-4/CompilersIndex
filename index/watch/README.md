@@ -1,3 +1,3 @@
 # watch
 
-[watch](https://github.com/gilamran/tsc-watch)
+[tsc-watch](https://github.com/gilamran/tsc-watch)

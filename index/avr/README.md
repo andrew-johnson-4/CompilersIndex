@@ -1,4 +1,4 @@
 # avr
 
-[avr](https://github.com/larsbrinkhoff/lbForth)
-[avr](https://github.com/tinygo-org/tinygo)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)
+[tinygo](https://github.com/tinygo-org/tinygo)

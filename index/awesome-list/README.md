@@ -1,8 +1,8 @@
 # awesome-list
 
-[awesome-list](https://github.com/aalhour/awesome-compilers)
-[awesome-list](https://github.com/zero-equals-false/awesome-programming-books)
-[awesome-list](https://github.com/one-aalam/awesome-solid-js)
-[awesome-list](https://github.com/jnmcfly/awesome-startpage)
-[awesome-list](https://github.com/Lissy93/personal-security-checklist)
-[awesome-list](https://github.com/mmccaff/PlacesToPostYourStartup)
+[awesome-compilers](https://github.com/aalhour/awesome-compilers)
+[awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books)
+[awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)
+[awesome-startpage](https://github.com/jnmcfly/awesome-startpage)
+[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
+[PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)

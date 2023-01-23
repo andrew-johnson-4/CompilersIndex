@@ -1,8 +1,8 @@
 # aarch64
 
-[aarch64](https://github.com/asmjit/asmjit)
-[aarch64](https://github.com/vygr/ChrysaLisp)
-[aarch64](https://github.com/dinfuehr/dora)
-[aarch64](https://github.com/vnmakarov/mir)
-[aarch64](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
-[aarch64](https://github.com/HexHive/retrowrite)
+[asmjit](https://github.com/asmjit/asmjit)
+[ChrysaLisp](https://github.com/vygr/ChrysaLisp)
+[dora](https://github.com/dinfuehr/dora)
+[mir](https://github.com/vnmakarov/mir)
+[raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
+[retrowrite](https://github.com/HexHive/retrowrite)

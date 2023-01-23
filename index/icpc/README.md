@@ -1,4 +1,4 @@
 # icpc
 
-[icpc](https://github.com/cpeditor/cpeditor)
-[icpc](https://github.com/agrawal-d/cph)
+[cpeditor](https://github.com/cpeditor/cpeditor)
+[cph](https://github.com/agrawal-d/cph)

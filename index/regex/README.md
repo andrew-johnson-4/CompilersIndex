@@ -1,7 +1,7 @@
 # regex
 
-[regex](https://github.com/peter-winter/ctpg)
-[regex](https://github.com/katef/libfsm)
-[regex](https://github.com/danielroe/magic-regexp)
-[regex](https://github.com/yoav-lavi/melody)
-[regex](https://github.com/Genivia/RE-flex)
+[ctpg](https://github.com/peter-winter/ctpg)
+[libfsm](https://github.com/katef/libfsm)
+[magic-regexp](https://github.com/danielroe/magic-regexp)
+[melody](https://github.com/yoav-lavi/melody)
+[RE-flex](https://github.com/Genivia/RE-flex)

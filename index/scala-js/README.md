@@ -1,3 +1,3 @@
 # scala-js
 
-[scala-js](https://github.com/plokhotnyuk/jsoniter-scala)
+[jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala)

@@ -1,6 +1,6 @@
 # dotnetcore
 
-[dotnetcore](https://github.com/dotnet/coreclr)
-[dotnetcore](https://github.com/mcintyre321/OneOf)
-[dotnetcore](https://github.com/peachpiecompiler/peachpie)
-[dotnetcore](https://github.com/iolevel/wpdotnet-sdk)
+[coreclr](https://github.com/dotnet/coreclr)
+[OneOf](https://github.com/mcintyre321/OneOf)
+[peachpie](https://github.com/peachpiecompiler/peachpie)
+[wpdotnet-sdk](https://github.com/iolevel/wpdotnet-sdk)

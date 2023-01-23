@@ -1,4 +1,4 @@
 # visual-studio
 
-[visual-studio](https://github.com/dotnet/fsharp)
-[visual-studio](https://github.com/dotnet/roslyn)
+[fsharp](https://github.com/dotnet/fsharp)
+[roslyn](https://github.com/dotnet/roslyn)

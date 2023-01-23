@@ -1,4 +1,4 @@
 # brainfuck
 
-[brainfuck](https://github.com/Wilfred/bfc)
-[brainfuck](https://github.com/julianneswinoga/yabfc)
+[bfc](https://github.com/Wilfred/bfc)
+[yabfc](https://github.com/julianneswinoga/yabfc)

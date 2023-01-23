@@ -1,3 +1,3 @@
 # probabilistic-programming
 
-[probabilistic-programming](https://github.com/rlouf/mcx)
+[mcx](https://github.com/rlouf/mcx)

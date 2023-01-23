@@ -1,3 +1,3 @@
 # typechecking
 
-[typechecking](https://github.com/google/closure-compiler)
+[closure-compiler](https://github.com/google/closure-compiler)

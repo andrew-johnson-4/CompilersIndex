@@ -1,4 +1,4 @@
 # system-programming
 
-[system-programming](https://github.com/microsoft/checkedc)
-[system-programming](https://github.com/titzer/virgil)
+[checkedc](https://github.com/microsoft/checkedc)
+[virgil](https://github.com/titzer/virgil)

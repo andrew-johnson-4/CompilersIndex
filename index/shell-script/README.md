@@ -1,3 +1,3 @@
 # shell-script
 
-[shell-script](https://github.com/neurobin/shc)
+[shc](https://github.com/neurobin/shc)

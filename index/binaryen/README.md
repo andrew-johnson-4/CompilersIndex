@@ -1,3 +1,3 @@
 # binaryen
 
-[binaryen](https://github.com/AssemblyScript/binaryen.js)
+[binaryen.js](https://github.com/AssemblyScript/binaryen.js)

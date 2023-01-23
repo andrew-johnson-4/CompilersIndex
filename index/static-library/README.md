@@ -1,3 +1,3 @@
 # static-library
 
-[static-library](https://github.com/keith/swift-staticlibs)
+[swift-staticlibs](https://github.com/keith/swift-staticlibs)

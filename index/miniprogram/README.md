@@ -1,3 +1,3 @@
 # miniprogram
 
-[miniprogram](https://github.com/ctripcorp/wean)
+[wean](https://github.com/ctripcorp/wean)

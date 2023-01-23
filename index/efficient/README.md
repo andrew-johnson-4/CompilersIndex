@@ -1,4 +1,4 @@
 # efficient
 
-[efficient](https://github.com/edubart/nelua-lang)
-[efficient](https://github.com/nim-lang/Nim)
+[nelua-lang](https://github.com/edubart/nelua-lang)
+[Nim](https://github.com/nim-lang/Nim)

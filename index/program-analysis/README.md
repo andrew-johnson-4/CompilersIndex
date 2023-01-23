@@ -1,3 +1,3 @@
 # program-analysis
 
-[program-analysis](https://github.com/ltcmelo/psychec)
+[psychec](https://github.com/ltcmelo/psychec)

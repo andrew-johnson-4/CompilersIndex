@@ -1,3 +1,3 @@
 # peg
 
-[peg](https://github.com/harc/ohm)
+[ohm](https://github.com/harc/ohm)

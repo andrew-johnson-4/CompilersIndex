@@ -1,3 +1,3 @@
 # virtual-reality
 
-[virtual-reality](https://github.com/a2flo/floor)
+[floor](https://github.com/a2flo/floor)

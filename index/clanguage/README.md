@@ -1,3 +1,3 @@
 # clanguage
 
-[clanguage](https://github.com/ltcmelo/psychec)
+[psychec](https://github.com/ltcmelo/psychec)

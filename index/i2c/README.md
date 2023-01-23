@@ -1,3 +1,3 @@
 # i2c
 
-[i2c](https://github.com/tinygo-org/tinygo)
+[tinygo](https://github.com/tinygo-org/tinygo)

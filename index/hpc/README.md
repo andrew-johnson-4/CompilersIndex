@@ -1,5 +1,5 @@
 # hpc
 
-[hpc](https://github.com/diku-dk/futhark)
-[hpc](https://github.com/zanellia/prometeo)
-[hpc](https://github.com/spack/spack)
+[futhark](https://github.com/diku-dk/futhark)
+[prometeo](https://github.com/zanellia/prometeo)
+[spack](https://github.com/spack/spack)

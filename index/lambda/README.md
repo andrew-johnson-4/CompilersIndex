@@ -1,3 +1,3 @@
 # lambda
 
-[lambda](https://github.com/Miserlou/lambda-packages)
+[lambda-packages](https://github.com/Miserlou/lambda-packages)

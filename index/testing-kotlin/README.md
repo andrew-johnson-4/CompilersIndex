@@ -1,3 +1,3 @@
 # testing-kotlin
 
-[testing-kotlin](https://github.com/tschuchortdev/kotlin-compile-testing)
+[kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)

@@ -1,4 +1,4 @@
 # dataflow
 
-[dataflow](https://github.com/chigraph/chigraph)
-[dataflow](https://github.com/Xilinx/finn)
+[chigraph](https://github.com/chigraph/chigraph)
+[finn](https://github.com/Xilinx/finn)

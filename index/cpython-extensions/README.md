@@ -1,3 +1,3 @@
 # cpython-extensions
 
-[cpython-extensions](https://github.com/cython/cython)
+[cython](https://github.com/cython/cython)

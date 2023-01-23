@@ -1,10 +1,10 @@
 # hlsl
 
-[hlsl](https://github.com/microsoft/DirectXShaderCompiler)
-[hlsl](https://github.com/KhronosGroup/glslang)
-[hlsl](https://github.com/septag/glslcc)
-[hlsl](https://github.com/crosire/reshade)
-[hlsl](https://github.com/google/shaderc)
-[hlsl](https://github.com/microsoft/ShaderConductor)
-[hlsl](https://github.com/dfranx/ShaderDebugger)
-[hlsl](https://github.com/LukasBanana/XShaderCompiler)
+[DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)
+[glslang](https://github.com/KhronosGroup/glslang)
+[glslcc](https://github.com/septag/glslcc)
+[reshade](https://github.com/crosire/reshade)
+[shaderc](https://github.com/google/shaderc)
+[ShaderConductor](https://github.com/microsoft/ShaderConductor)
+[ShaderDebugger](https://github.com/dfranx/ShaderDebugger)
+[XShaderCompiler](https://github.com/LukasBanana/XShaderCompiler)

@@ -1,3 +1,3 @@
 # solana
 
-[solana](https://github.com/hyperledger/solang)
+[solang](https://github.com/hyperledger/solang)

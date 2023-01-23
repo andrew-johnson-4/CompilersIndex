@@ -1,3 +1,3 @@
 # rust-library
 
-[rust-library](https://github.com/djc/askama)
+[askama](https://github.com/djc/askama)

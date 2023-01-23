@@ -1,3 +1,3 @@
 # precompiled-headers
 
-[precompiled-headers](https://github.com/yrnkrn/zapcc)
+[zapcc](https://github.com/yrnkrn/zapcc)

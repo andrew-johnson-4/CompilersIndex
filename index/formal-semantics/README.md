@@ -1,3 +1,3 @@
 # formal-semantics
 
-[formal-semantics](https://github.com/CakeML/cakeml)
+[cakeml](https://github.com/CakeML/cakeml)

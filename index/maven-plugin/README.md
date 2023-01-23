@@ -1,3 +1,3 @@
 # maven-plugin
 
-[maven-plugin](https://github.com/JetBrains/kotlin)
+[kotlin](https://github.com/JetBrains/kotlin)

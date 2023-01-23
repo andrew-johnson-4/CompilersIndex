@@ -1,4 +1,4 @@
 # code
 
-[code](https://github.com/arrow-kt/arrow-meta)
-[code](https://github.com/sahildua2305/hackIDE)
+[arrow-meta](https://github.com/arrow-kt/arrow-meta)
+[hackIDE](https://github.com/sahildua2305/hackIDE)

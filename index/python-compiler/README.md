@@ -1,4 +1,4 @@
 # python-compiler
 
-[python-compiler](https://github.com/Nuitka/Nuitka)
-[python-compiler](https://github.com/shedskin/shedskin)
+[Nuitka](https://github.com/Nuitka/Nuitka)
+[shedskin](https://github.com/shedskin/shedskin)

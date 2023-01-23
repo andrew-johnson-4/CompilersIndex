@@ -1,3 +1,3 @@
 # apollo
 
-[apollo](https://github.com/apollographql/apollo-rs)
+[apollo-rs](https://github.com/apollographql/apollo-rs)

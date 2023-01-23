@@ -1,3 +1,3 @@
 # pkcs12
 
-[pkcs12](https://github.com/wbond/oscrypto)
+[oscrypto](https://github.com/wbond/oscrypto)

@@ -1,3 +1,3 @@
 # react-native-web
 
-[react-native-web](https://github.com/tamagui/tamagui)
+[tamagui](https://github.com/tamagui/tamagui)

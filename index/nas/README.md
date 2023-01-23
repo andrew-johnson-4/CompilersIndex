@@ -1,3 +1,3 @@
 # nas
 
-[nas](https://github.com/rsyncOSX/RsyncOSX)
+[RsyncOSX](https://github.com/rsyncOSX/RsyncOSX)

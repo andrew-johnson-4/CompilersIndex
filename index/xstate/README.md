@@ -1,3 +1,3 @@
 # xstate
 
-[xstate](https://github.com/lucydsl/liblucy)
+[liblucy](https://github.com/lucydsl/liblucy)

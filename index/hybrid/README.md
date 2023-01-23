@@ -1,4 +1,4 @@
 # hybrid
 
-[hybrid](https://github.com/enso-org/enso)
-[hybrid](https://github.com/vercel/next.js)
+[enso](https://github.com/enso-org/enso)
+[next.js](https://github.com/vercel/next.js)

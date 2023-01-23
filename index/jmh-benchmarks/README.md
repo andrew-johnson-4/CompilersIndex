@@ -1,3 +1,3 @@
 # jmh-benchmarks
 
-[jmh-benchmarks](https://github.com/plokhotnyuk/jsoniter-scala)
+[jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala)

@@ -1,8 +1,8 @@
 # cuda
 
-[cuda](https://github.com/a2flo/floor)
-[cuda](https://github.com/diku-dk/futhark)
-[cuda](https://github.com/m4rs-mt/ILGPU)
-[cuda](https://github.com/Jittor/jittor)
-[cuda](https://github.com/numba/numba)
-[cuda](https://github.com/pytorch/TensorRT)
+[floor](https://github.com/a2flo/floor)
+[futhark](https://github.com/diku-dk/futhark)
+[ILGPU](https://github.com/m4rs-mt/ILGPU)
+[jittor](https://github.com/Jittor/jittor)
+[numba](https://github.com/numba/numba)
+[TensorRT](https://github.com/pytorch/TensorRT)

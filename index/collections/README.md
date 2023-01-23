@@ -1,3 +1,3 @@
 # collections
 
-[collections](https://github.com/pointfreeco/swift-nonempty)
+[swift-nonempty](https://github.com/pointfreeco/swift-nonempty)

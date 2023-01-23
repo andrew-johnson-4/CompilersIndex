@@ -1,3 +1,3 @@
 # differentiable-programming
 
-[differentiable-programming](https://github.com/EnzymeAD/Enzyme)
+[Enzyme](https://github.com/EnzymeAD/Enzyme)

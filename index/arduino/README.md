@@ -1,9 +1,9 @@
 # arduino
 
-[arduino](https://github.com/arduino/arduino-builder)
-[arduino](https://github.com/noopkat/avrgirl-arduino)
-[arduino](https://github.com/ai-techsystems/deepC)
-[arduino](https://github.com/Dukweeno/Duckuino)
-[arduino](https://github.com/nakkaya/ferret)
-[arduino](https://github.com/tinygo-org/tinygo)
-[arduino](https://github.com/wa-lang/wa)
+[arduino-builder](https://github.com/arduino/arduino-builder)
+[avrgirl-arduino](https://github.com/noopkat/avrgirl-arduino)
+[deepC](https://github.com/ai-techsystems/deepC)
+[Duckuino](https://github.com/Dukweeno/Duckuino)
+[ferret](https://github.com/nakkaya/ferret)
+[tinygo](https://github.com/tinygo-org/tinygo)
+[wa](https://github.com/wa-lang/wa)

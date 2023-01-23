@@ -1,3 +1,3 @@
 # stack-views
 
-[stack-views](https://github.com/tamagui/tamagui)
+[tamagui](https://github.com/tamagui/tamagui)

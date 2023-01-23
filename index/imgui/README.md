@@ -1,4 +1,4 @@
 # imgui
 
-[imgui](https://github.com/randrew/layout)
-[imgui](https://github.com/jnmaloney/WebGui)
+[layout](https://github.com/randrew/layout)
+[WebGui](https://github.com/jnmaloney/WebGui)

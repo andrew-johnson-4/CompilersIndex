@@ -1,6 +1,6 @@
 # xcode
 
-[xcode](https://github.com/x2on/OpenSSL-for-iPhone)
-[xcode](https://github.com/rsyncOSX/RsyncOSX)
-[xcode](https://github.com/keith/swift-staticlibs)
-[xcode](https://github.com/devernay/xcodelegacy)
+[OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone)
+[RsyncOSX](https://github.com/rsyncOSX/RsyncOSX)
+[swift-staticlibs](https://github.com/keith/swift-staticlibs)
+[xcodelegacy](https://github.com/devernay/xcodelegacy)

@@ -1,3 +1,3 @@
 # ssh
 
-[ssh](https://github.com/aeroxis/sultan)
+[sultan](https://github.com/aeroxis/sultan)

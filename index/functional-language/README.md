@@ -1,8 +1,8 @@
 # functional-language
 
-[functional-language](https://github.com/amuletml/amulet)
-[functional-language](https://github.com/AbstractMachinesLab/caramel)
-[functional-language](https://github.com/evhub/coconut)
-[functional-language](https://github.com/never-lang/never)
-[functional-language](https://github.com/ocaml/ocaml)
-[functional-language](https://github.com/sdiehl/write-you-a-haskell)
+[amulet](https://github.com/amuletml/amulet)
+[caramel](https://github.com/AbstractMachinesLab/caramel)
+[coconut](https://github.com/evhub/coconut)
+[never](https://github.com/never-lang/never)
+[ocaml](https://github.com/ocaml/ocaml)
+[write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell)

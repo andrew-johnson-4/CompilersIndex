@@ -1,3 +1,3 @@
 # compiler-designs
 
-[compiler-designs](https://github.com/katef/kgt)
+[kgt](https://github.com/katef/kgt)

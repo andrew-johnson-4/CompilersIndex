@@ -1,6 +1,6 @@
 # template-engine
 
-[template-engine](https://github.com/vovkos/doxyrest)
-[template-engine](https://github.com/manifold-systems/manifold)
-[template-engine](https://github.com/lambda-fairy/maud)
-[template-engine](https://github.com/kaj/ructe)
+[doxyrest](https://github.com/vovkos/doxyrest)
+[manifold](https://github.com/manifold-systems/manifold)
+[maud](https://github.com/lambda-fairy/maud)
+[ructe](https://github.com/kaj/ructe)

@@ -1,3 +1,3 @@
 # term-rewriting
 
-[term-rewriting](https://github.com/usethesource/rascal)
+[rascal](https://github.com/usethesource/rascal)

@@ -1,3 +1,3 @@
 # hol
 
-[hol](https://github.com/CakeML/cakeml)
+[cakeml](https://github.com/CakeML/cakeml)

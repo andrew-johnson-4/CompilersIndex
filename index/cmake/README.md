@@ -1,6 +1,6 @@
 # cmake
 
-[cmake](https://github.com/huihut/OpenCV-MinGW-Build)
-[cmake](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem)
-[cmake](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
-[cmake](https://github.com/mpusz/units)
+[OpenCV-MinGW-Build](https://github.com/huihut/OpenCV-MinGW-Build)
+[python-cmake-buildsystem](https://github.com/python-cmake-buildsystem/python-cmake-buildsystem)
+[raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
+[units](https://github.com/mpusz/units)

@@ -1,3 +1,3 @@
 # hotspot
 
-[hotspot](https://github.com/AdoptOpenJDK/jitwatch)
+[jitwatch](https://github.com/AdoptOpenJDK/jitwatch)

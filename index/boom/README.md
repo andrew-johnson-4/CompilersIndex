@@ -1,3 +1,3 @@
 # boom
 
-[boom](https://github.com/diku-dk/futhark)
+[futhark](https://github.com/diku-dk/futhark)

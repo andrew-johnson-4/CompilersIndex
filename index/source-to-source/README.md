@@ -1,4 +1,4 @@
 # source-to-source
 
-[source-to-source](https://github.com/zanellia/prometeo)
-[source-to-source](https://github.com/usethesource/rascal)
+[prometeo](https://github.com/zanellia/prometeo)
+[rascal](https://github.com/usethesource/rascal)

@@ -1,3 +1,3 @@
 # esoteric-interpreter
 
-[esoteric-interpreter](https://github.com/VPanjeta/ModiScript)
+[ModiScript](https://github.com/VPanjeta/ModiScript)

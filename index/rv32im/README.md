@@ -1,3 +1,3 @@
 # rv32im
 
-[rv32im](https://github.com/jserv/shecc)
+[shecc](https://github.com/jserv/shecc)

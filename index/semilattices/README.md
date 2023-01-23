@@ -1,3 +1,3 @@
 # semilattices
 
-[semilattices](https://github.com/rntz/datafun)
+[datafun](https://github.com/rntz/datafun)

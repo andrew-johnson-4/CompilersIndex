@@ -1,3 +1,3 @@
 # expression-tree
 
-[expression-tree](https://github.com/dadhi/FastExpressionCompiler)
+[FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler)

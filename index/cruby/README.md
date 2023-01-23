@@ -1,3 +1,3 @@
 # cruby
 
-[cruby](https://github.com/Shopify/yjit)
+[yjit](https://github.com/Shopify/yjit)

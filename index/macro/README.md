@@ -1,4 +1,4 @@
 # macro
 
-[macro](https://github.com/anko/eslisp)
-[macro](https://github.com/lambda-fairy/maud)
+[eslisp](https://github.com/anko/eslisp)
+[maud](https://github.com/lambda-fairy/maud)

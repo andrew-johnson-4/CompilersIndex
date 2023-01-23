@@ -1,3 +1,3 @@
 # bytecode-vm
 
-[bytecode-vm](https://github.com/kuroko-lang/kuroko)
+[kuroko](https://github.com/kuroko-lang/kuroko)

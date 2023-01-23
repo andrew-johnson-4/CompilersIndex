@@ -1,4 +1,4 @@
 # cython
 
 [cython](https://github.com/cython/cython)
-[cython](https://github.com/Pebaz/nimporter)
+[nimporter](https://github.com/Pebaz/nimporter)

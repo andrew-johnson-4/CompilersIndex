@@ -1,3 +1,3 @@
 # watch-compiler
 
-[watch-compiler](https://github.com/jonycheung/deadsimple-less-watch-compiler)
+[deadsimple-less-watch-compiler](https://github.com/jonycheung/deadsimple-less-watch-compiler)

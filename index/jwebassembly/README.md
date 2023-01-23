@@ -1,3 +1,3 @@
 # jwebassembly
 
-[jwebassembly](https://github.com/i-net-software/JWebAssembly)
+[JWebAssembly](https://github.com/i-net-software/JWebAssembly)

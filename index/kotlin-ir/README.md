@@ -1,3 +1,3 @@
 # kotlin-ir
 
-[kotlin-ir](https://github.com/bnorm/kotlin-power-assert)
+[kotlin-power-assert](https://github.com/bnorm/kotlin-power-assert)

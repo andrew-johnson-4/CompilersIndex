@@ -1,3 +1,3 @@
 # instruction-set
 
-[instruction-set](https://github.com/hlorenzi/customasm)
+[customasm](https://github.com/hlorenzi/customasm)

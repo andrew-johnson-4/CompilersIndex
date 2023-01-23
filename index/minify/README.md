@@ -1,5 +1,5 @@
 # minify
 
-[minify](https://github.com/bokub/lyo)
-[minify](https://github.com/packem/packem)
-[minify](https://github.com/slimtoolkit/slim)
+[lyo](https://github.com/bokub/lyo)
+[packem](https://github.com/packem/packem)
+[slim](https://github.com/slimtoolkit/slim)

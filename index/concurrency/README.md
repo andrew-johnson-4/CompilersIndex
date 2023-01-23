@@ -1,5 +1,5 @@
 # concurrency
 
-[concurrency](https://github.com/jondgoodwin/cone)
-[concurrency](https://github.com/amilajack/reading)
-[concurrency](https://github.com/vtereshkov/umka-lang)
+[cone](https://github.com/jondgoodwin/cone)
+[reading](https://github.com/amilajack/reading)
+[umka-lang](https://github.com/vtereshkov/umka-lang)

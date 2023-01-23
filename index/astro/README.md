@@ -1,3 +1,3 @@
 # astro
 
-[astro](https://github.com/appcypher/awesome-wasm-langs)
+[awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)

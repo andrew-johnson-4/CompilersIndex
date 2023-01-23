@@ -1,3 +1,3 @@
 # tensorflow-serving
 
-[tensorflow-serving](https://github.com/Adlik/Adlik)
+[Adlik](https://github.com/Adlik/Adlik)

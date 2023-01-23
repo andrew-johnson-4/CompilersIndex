@@ -1,3 +1,3 @@
 # warnings
 
-[warnings](https://github.com/NSHipster/clangwarnings.com)
+[clangwarnings.com](https://github.com/NSHipster/clangwarnings.com)

@@ -1,3 +1,3 @@
 # debugger
 
-[debugger](https://github.com/dfranx/ShaderDebugger)
+[ShaderDebugger](https://github.com/dfranx/ShaderDebugger)

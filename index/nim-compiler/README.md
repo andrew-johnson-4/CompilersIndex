@@ -1,3 +1,3 @@
 # nim-compiler
 
-[nim-compiler](https://github.com/Pebaz/nimporter)
+[nimporter](https://github.com/Pebaz/nimporter)

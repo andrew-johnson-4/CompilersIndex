@@ -1,3 +1,3 @@
 # fuel
 
-[fuel](https://github.com/FuelLabs/sway)
+[sway](https://github.com/FuelLabs/sway)

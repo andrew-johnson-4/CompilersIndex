@@ -1,5 +1,5 @@
 # self-hosting
 
-[self-hosting](https://github.com/jserv/amacc)
-[self-hosting](https://github.com/jserv/shecc)
-[self-hosting](https://github.com/alexfru/SmallerC)
+[amacc](https://github.com/jserv/amacc)
+[shecc](https://github.com/jserv/shecc)
+[SmallerC](https://github.com/alexfru/SmallerC)

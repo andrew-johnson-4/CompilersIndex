@@ -1,3 +1,3 @@
 # minification-performance
 
-[minification-performance](https://github.com/privatenumber/minification-benchmarks)
+[minification-benchmarks](https://github.com/privatenumber/minification-benchmarks)

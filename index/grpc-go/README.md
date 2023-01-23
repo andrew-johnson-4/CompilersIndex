@@ -1,3 +1,3 @@
 # grpc-go
 
-[grpc-go](https://github.com/zalopay-oss/go-advanced)
+[go-advanced](https://github.com/zalopay-oss/go-advanced)

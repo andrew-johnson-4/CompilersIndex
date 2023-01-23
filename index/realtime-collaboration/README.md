@@ -1,3 +1,3 @@
 # realtime-collaboration
 
-[realtime-collaboration](https://github.com/Rishabh-malhotraa/caucus)
+[caucus](https://github.com/Rishabh-malhotraa/caucus)

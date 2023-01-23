@@ -1,3 +1,3 @@
 # web-styles
 
-[web-styles](https://github.com/diez/diez)
+[diez](https://github.com/diez/diez)

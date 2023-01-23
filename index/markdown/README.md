@@ -1,6 +1,6 @@
 # markdown
 
-[markdown](https://github.com/munificent/craftinginterpreters)
-[markdown](https://github.com/markedjs/marked)
-[markdown](https://github.com/MoOx/phenomic)
-[markdown](https://github.com/wooorm/xdm)
+[craftinginterpreters](https://github.com/munificent/craftinginterpreters)
+[marked](https://github.com/markedjs/marked)
+[phenomic](https://github.com/MoOx/phenomic)
+[xdm](https://github.com/wooorm/xdm)

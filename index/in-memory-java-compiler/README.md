@@ -1,3 +1,3 @@
 # in-memory-java-compiler
 
-[in-memory-java-compiler](https://github.com/janino-compiler/janino)
+[janino](https://github.com/janino-compiler/janino)

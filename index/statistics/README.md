@@ -1,4 +1,4 @@
 # statistics
 
-[statistics](https://github.com/bedatadriven/renjin)
-[statistics](https://github.com/orico/www.mlcompendium.com)
+[renjin](https://github.com/bedatadriven/renjin)
+[www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com)

@@ -1,3 +1,3 @@
 # remote-build
 
-[remote-build](https://github.com/remoteinterview/compilebox)
+[compilebox](https://github.com/remoteinterview/compilebox)

@@ -1,5 +1,5 @@
 # emscripten
 
-[emscripten](https://github.com/WebAssembly/binaryen)
+[binaryen](https://github.com/WebAssembly/binaryen)
 [emscripten](https://github.com/emscripten-core/emscripten)
-[emscripten](https://github.com/petersalomonsen/wasm-git)
+[wasm-git](https://github.com/petersalomonsen/wasm-git)

@@ -1,3 +1,3 @@
 # lumen
 
-[lumen](https://github.com/GetFirefly/firefly)
+[firefly](https://github.com/GetFirefly/firefly)

@@ -1,3 +1,3 @@
 # rsh
 
-[rsh](https://github.com/neurobin/shc)
+[shc](https://github.com/neurobin/shc)

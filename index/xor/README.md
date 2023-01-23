@@ -1,3 +1,3 @@
 # xor
 
-[xor](https://github.com/JustasMasiulis/xorstr)
+[xorstr](https://github.com/JustasMasiulis/xorstr)

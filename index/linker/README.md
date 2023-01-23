@@ -1,5 +1,5 @@
 # linker
 
-[linker](https://github.com/tinyclub/open-c-book)
-[linker](https://github.com/MrSmith33/vox)
-[linker](https://github.com/z88dk/z88dk)
+[open-c-book](https://github.com/tinyclub/open-c-book)
+[vox](https://github.com/MrSmith33/vox)
+[z88dk](https://github.com/z88dk/z88dk)

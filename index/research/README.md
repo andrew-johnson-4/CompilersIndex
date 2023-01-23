@@ -1,5 +1,5 @@
 # research
 
-[research](https://github.com/rordenlab/dcm2niix)
-[research](https://github.com/amilajack/reading)
-[research](https://github.com/theseus-os/Theseus)
+[dcm2niix](https://github.com/rordenlab/dcm2niix)
+[reading](https://github.com/amilajack/reading)
+[Theseus](https://github.com/theseus-os/Theseus)

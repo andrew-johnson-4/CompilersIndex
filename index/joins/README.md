@@ -1,3 +1,3 @@
 # joins
 
-[joins](https://github.com/sirensolutions/kibi)
+[kibi](https://github.com/sirensolutions/kibi)

@@ -1,3 +1,3 @@
 # detect
 
-[detect](https://github.com/horsicq/Nauz-File-Detector)
+[Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector)

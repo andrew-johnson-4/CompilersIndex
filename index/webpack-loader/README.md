@@ -1,5 +1,5 @@
 # webpack-loader
 
-[webpack-loader](https://github.com/webpack-contrib/less-loader)
-[webpack-loader](https://github.com/webpack-contrib/sass-loader)
-[webpack-loader](https://github.com/MichaReiser/speedy.js)
+[less-loader](https://github.com/webpack-contrib/less-loader)
+[sass-loader](https://github.com/webpack-contrib/sass-loader)
+[speedy.js](https://github.com/MichaReiser/speedy.js)

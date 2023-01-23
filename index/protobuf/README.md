@@ -1,4 +1,4 @@
 # protobuf
 
-[protobuf](https://github.com/protostuff/protostuff)
-[protobuf](https://github.com/planetscale/vtprotobuf)
+[protostuff](https://github.com/protostuff/protostuff)
+[vtprotobuf](https://github.com/planetscale/vtprotobuf)

@@ -1,4 +1,4 @@
 # debugging
 
-[debugging](https://github.com/NomicFoundation/hardhat)
-[debugging](https://github.com/tinyclub/open-c-book)
+[hardhat](https://github.com/NomicFoundation/hardhat)
+[open-c-book](https://github.com/tinyclub/open-c-book)

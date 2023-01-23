@@ -1,3 +1,3 @@
 # cil
 
-[cil](https://github.com/m4rs-mt/ILGPU)
+[ILGPU](https://github.com/m4rs-mt/ILGPU)

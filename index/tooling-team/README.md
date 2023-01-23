@@ -1,3 +1,3 @@
 # tooling-team
 
-[tooling-team](https://github.com/arduino/arduino-builder)
+[arduino-builder](https://github.com/arduino/arduino-builder)

@@ -1,3 +1,3 @@
 # game
 
-[game](https://github.com/phisko/kengine)
+[kengine](https://github.com/phisko/kengine)

@@ -1,3 +1,3 @@
 # polyfill
 
-[polyfill](https://github.com/xtuc/webassemblyjs)
+[webassemblyjs](https://github.com/xtuc/webassemblyjs)

@@ -1,3 +1,3 @@
 # source-generators
 
-[source-generators](https://github.com/YairHalberstadt/stronginject)
+[stronginject](https://github.com/YairHalberstadt/stronginject)

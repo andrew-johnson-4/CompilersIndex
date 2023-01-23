@@ -1,4 +1,4 @@
 # ransomware
 
-[ransomware](https://github.com/sithis993/Crypter)
-[ransomware](https://github.com/alvin-tosh/Malware-Exhibit)
+[Crypter](https://github.com/sithis993/Crypter)
+[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)

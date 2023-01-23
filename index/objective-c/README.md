@@ -1,5 +1,5 @@
 # objective-c
 
-[objective-c](https://github.com/llvm-mirror/clang)
-[objective-c](https://github.com/JetBrains/kotlin-native)
-[objective-c](https://github.com/x2on/OpenSSL-for-iPhone)
+[clang](https://github.com/llvm-mirror/clang)
+[kotlin-native](https://github.com/JetBrains/kotlin-native)
+[OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone)

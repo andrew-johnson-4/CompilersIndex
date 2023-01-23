@@ -1,5 +1,5 @@
 # grammar
 
-[grammar](https://github.com/peter-winter/ctpg)
-[grammar](https://github.com/ArashPartow/exprtk)
-[grammar](https://github.com/katef/kgt)
+[ctpg](https://github.com/peter-winter/ctpg)
+[exprtk](https://github.com/ArashPartow/exprtk)
+[kgt](https://github.com/katef/kgt)

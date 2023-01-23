@@ -1,3 +1,3 @@
 # 8051
 
-[8051](https://github.com/larsbrinkhoff/lbForth)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)

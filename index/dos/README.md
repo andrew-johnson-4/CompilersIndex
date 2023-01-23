@@ -1,3 +1,3 @@
 # dos
 
-[dos](https://github.com/alexfru/SmallerC)
+[SmallerC](https://github.com/alexfru/SmallerC)

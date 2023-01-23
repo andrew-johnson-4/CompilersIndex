@@ -1,4 +1,4 @@
 # module-bundler
 
-[module-bundler](https://github.com/parcel-bundler/parcel)
-[module-bundler](https://github.com/webpack/webpack)
+[parcel](https://github.com/parcel-bundler/parcel)
+[webpack](https://github.com/webpack/webpack)

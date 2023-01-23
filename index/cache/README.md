@@ -1,3 +1,3 @@
 # cache
 
-[cache](https://github.com/ccache/ccache)
+[ccache](https://github.com/ccache/ccache)

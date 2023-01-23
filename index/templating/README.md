@@ -1,3 +1,3 @@
 # templating
 
-[templating](https://github.com/djc/askama)
+[askama](https://github.com/djc/askama)

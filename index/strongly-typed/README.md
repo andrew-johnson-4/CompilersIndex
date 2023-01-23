@@ -1,3 +1,3 @@
 # strongly-typed
 
-[strongly-typed](https://github.com/mpusz/units)
+[units](https://github.com/mpusz/units)

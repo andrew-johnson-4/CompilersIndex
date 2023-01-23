@@ -1,3 +1,3 @@
 # java-bytecode
 
-[java-bytecode](https://github.com/mirkosertic/Bytecoder)
+[Bytecoder](https://github.com/mirkosertic/Bytecoder)

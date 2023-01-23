@@ -1,3 +1,3 @@
 # csharp-to-lua
 
-[csharp-to-lua](https://github.com/yanghuan/CSharp.lua)
+[CSharp.lua](https://github.com/yanghuan/CSharp.lua)

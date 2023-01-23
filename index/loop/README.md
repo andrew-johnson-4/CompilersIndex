@@ -1,3 +1,3 @@
 # loop
 
-[loop](https://github.com/kaj/ructe)
+[ructe](https://github.com/kaj/ructe)

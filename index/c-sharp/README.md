@@ -1,5 +1,5 @@
 # c-sharp
 
-[c-sharp](https://github.com/dotnet/coreclr)
-[c-sharp](https://github.com/mcintyre321/OneOf)
-[c-sharp](https://github.com/DEVSENSE/Phalanger)
+[coreclr](https://github.com/dotnet/coreclr)
+[OneOf](https://github.com/mcintyre321/OneOf)
+[Phalanger](https://github.com/DEVSENSE/Phalanger)

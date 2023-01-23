@@ -1,4 +1,4 @@
 # dependent-types
 
-[dependent-types](https://github.com/idris-lang/Idris2)
-[dependent-types](https://github.com/pikelet-lang/pikelet)
+[Idris2](https://github.com/idris-lang/Idris2)
+[pikelet](https://github.com/pikelet-lang/pikelet)

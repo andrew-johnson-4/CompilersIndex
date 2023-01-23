@@ -1,3 +1,3 @@
 # effect-handlers
 
-[effect-handlers](https://github.com/koka-lang/koka)
+[koka](https://github.com/koka-lang/koka)

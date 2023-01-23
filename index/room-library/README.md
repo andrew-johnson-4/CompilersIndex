@@ -1,3 +1,3 @@
 # room-library
 
-[room-library](https://github.com/MatrixDev/Roomigrant)
+[Roomigrant](https://github.com/MatrixDev/Roomigrant)

@@ -1,3 +1,3 @@
 # emulation
 
-[emulation](https://github.com/merryhime/dynarmic)
+[dynarmic](https://github.com/merryhime/dynarmic)

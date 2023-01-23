@@ -1,3 +1,3 @@
 # wpf
 
-[wpf](https://github.com/LiuChangFreeman/C--Compiler)
+[C--Compiler](https://github.com/LiuChangFreeman/C--Compiler)

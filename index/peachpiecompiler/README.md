@@ -1,3 +1,3 @@
 # peachpiecompiler
 
-[peachpiecompiler](https://github.com/iolevel/wpdotnet-sdk)
+[wpdotnet-sdk](https://github.com/iolevel/wpdotnet-sdk)

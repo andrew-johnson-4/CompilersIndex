@@ -1,3 +1,3 @@
 # zksnarks
 
-[zksnarks](https://github.com/AleoHQ/leo)
+[leo](https://github.com/AleoHQ/leo)

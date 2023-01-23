@@ -1,3 +1,3 @@
 # build-time
 
-[build-time](https://github.com/fastred/Optimizing-Swift-Build-Times)
+[Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)

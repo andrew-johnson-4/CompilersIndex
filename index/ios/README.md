@@ -1,7 +1,7 @@
 # ios
 
-[ios](https://github.com/a2flo/floor)
-[ios](https://github.com/kivy/kivy-ios)
-[ios](https://github.com/x2on/OpenSSL-for-iPhone)
-[ios](https://github.com/MobiVM/robovm)
-[ios](https://github.com/keith/swift-staticlibs)
+[floor](https://github.com/a2flo/floor)
+[kivy-ios](https://github.com/kivy/kivy-ios)
+[OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone)
+[robovm](https://github.com/MobiVM/robovm)
+[swift-staticlibs](https://github.com/keith/swift-staticlibs)

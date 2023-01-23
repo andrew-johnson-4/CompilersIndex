@@ -1,5 +1,5 @@
 # compiler-design
 
-[compiler-design](https://github.com/ehsanmok/create-your-own-lang-with-rust)
-[compiler-design](https://github.com/adam-mcdaniel/oakc)
-[compiler-design](https://github.com/RichardGong/PlayWithCompiler)
+[create-your-own-lang-with-rust](https://github.com/ehsanmok/create-your-own-lang-with-rust)
+[oakc](https://github.com/adam-mcdaniel/oakc)
+[PlayWithCompiler](https://github.com/RichardGong/PlayWithCompiler)

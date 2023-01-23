@@ -1,3 +1,3 @@
 # bare-metal
 
-[bare-metal](https://github.com/nakkaya/ferret)
+[ferret](https://github.com/nakkaya/ferret)

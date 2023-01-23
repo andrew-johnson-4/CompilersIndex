@@ -1,9 +1,9 @@
 # ocaml
 
-[ocaml](https://github.com/AbstractMachinesLab/caramel)
-[ocaml](https://github.com/felix-lang/felix)
-[ocaml](https://github.com/ocsigen/js_of_ocaml)
+[caramel](https://github.com/AbstractMachinesLab/caramel)
+[felix](https://github.com/felix-lang/felix)
+[js_of_ocaml](https://github.com/ocsigen/js_of_ocaml)
 [ocaml](https://github.com/ocaml/ocaml)
-[ocaml](https://github.com/ocaml/opam)
-[ocaml](https://github.com/artagnon/rhine-ml)
-[ocaml](https://github.com/vult-dsp/vult)
+[opam](https://github.com/ocaml/opam)
+[rhine-ml](https://github.com/artagnon/rhine-ml)
+[vult](https://github.com/vult-dsp/vult)

@@ -1,3 +1,3 @@
 # accessibility
 
-[accessibility](https://github.com/screetsec/TheFatRat)
+[TheFatRat](https://github.com/screetsec/TheFatRat)

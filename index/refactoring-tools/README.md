@@ -1,3 +1,3 @@
 # refactoring-tools
 
-[refactoring-tools](https://github.com/usethesource/rascal)
+[rascal](https://github.com/usethesource/rascal)

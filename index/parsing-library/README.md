@@ -1,3 +1,3 @@
 # parsing-library
 
-[parsing-library](https://github.com/ltcmelo/psychec)
+[psychec](https://github.com/ltcmelo/psychec)

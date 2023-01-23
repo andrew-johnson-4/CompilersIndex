@@ -1,7 +1,7 @@
 # verilog
 
-[verilog](https://github.com/vmware-archive/cascade)
-[verilog](https://github.com/clash-lang/clash-compiler)
-[verilog](https://github.com/tommythorn/Reduceron)
-[verilog](https://github.com/MikePopoloski/slang)
-[verilog](https://github.com/Redcrafter/verilog2factorio)
+[cascade](https://github.com/vmware-archive/cascade)
+[clash-compiler](https://github.com/clash-lang/clash-compiler)
+[Reduceron](https://github.com/tommythorn/Reduceron)
+[slang](https://github.com/MikePopoloski/slang)
+[verilog2factorio](https://github.com/Redcrafter/verilog2factorio)

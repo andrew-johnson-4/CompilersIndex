@@ -1,3 +1,3 @@
 # django
 
-[django](https://github.com/sahildua2305/hackIDE)
+[hackIDE](https://github.com/sahildua2305/hackIDE)

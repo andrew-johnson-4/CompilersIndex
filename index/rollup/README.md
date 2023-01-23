@@ -1,4 +1,4 @@
 # rollup
 
-[rollup](https://github.com/ezolenko/rollup-plugin-typescript2)
-[rollup](https://github.com/wooorm/xdm)
+[rollup-plugin-typescript2](https://github.com/ezolenko/rollup-plugin-typescript2)
+[xdm](https://github.com/wooorm/xdm)

@@ -1,3 +1,3 @@
 # onactivityresult
 
-[onactivityresult](https://github.com/vanniktech/OnActivityResult)
+[OnActivityResult](https://github.com/vanniktech/OnActivityResult)

@@ -1,3 +1,3 @@
 # travis-ci
 
-[travis-ci](https://github.com/SimonKagstrom/kcov)
+[kcov](https://github.com/SimonKagstrom/kcov)

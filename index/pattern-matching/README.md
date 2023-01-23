@@ -1,3 +1,3 @@
 # pattern-matching
 
-[pattern-matching](https://github.com/usethesource/rascal)
+[rascal](https://github.com/usethesource/rascal)

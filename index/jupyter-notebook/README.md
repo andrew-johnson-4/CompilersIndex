@@ -1,3 +1,3 @@
 # jupyter-notebook
 
-[jupyter-notebook](https://github.com/lfortran/lfortran)
+[lfortran](https://github.com/lfortran/lfortran)

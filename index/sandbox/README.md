@@ -1,4 +1,4 @@
 # sandbox
 
-[sandbox](https://github.com/remoteinterview/compilebox)
-[sandbox](https://github.com/sablejs/sablejs)
+[compilebox](https://github.com/remoteinterview/compilebox)
+[sablejs](https://github.com/sablejs/sablejs)

@@ -1,3 +1,3 @@
 # forth
 
-[forth](https://github.com/larsbrinkhoff/lbForth)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)

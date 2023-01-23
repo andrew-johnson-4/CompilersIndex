@@ -1,3 +1,3 @@
 # inspection
 
-[inspection](https://github.com/scapegoat-scala/scapegoat)
+[scapegoat](https://github.com/scapegoat-scala/scapegoat)

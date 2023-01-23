@@ -1,4 +1,4 @@
 # risc-v
 
-[risc-v](https://github.com/larsbrinkhoff/lbForth)
-[risc-v](https://github.com/jserv/shecc)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)
+[shecc](https://github.com/jserv/shecc)

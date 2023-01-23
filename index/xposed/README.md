@@ -1,3 +1,3 @@
 # xposed
 
-[xposed](https://github.com/rovo89/XposedTools)
+[XposedTools](https://github.com/rovo89/XposedTools)

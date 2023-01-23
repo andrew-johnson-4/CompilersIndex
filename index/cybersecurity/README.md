@@ -1,4 +1,4 @@
 # cybersecurity
 
-[cybersecurity](https://github.com/alvin-tosh/Malware-Exhibit)
-[cybersecurity](https://github.com/Lissy93/personal-security-checklist)
+[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)
+[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)

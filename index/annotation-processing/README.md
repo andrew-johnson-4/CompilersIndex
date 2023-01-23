@@ -1,4 +1,4 @@
 # annotation-processing
 
-[annotation-processing](https://github.com/tschuchortdev/kotlin-compile-testing)
-[annotation-processing](https://github.com/janishar/PlaceHolderView)
+[kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+[PlaceHolderView](https://github.com/janishar/PlaceHolderView)

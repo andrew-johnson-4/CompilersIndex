@@ -1,3 +1,3 @@
 # ugo
 
-[ugo](https://github.com/wa-lang/ugo-compiler-book)
+[ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book)

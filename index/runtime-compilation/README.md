@@ -1,4 +1,4 @@
 # runtime-compilation
 
-[runtime-compilation](https://github.com/merryhime/dynarmic)
-[runtime-compilation](https://github.com/onqtam/rcrl)
+[dynarmic](https://github.com/merryhime/dynarmic)
+[rcrl](https://github.com/onqtam/rcrl)

@@ -1,5 +1,5 @@
 # minifier
 
-[minifier](https://github.com/evanw/esbuild)
-[minifier](https://github.com/parcel-bundler/lightningcss)
-[minifier](https://github.com/privatenumber/minification-benchmarks)
+[esbuild](https://github.com/evanw/esbuild)
+[lightningcss](https://github.com/parcel-bundler/lightningcss)
+[minification-benchmarks](https://github.com/privatenumber/minification-benchmarks)

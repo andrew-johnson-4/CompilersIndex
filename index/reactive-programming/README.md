@@ -1,3 +1,3 @@
 # reactive-programming
 
-[reactive-programming](https://github.com/red/red)
+[red](https://github.com/red/red)

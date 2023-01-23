@@ -1,3 +1,3 @@
 # validator
 
-[validator](https://github.com/KhronosGroup/glslang)
+[glslang](https://github.com/KhronosGroup/glslang)

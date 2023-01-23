@@ -1,3 +1,3 @@
 # podc
 
-[podc](https://github.com/simplenetes-io/simplenetes)
+[simplenetes](https://github.com/simplenetes-io/simplenetes)

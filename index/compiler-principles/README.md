@@ -1,5 +1,5 @@
 # compiler-principles
 
-[compiler-principles](https://github.com/netcan/compilingTheory)
-[compiler-principles](https://github.com/katef/kgt)
-[compiler-principles](https://github.com/katef/libfsm)
+[compilingTheory](https://github.com/netcan/compilingTheory)
+[kgt](https://github.com/katef/kgt)
+[libfsm](https://github.com/katef/libfsm)

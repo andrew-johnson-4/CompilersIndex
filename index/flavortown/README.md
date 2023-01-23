@@ -1,3 +1,3 @@
 # flavortown
 
-[flavortown](https://github.com/babel/babel)
+[babel](https://github.com/babel/babel)

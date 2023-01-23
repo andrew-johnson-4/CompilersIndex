@@ -1,4 +1,4 @@
 # science
 
-[science](https://github.com/m-labs/artiq)
-[science](https://github.com/amilajack/reading)
+[artiq](https://github.com/m-labs/artiq)
+[reading](https://github.com/amilajack/reading)

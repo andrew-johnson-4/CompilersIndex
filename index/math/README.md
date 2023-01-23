@@ -1,4 +1,4 @@
 # math
 
-[math](https://github.com/ArashPartow/exprtk)
-[math](https://github.com/kthohr/gcem)
+[exprtk](https://github.com/ArashPartow/exprtk)
+[gcem](https://github.com/kthohr/gcem)

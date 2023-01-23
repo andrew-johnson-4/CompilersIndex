@@ -1,6 +1,6 @@
 # parallel
 
-[parallel](https://github.com/vittorioromeo/ecst)
-[parallel](https://github.com/m4rs-mt/ILGPU)
-[parallel](https://github.com/numba/numba)
-[parallel](https://github.com/calebwin/pipelines)
+[ecst](https://github.com/vittorioromeo/ecst)
+[ILGPU](https://github.com/m4rs-mt/ILGPU)
+[numba](https://github.com/numba/numba)
+[pipelines](https://github.com/calebwin/pipelines)

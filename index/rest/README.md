@@ -1,3 +1,3 @@
 # rest
 
-[rest](https://github.com/juhaku/utoipa)
+[utoipa](https://github.com/juhaku/utoipa)

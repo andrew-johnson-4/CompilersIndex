@@ -1,3 +1,3 @@
 # fuzzing
 
-[fuzzing](https://github.com/google/graphicsfuzz)
+[graphicsfuzz](https://github.com/google/graphicsfuzz)

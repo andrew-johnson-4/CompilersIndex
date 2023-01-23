@@ -1,3 +1,3 @@
 # numba
 
-[numba](https://github.com/sdiehl/numpile)
+[numpile](https://github.com/sdiehl/numpile)

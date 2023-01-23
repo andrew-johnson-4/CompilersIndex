@@ -1,3 +1,3 @@
 # lava
 
-[lava](https://github.com/tommythorn/Reduceron)
+[Reduceron](https://github.com/tommythorn/Reduceron)

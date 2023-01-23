@@ -1,3 +1,3 @@
 # openwrt
 
-[openwrt](https://github.com/SuLingGG/OpenWrt-Rpi)
+[OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)

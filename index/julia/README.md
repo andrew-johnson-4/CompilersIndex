@@ -1,4 +1,4 @@
 # julia
 
-[julia](https://github.com/grame-cncm/faust)
-[julia](https://github.com/JuliaLang/PackageCompiler.jl)
+[faust](https://github.com/grame-cncm/faust)
+[PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)

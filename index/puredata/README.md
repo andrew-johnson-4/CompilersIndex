@@ -1,4 +1,4 @@
 # puredata
 
-[puredata](https://github.com/enzienaudio/hvcc)
-[puredata](https://github.com/vult-dsp/vult)
+[hvcc](https://github.com/enzienaudio/hvcc)
+[vult](https://github.com/vult-dsp/vult)

@@ -1,3 +1,3 @@
 # quantity
 
-[quantity](https://github.com/mpusz/units)
+[units](https://github.com/mpusz/units)

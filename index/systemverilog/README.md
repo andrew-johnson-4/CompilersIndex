@@ -1,4 +1,4 @@
 # systemverilog
 
-[systemverilog](https://github.com/clash-lang/clash-compiler)
-[systemverilog](https://github.com/MikePopoloski/slang)
+[clash-compiler](https://github.com/clash-lang/clash-compiler)
+[slang](https://github.com/MikePopoloski/slang)

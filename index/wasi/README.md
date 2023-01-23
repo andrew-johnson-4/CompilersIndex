@@ -1,6 +1,6 @@
 # wasi
 
-[wasi](https://github.com/bytecodealliance/lucet)
-[wasi](https://github.com/tinygo-org/tinygo)
-[wasi](https://github.com/wa-lang/wa)
-[wasi](https://github.com/tetratelabs/wazero)
+[lucet](https://github.com/bytecodealliance/lucet)
+[tinygo](https://github.com/tinygo-org/tinygo)
+[wa](https://github.com/wa-lang/wa)
+[wazero](https://github.com/tetratelabs/wazero)

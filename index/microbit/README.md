@@ -1,3 +1,3 @@
 # microbit
 
-[microbit](https://github.com/tinygo-org/tinygo)
+[tinygo](https://github.com/tinygo-org/tinygo)

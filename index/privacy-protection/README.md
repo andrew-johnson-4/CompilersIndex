@@ -1,3 +1,3 @@
 # privacy-protection
 
-[privacy-protection](https://github.com/Lissy93/personal-security-checklist)
+[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)

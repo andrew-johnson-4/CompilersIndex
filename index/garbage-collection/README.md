@@ -1,4 +1,4 @@
 # garbage-collection
 
-[garbage-collection](https://github.com/amilajack/reading)
-[garbage-collection](https://github.com/titzer/virgil)
+[reading](https://github.com/amilajack/reading)
+[virgil](https://github.com/titzer/virgil)

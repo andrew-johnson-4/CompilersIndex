@@ -1,10 +1,10 @@
 # jvm
 
-[jvm](https://github.com/cretz/asmble)
-[jvm](https://github.com/ikvm-revived/ikvm)
-[jvm](https://github.com/jphp-group/jphp)
-[jvm](https://github.com/jtransc/jtransc)
-[jvm](https://github.com/luaj/luaj)
-[jvm](https://github.com/eclipse-openj9/openj9)
-[jvm](https://github.com/fglock/Perlito)
-[jvm](https://github.com/MobiVM/robovm)
+[asmble](https://github.com/cretz/asmble)
+[ikvm](https://github.com/ikvm-revived/ikvm)
+[jphp](https://github.com/jphp-group/jphp)
+[jtransc](https://github.com/jtransc/jtransc)
+[luaj](https://github.com/luaj/luaj)
+[openj9](https://github.com/eclipse-openj9/openj9)
+[Perlito](https://github.com/fglock/Perlito)
+[robovm](https://github.com/MobiVM/robovm)

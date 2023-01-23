@@ -1,3 +1,3 @@
 # libpdk
 
-[libpdk](https://github.com/polarphp/polarphp)
+[polarphp](https://github.com/polarphp/polarphp)

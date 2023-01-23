@@ -1,3 +1,3 @@
 # record
 
-[record](https://github.com/KusionStack/KCLVM)
+[KCLVM](https://github.com/KusionStack/KCLVM)

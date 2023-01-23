@@ -1,3 +1,3 @@
 # vuejs
 
-[vuejs](https://github.com/HerringtonDarkholme/vue-compiler)
+[vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler)

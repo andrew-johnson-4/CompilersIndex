@@ -1,6 +1,6 @@
 # sqlite
 
-[sqlite](https://github.com/EvgSkv/logica)
-[sqlite](https://github.com/rbatis/rbatis)
-[sqlite](https://github.com/fsprojects/Rezoom.SQL)
-[sqlite](https://github.com/launchbadge/sqlx)
+[logica](https://github.com/EvgSkv/logica)
+[rbatis](https://github.com/rbatis/rbatis)
+[Rezoom.SQL](https://github.com/fsprojects/Rezoom.SQL)
+[sqlx](https://github.com/launchbadge/sqlx)

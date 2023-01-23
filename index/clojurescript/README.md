@@ -1,3 +1,3 @@
 # clojurescript
 
-[clojurescript](https://github.com/squint-cljs/squint)
+[squint](https://github.com/squint-cljs/squint)

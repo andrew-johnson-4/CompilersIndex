@@ -1,3 +1,3 @@
 # bash-script
 
-[bash-script](https://github.com/aeroxis/sultan)
+[sultan](https://github.com/aeroxis/sultan)

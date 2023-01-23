@@ -1,3 +1,3 @@
 # voxlang
 
-[voxlang](https://github.com/MrSmith33/vox)
+[vox](https://github.com/MrSmith33/vox)

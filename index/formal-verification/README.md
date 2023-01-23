@@ -1,3 +1,3 @@
 # formal-verification
 
-[formal-verification](https://github.com/CakeML/cakeml)
+[cakeml](https://github.com/CakeML/cakeml)

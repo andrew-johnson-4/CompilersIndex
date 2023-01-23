@@ -1,4 +1,4 @@
 # youtube
 
-[youtube](https://github.com/bisqwit/compiler_series)
-[youtube](https://github.com/Rick-Lang/rickroll-lang)
+[compiler_series](https://github.com/bisqwit/compiler_series)
+[rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)

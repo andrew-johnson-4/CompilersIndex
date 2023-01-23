@@ -1,3 +1,3 @@
 # k210
 
-[k210](https://github.com/kendryte/nncase)
+[nncase](https://github.com/kendryte/nncase)

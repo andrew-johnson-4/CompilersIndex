@@ -1,3 +1,3 @@
 # allocations
 
-[allocations](https://github.com/microsoft/RoslynClrHeapAllocationAnalyzer)
+[RoslynClrHeapAllocationAnalyzer](https://github.com/microsoft/RoslynClrHeapAllocationAnalyzer)

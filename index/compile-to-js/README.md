@@ -1,3 +1,3 @@
 # compile-to-js
 
-[compile-to-js](https://github.com/mint-lang/mint)
+[mint](https://github.com/mint-lang/mint)

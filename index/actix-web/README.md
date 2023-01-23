@@ -1,3 +1,3 @@
 # actix-web
 
-[actix-web](https://github.com/rbatis/rbatis)
+[rbatis](https://github.com/rbatis/rbatis)

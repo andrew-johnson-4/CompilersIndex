@@ -1,3 +1,3 @@
 # raytracer
 
-[raytracer](https://github.com/tcbrindle/raytracer.hpp)
+[raytracer.hpp](https://github.com/tcbrindle/raytracer.hpp)

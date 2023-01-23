@@ -1,3 +1,3 @@
 # tokio
 
-[tokio](https://github.com/rbatis/rbatis)
+[rbatis](https://github.com/rbatis/rbatis)

@@ -1,3 +1,3 @@
 # macos-bigsur
 
-[macos-bigsur](https://github.com/rsyncOSX/RsyncOSX)
+[RsyncOSX](https://github.com/rsyncOSX/RsyncOSX)

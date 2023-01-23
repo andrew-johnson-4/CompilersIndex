@@ -1,3 +1,3 @@
 # parsing-expression-grammar
 
-[parsing-expression-grammar](https://github.com/leafo/moonscript)
+[moonscript](https://github.com/leafo/moonscript)

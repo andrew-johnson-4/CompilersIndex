@@ -1,3 +1,3 @@
 # tools
 
-[tools](https://github.com/dotnet/fsharp)
+[fsharp](https://github.com/dotnet/fsharp)

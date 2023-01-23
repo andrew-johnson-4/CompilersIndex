@@ -1,3 +1,3 @@
 # vitess
 
-[vitess](https://github.com/planetscale/vtprotobuf)
+[vtprotobuf](https://github.com/planetscale/vtprotobuf)

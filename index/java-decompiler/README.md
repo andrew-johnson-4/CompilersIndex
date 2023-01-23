@@ -1,3 +1,3 @@
 # java-decompiler
 
-[java-decompiler](https://github.com/Konloch/bytecode-viewer)
+[bytecode-viewer](https://github.com/Konloch/bytecode-viewer)

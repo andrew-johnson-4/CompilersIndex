@@ -1,3 +1,3 @@
 # atomic-css
 
-[atomic-css](https://github.com/tamagui/tamagui)
+[tamagui](https://github.com/tamagui/tamagui)

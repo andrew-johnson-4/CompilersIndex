@@ -1,3 +1,3 @@
 # webpack-plugin
 
-[webpack-plugin](https://github.com/tamagui/tamagui)
+[tamagui](https://github.com/tamagui/tamagui)

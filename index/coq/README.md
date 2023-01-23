@@ -1,3 +1,3 @@
 # coq
 
-[coq](https://github.com/AbsInt/CompCert)
+[CompCert](https://github.com/AbsInt/CompCert)

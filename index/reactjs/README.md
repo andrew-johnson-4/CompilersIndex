@@ -1,3 +1,3 @@
 # reactjs
 
-[reactjs](https://github.com/atlassian-labs/compiled)
+[compiled](https://github.com/atlassian-labs/compiled)

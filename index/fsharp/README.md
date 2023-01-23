@@ -1,6 +1,6 @@
 # fsharp
 
-[fsharp](https://github.com/fable-compiler/Fable)
-[fsharp](https://github.com/kjnilsson/fez)
+[Fable](https://github.com/fable-compiler/Fable)
+[fez](https://github.com/kjnilsson/fez)
 [fsharp](https://github.com/dotnet/fsharp)
-[fsharp](https://github.com/fsprojects/Rezoom.SQL)
+[Rezoom.SQL](https://github.com/fsprojects/Rezoom.SQL)

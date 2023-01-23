@@ -1,3 +1,3 @@
 # computing
 
-[computing](https://github.com/nebuly-ai/nebullvm)
+[nebullvm](https://github.com/nebuly-ai/nebullvm)

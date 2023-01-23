@@ -1,3 +1,3 @@
 # user-defined
 
-[user-defined](https://github.com/hlorenzi/customasm)
+[customasm](https://github.com/hlorenzi/customasm)

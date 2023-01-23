@@ -1,3 +1,3 @@
 # glfw
 
-[glfw](https://github.com/jnmaloney/WebGui)
+[WebGui](https://github.com/jnmaloney/WebGui)

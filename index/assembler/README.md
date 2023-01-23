@@ -1,9 +1,9 @@
 # assembler
 
-[assembler](https://github.com/asmjit/asmjit)
-[assembler](https://github.com/hlorenzi/customasm)
-[assembler](https://github.com/Maratyszcza/PeachPy)
-[assembler](https://github.com/windelbouwman/ppci)
-[assembler](https://github.com/qmonnet/rbpf)
-[assembler](https://github.com/sdiehl/wasm)
-[assembler](https://github.com/z88dk/z88dk)
+[asmjit](https://github.com/asmjit/asmjit)
+[customasm](https://github.com/hlorenzi/customasm)
+[PeachPy](https://github.com/Maratyszcza/PeachPy)
+[ppci](https://github.com/windelbouwman/ppci)
+[rbpf](https://github.com/qmonnet/rbpf)
+[wasm](https://github.com/sdiehl/wasm)
+[z88dk](https://github.com/z88dk/z88dk)

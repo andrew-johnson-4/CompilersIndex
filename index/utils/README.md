@@ -1,3 +1,3 @@
 # utils
 
-[utils](https://github.com/badamczewski/PowerUp)
+[PowerUp](https://github.com/badamczewski/PowerUp)

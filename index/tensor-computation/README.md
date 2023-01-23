@@ -1,3 +1,3 @@
 # tensor-computation
 
-[tensor-computation](https://github.com/microsoft/hummingbird)
+[hummingbird](https://github.com/microsoft/hummingbird)

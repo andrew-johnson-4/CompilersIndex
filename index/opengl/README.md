@@ -1,5 +1,5 @@
 # opengl
 
-[opengl](https://github.com/google/graphicsfuzz)
-[opengl](https://github.com/crosire/reshade)
-[opengl](https://github.com/microsoft/ShaderConductor)
+[graphicsfuzz](https://github.com/google/graphicsfuzz)
+[reshade](https://github.com/crosire/reshade)
+[ShaderConductor](https://github.com/microsoft/ShaderConductor)

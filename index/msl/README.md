@@ -1,3 +1,3 @@
 # msl
 
-[msl](https://github.com/septag/glslcc)
+[glslcc](https://github.com/septag/glslcc)

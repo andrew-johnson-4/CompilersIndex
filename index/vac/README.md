@@ -1,3 +1,3 @@
 # vac
 
-[vac](https://github.com/danielkrupinski/VAC)
+[VAC](https://github.com/danielkrupinski/VAC)

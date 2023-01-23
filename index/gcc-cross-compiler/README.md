@@ -1,4 +1,4 @@
 # gcc-cross-compiler
 
-[gcc-cross-compiler](https://github.com/messense/homebrew-macos-cross-toolchains)
-[gcc-cross-compiler](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
+[homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains)
+[raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers)

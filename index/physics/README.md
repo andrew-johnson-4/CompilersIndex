@@ -1,3 +1,3 @@
 # physics
 
-[physics](https://github.com/m-labs/artiq)
+[artiq](https://github.com/m-labs/artiq)

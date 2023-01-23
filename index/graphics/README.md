@@ -1,6 +1,6 @@
 # graphics
 
-[graphics](https://github.com/a2flo/floor)
-[graphics](https://github.com/jweinst1/Oblivion)
-[graphics](https://github.com/google/shaderc)
-[graphics](https://github.com/microsoft/ShaderConductor)
+[floor](https://github.com/a2flo/floor)
+[Oblivion](https://github.com/jweinst1/Oblivion)
+[shaderc](https://github.com/google/shaderc)
+[ShaderConductor](https://github.com/microsoft/ShaderConductor)

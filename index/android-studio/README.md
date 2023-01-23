@@ -1,3 +1,3 @@
 # android-studio
 
-[android-studio](https://github.com/manifold-systems/manifold)
+[manifold](https://github.com/manifold-systems/manifold)

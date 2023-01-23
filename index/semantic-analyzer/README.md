@@ -1,3 +1,3 @@
 # semantic-analyzer
 
-[semantic-analyzer](https://github.com/ArashPartow/exprtk)
+[exprtk](https://github.com/ArashPartow/exprtk)

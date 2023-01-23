@@ -1,3 +1,3 @@
 # lang
 
-[lang](https://github.com/Gwion/Gwion)
+[Gwion](https://github.com/Gwion/Gwion)

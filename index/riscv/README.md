@@ -1,5 +1,5 @@
 # riscv
 
-[riscv](https://github.com/larsbrinkhoff/lbForth)
-[riscv](https://github.com/windelbouwman/ppci)
-[riscv](https://github.com/jserv/shecc)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)
+[ppci](https://github.com/windelbouwman/ppci)
+[shecc](https://github.com/jserv/shecc)

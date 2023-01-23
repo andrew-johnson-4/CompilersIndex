@@ -1,3 +1,3 @@
 # paper-implementations
 
-[paper-implementations](https://github.com/namin/inc)
+[inc](https://github.com/namin/inc)

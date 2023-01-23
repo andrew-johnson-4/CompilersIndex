@@ -1,3 +1,3 @@
 # remark-plugin
 
-[remark-plugin](https://github.com/shikijs/twoslash)
+[twoslash](https://github.com/shikijs/twoslash)

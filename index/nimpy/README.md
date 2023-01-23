@@ -1,3 +1,3 @@
 # nimpy
 
-[nimpy](https://github.com/Pebaz/nimporter)
+[nimporter](https://github.com/Pebaz/nimporter)

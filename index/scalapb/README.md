@@ -1,3 +1,3 @@
 # scalapb
 
-[scalapb](https://github.com/scalapb/ScalaPB)
+[ScalaPB](https://github.com/scalapb/ScalaPB)

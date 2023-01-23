@@ -1,4 +1,4 @@
 # r7rs
 
-[r7rs](https://github.com/justinethier/cyclone)
-[r7rs](https://github.com/objecthub/swift-lispkit)
+[cyclone](https://github.com/justinethier/cyclone)
+[swift-lispkit](https://github.com/objecthub/swift-lispkit)

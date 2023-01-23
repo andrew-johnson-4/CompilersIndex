@@ -1,3 +1,3 @@
 # assertions
 
-[assertions](https://github.com/bnorm/kotlin-power-assert)
+[kotlin-power-assert](https://github.com/bnorm/kotlin-power-assert)

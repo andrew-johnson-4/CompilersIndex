@@ -1,4 +1,4 @@
 # linux-kernel
 
-[linux-kernel](https://github.com/XWHQSJ/ebooks)
-[linux-kernel](https://github.com/amezin/vscode-linux-kernel)
+[ebooks](https://github.com/XWHQSJ/ebooks)
+[vscode-linux-kernel](https://github.com/amezin/vscode-linux-kernel)

@@ -1,3 +1,3 @@
 # language-learning
 
-[language-learning](https://github.com/chigraph/chigraph)
+[chigraph](https://github.com/chigraph/chigraph)

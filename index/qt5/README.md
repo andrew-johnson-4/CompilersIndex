@@ -1,5 +1,5 @@
 # qt5
 
-[qt5](https://github.com/cpeditor/cpeditor)
-[qt5](https://github.com/kitech/qt.go)
-[qt5](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
+[cpeditor](https://github.com/cpeditor/cpeditor)
+[qt.go](https://github.com/kitech/qt.go)
+[raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers)

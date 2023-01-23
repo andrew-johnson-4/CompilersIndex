@@ -1,3 +1,3 @@
 # nimporter-libraries
 
-[nimporter-libraries](https://github.com/Pebaz/nimporter)
+[nimporter](https://github.com/Pebaz/nimporter)

@@ -1,3 +1,3 @@
 # dataflow-analyzer
 
-[dataflow-analyzer](https://github.com/PyHDI/Pyverilog)
+[Pyverilog](https://github.com/PyHDI/Pyverilog)

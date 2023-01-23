@@ -1,4 +1,4 @@
 # fortran
 
-[fortran](https://github.com/flang-compiler/flang)
-[fortran](https://github.com/lfortran/lfortran)
+[flang](https://github.com/flang-compiler/flang)
+[lfortran](https://github.com/lfortran/lfortran)

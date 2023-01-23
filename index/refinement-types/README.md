@@ -1,3 +1,3 @@
 # refinement-types
 
-[refinement-types](https://github.com/jfecher/ante)
+[ante](https://github.com/jfecher/ante)

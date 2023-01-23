@@ -1,4 +1,4 @@
 # gamedev
 
-[gamedev](https://github.com/phisko/kengine)
-[gamedev](https://github.com/MaikKlein/rlsl)
+[kengine](https://github.com/phisko/kengine)
+[rlsl](https://github.com/MaikKlein/rlsl)

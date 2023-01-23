@@ -1,4 +1,4 @@
 # reflection
 
-[reflection](https://github.com/aantron/better-enums)
-[reflection](https://github.com/veselink1/refl-cpp)
+[better-enums](https://github.com/aantron/better-enums)
+[refl-cpp](https://github.com/veselink1/refl-cpp)

@@ -1,3 +1,3 @@
 # cantonese
 
-[cantonese](https://github.com/StepfenShawn/Cantonese)
+[Cantonese](https://github.com/StepfenShawn/Cantonese)

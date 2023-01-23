@@ -1,3 +1,3 @@
 # gpu-programming
 
-[gpu-programming](https://github.com/exaloop/codon)
+[codon](https://github.com/exaloop/codon)

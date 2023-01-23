@@ -1,3 +1,3 @@
 # wasm-bindgen
 
-[wasm-bindgen](https://github.com/thedodd/trunk)
+[trunk](https://github.com/thedodd/trunk)

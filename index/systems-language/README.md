@@ -1,5 +1,5 @@
 # systems-language
 
-[systems-language](https://github.com/jfecher/ante)
-[systems-language](https://github.com/jondgoodwin/cone)
-[systems-language](https://github.com/pikelet-lang/pikelet)
+[ante](https://github.com/jfecher/ante)
+[cone](https://github.com/jondgoodwin/cone)
+[pikelet](https://github.com/pikelet-lang/pikelet)

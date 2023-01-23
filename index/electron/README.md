@@ -1,4 +1,4 @@
 # electron
 
-[electron](https://github.com/electron-userland/electron-webpack)
-[electron](https://github.com/adopted-ember-addons/ember-electron)
+[electron-webpack](https://github.com/electron-userland/electron-webpack)
+[ember-electron](https://github.com/adopted-ember-addons/ember-electron)

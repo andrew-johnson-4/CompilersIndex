@@ -1,3 +1,3 @@
 # json-schema
 
-[json-schema](https://github.com/bcherny/json-schema-to-typescript)
+[json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)

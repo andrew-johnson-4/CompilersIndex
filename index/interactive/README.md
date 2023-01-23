@@ -1,4 +1,4 @@
 # interactive
 
-[interactive](https://github.com/lfortran/lfortran)
-[interactive](https://github.com/vasyop/miniC-hosting)
+[lfortran](https://github.com/lfortran/lfortran)
+[miniC-hosting](https://github.com/vasyop/miniC-hosting)

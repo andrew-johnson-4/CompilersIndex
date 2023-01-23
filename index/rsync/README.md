@@ -1,3 +1,3 @@
 # rsync
 
-[rsync](https://github.com/rsyncOSX/RsyncOSX)
+[RsyncOSX](https://github.com/rsyncOSX/RsyncOSX)

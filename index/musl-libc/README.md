@@ -1,3 +1,3 @@
 # musl-libc
 
-[musl-libc](https://github.com/rust-cross/rust-musl-cross)
+[rust-musl-cross](https://github.com/rust-cross/rust-musl-cross)

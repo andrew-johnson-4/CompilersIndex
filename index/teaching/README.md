@@ -1,3 +1,3 @@
 # teaching
 
-[teaching](https://github.com/cksystemsteaching/selfie)
+[selfie](https://github.com/cksystemsteaching/selfie)

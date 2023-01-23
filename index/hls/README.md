@@ -1,4 +1,4 @@
 # hls
 
-[hls](https://github.com/JulianKemmerer/PipelineC)
-[hls](https://github.com/google/xls)
+[PipelineC](https://github.com/JulianKemmerer/PipelineC)
+[xls](https://github.com/google/xls)

@@ -1,3 +1,3 @@
 # es-modules
 
-[es-modules](https://github.com/alangpierce/sucrase)
+[sucrase](https://github.com/alangpierce/sucrase)

@@ -1,3 +1,3 @@
 # verilog-hdl
 
-[verilog-hdl](https://github.com/PyHDI/Pyverilog)
+[Pyverilog](https://github.com/PyHDI/Pyverilog)

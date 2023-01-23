@@ -1,5 +1,5 @@
 # codeforces
 
-[codeforces](https://github.com/Rishabh-malhotraa/caucus)
-[codeforces](https://github.com/cpeditor/cpeditor)
-[codeforces](https://github.com/agrawal-d/cph)
+[caucus](https://github.com/Rishabh-malhotraa/caucus)
+[cpeditor](https://github.com/cpeditor/cpeditor)
+[cph](https://github.com/agrawal-d/cph)

@@ -1,3 +1,3 @@
 # lsp-server
 
-[lsp-server](https://github.com/rust-lang/rust-analyzer)
+[rust-analyzer](https://github.com/rust-lang/rust-analyzer)

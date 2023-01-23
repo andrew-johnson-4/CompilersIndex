@@ -1,3 +1,3 @@
 # model-optimizer
 
-[model-optimizer](https://github.com/Adlik/Adlik)
+[Adlik](https://github.com/Adlik/Adlik)

@@ -1,7 +1,7 @@
 # jit-compiler
 
-[jit-compiler](https://github.com/jserv/amacc)
-[jit-compiler](https://github.com/AdoptOpenJDK/jitwatch)
-[jit-compiler](https://github.com/vnmakarov/mir)
-[jit-compiler](https://github.com/qmonnet/rbpf)
-[jit-compiler](https://github.com/Shopify/yjit)
+[amacc](https://github.com/jserv/amacc)
+[jitwatch](https://github.com/AdoptOpenJDK/jitwatch)
+[mir](https://github.com/vnmakarov/mir)
+[rbpf](https://github.com/qmonnet/rbpf)
+[yjit](https://github.com/Shopify/yjit)

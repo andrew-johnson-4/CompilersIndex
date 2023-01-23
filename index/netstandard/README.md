@@ -1,3 +1,3 @@
 # netstandard
 
-[netstandard](https://github.com/peachpiecompiler/peachpie)
+[peachpie](https://github.com/peachpiecompiler/peachpie)

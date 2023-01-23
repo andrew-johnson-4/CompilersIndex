@@ -1,3 +1,3 @@
 # ida
 
-[ida](https://github.com/sibears/IDAGolangHelper)
+[IDAGolangHelper](https://github.com/sibears/IDAGolangHelper)

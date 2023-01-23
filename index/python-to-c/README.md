@@ -1,3 +1,3 @@
 # python-to-c
 
-[python-to-c](https://github.com/zanellia/prometeo)
+[prometeo](https://github.com/zanellia/prometeo)

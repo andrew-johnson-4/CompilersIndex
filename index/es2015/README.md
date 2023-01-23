@@ -1,6 +1,6 @@
 # es2015
 
-[es2015](https://github.com/babel/babel)
-[es2015](https://github.com/owenthereal/godzilla)
-[es2015](https://github.com/lebab/lebab)
-[es2015](https://github.com/webpack/webpack)
+[babel](https://github.com/babel/babel)
+[godzilla](https://github.com/owenthereal/godzilla)
+[lebab](https://github.com/lebab/lebab)
+[webpack](https://github.com/webpack/webpack)

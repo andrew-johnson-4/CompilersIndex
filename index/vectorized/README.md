@@ -1,3 +1,3 @@
 # vectorized
 
-[vectorized](https://github.com/JustasMasiulis/xorstr)
+[xorstr](https://github.com/JustasMasiulis/xorstr)

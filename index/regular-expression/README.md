@@ -1,6 +1,6 @@
 # regular-expression
 
-[regular-expression](https://github.com/hanickadot/compile-time-regular-expressions)
-[regular-expression](https://github.com/danielroe/magic-regexp)
-[regular-expression](https://github.com/yoav-lavi/melody)
-[regular-expression](https://github.com/Genivia/RE-flex)
+[compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions)
+[magic-regexp](https://github.com/danielroe/magic-regexp)
+[melody](https://github.com/yoav-lavi/melody)
+[RE-flex](https://github.com/Genivia/RE-flex)

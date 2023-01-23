@@ -1,3 +1,3 @@
 # compilation-server
 
-[compilation-server](https://github.com/scalacenter/bloop)
+[bloop](https://github.com/scalacenter/bloop)

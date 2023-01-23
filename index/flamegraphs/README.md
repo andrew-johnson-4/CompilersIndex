@@ -1,3 +1,3 @@
 # flamegraphs
 
-[flamegraphs](https://github.com/llogiq/flamer)
+[flamer](https://github.com/llogiq/flamer)

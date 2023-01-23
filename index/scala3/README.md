@@ -1,3 +1,3 @@
 # scala3
 
-[scala3](https://github.com/lampepfl/dotty)
+[dotty](https://github.com/lampepfl/dotty)

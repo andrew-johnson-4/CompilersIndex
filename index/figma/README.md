@@ -1,3 +1,3 @@
 # figma
 
-[figma](https://github.com/BuilderIO/mitosis)
+[mitosis](https://github.com/BuilderIO/mitosis)

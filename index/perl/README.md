@@ -1,4 +1,4 @@
 # perl
 
-[perl](https://github.com/fglock/Perlito)
-[perl](https://github.com/neurobin/shc)
+[Perlito](https://github.com/fglock/Perlito)
+[shc](https://github.com/neurobin/shc)

@@ -1,3 +1,3 @@
 # fast
 
-[fast](https://github.com/dlang/dmd)
+[dmd](https://github.com/dlang/dmd)

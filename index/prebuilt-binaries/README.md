@@ -1,3 +1,3 @@
 # prebuilt-binaries
 
-[prebuilt-binaries](https://github.com/packem/packem)
+[packem](https://github.com/packem/packem)

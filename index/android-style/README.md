@@ -1,3 +1,3 @@
 # android-style
 
-[android-style](https://github.com/diez/diez)
+[diez](https://github.com/diez/diez)

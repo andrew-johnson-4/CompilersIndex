@@ -1,3 +1,3 @@
 # language-service
 
-[language-service](https://github.com/MikePopoloski/slang)
+[slang](https://github.com/MikePopoloski/slang)

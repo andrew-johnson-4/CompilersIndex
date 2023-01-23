@@ -1,3 +1,3 @@
 # odroid
 
-[odroid](https://github.com/ai-techsystems/deepC)
+[deepC](https://github.com/ai-techsystems/deepC)

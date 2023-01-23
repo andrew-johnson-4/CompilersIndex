@@ -1,3 +1,3 @@
 # kendryte
 
-[kendryte](https://github.com/kendryte/nncase)
+[nncase](https://github.com/kendryte/nncase)

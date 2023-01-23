@@ -1,3 +1,3 @@
 # m1
 
-[m1](https://github.com/vnmakarov/mir)
+[mir](https://github.com/vnmakarov/mir)

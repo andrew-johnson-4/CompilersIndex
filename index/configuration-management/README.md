@@ -1,3 +1,3 @@
 # configuration-management
 
-[configuration-management](https://github.com/KusionStack/KCLVM)
+[KCLVM](https://github.com/KusionStack/KCLVM)

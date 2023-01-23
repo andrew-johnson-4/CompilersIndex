@@ -1,3 +1,3 @@
 # teal
 
-[teal](https://github.com/teal-language/tl)
+[tl](https://github.com/teal-language/tl)

@@ -1,9 +1,9 @@
 # library
 
-[library](https://github.com/vittorioromeo/ecst)
-[library](https://github.com/area9innovation/flow9)
-[library](https://github.com/paulbartrum/jurassic)
-[library](https://github.com/lfortran/lfortran)
-[library](https://github.com/tensor-compiler/taco)
-[library](https://github.com/Tiramisu-Compiler/tiramisu)
-[library](https://github.com/mpusz/units)
+[ecst](https://github.com/vittorioromeo/ecst)
+[flow9](https://github.com/area9innovation/flow9)
+[jurassic](https://github.com/paulbartrum/jurassic)
+[lfortran](https://github.com/lfortran/lfortran)
+[taco](https://github.com/tensor-compiler/taco)
+[tiramisu](https://github.com/Tiramisu-Compiler/tiramisu)
+[units](https://github.com/mpusz/units)

@@ -1,3 +1,3 @@
 # bison
 
-[bison](https://github.com/Genivia/RE-flex)
+[RE-flex](https://github.com/Genivia/RE-flex)

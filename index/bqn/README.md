@@ -1,3 +1,3 @@
 # bqn
 
-[bqn](https://github.com/mlochbaum/BQN)
+[BQN](https://github.com/mlochbaum/BQN)

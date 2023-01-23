@@ -1,3 +1,3 @@
 # packaging-tool
 
-[packaging-tool](https://github.com/Nuitka/Nuitka)
+[Nuitka](https://github.com/Nuitka/Nuitka)

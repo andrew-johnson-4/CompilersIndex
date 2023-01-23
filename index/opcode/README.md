@@ -1,3 +1,3 @@
 # opcode
 
-[opcode](https://github.com/sablejs/sablejs)
+[sablejs](https://github.com/sablejs/sablejs)

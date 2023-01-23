@@ -1,3 +1,3 @@
 # huff
 
-[huff](https://github.com/huff-language/huff-rs)
+[huff-rs](https://github.com/huff-language/huff-rs)

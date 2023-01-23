@@ -1,8 +1,8 @@
 # macros
 
-[macros](https://github.com/arrow-kt/arrow-meta)
-[macros](https://github.com/HaxeFoundation/haxe)
-[macros](https://github.com/hylang/hy)
-[macros](https://github.com/plokhotnyuk/jsoniter-scala)
-[macros](https://github.com/nim-lang/Nim)
-[macros](https://github.com/vrtbl/passerine)
+[arrow-meta](https://github.com/arrow-kt/arrow-meta)
+[haxe](https://github.com/HaxeFoundation/haxe)
+[hy](https://github.com/hylang/hy)
+[jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala)
+[Nim](https://github.com/nim-lang/Nim)
+[passerine](https://github.com/vrtbl/passerine)

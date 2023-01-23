@@ -1,3 +1,3 @@
 # sound
 
-[sound](https://github.com/Gwion/Gwion)
+[Gwion](https://github.com/Gwion/Gwion)

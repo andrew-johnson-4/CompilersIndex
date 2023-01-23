@@ -1,3 +1,3 @@
 # hashmap
 
-[hashmap](https://github.com/hogliux/semimap)
+[semimap](https://github.com/hogliux/semimap)

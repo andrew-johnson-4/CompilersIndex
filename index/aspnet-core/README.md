@@ -1,3 +1,3 @@
 # aspnet-core
 
-[aspnet-core](https://github.com/peachpiecompiler/peachpie)
+[peachpie](https://github.com/peachpiecompiler/peachpie)

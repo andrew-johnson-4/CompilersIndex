@@ -1,3 +1,3 @@
 # distributed-computing
 
-[distributed-computing](https://github.com/alpa-projects/alpa)
+[alpa](https://github.com/alpa-projects/alpa)

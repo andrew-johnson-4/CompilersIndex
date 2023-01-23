@@ -1,7 +1,7 @@
 # dlang
 
-[dlang](https://github.com/compiler-explorer/compiler-explorer)
-[dlang](https://github.com/dlang/dmd)
-[dlang](https://github.com/grame-cncm/faust)
-[dlang](https://github.com/ldc-developers/ldc)
-[dlang](https://github.com/MrSmith33/vox)
+[compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
+[dmd](https://github.com/dlang/dmd)
+[faust](https://github.com/grame-cncm/faust)
+[ldc](https://github.com/ldc-developers/ldc)
+[vox](https://github.com/MrSmith33/vox)

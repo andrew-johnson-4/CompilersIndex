@@ -1,3 +1,3 @@
 # tokio-async-std
 
-[tokio-async-std](https://github.com/rbatis/rbatis)
+[rbatis](https://github.com/rbatis/rbatis)

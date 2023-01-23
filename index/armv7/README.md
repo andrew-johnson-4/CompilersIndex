@@ -1,4 +1,4 @@
 # armv7
 
-[armv7](https://github.com/bravobit/FFmpeg-Android)
-[armv7](https://github.com/jserv/shecc)
+[FFmpeg-Android](https://github.com/bravobit/FFmpeg-Android)
+[shecc](https://github.com/jserv/shecc)

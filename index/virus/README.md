@@ -1,4 +1,4 @@
 # virus
 
-[virus](https://github.com/sithis993/Crypter)
-[virus](https://github.com/alvin-tosh/Malware-Exhibit)
+[Crypter](https://github.com/sithis993/Crypter)
+[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)

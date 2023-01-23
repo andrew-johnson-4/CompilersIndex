@@ -1,3 +1,3 @@
 # des
 
-[des](https://github.com/wbond/oscrypto)
+[oscrypto](https://github.com/wbond/oscrypto)

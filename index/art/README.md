@@ -1,3 +1,3 @@
 # art
 
-[art](https://github.com/jweinst1/Oblivion)
+[Oblivion](https://github.com/jweinst1/Oblivion)

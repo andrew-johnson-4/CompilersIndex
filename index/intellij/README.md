@@ -1,3 +1,3 @@
 # intellij
 
-[intellij](https://github.com/manifold-systems/manifold)
+[manifold](https://github.com/manifold-systems/manifold)

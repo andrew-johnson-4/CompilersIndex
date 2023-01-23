@@ -1,3 +1,3 @@
 # mtail-programs
 
-[mtail-programs](https://github.com/google/mtail)
+[mtail](https://github.com/google/mtail)

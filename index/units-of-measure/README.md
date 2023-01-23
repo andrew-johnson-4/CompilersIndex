@@ -1,3 +1,3 @@
 # units-of-measure
 
-[units-of-measure](https://github.com/mpusz/units)
+[units](https://github.com/mpusz/units)

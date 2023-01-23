@@ -1,3 +1,3 @@
 # diagnostics
 
-[diagnostics](https://github.com/zesterer/ariadne)
+[ariadne](https://github.com/zesterer/ariadne)

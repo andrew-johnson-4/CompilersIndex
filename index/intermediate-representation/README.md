@@ -1,4 +1,4 @@
 # intermediate-representation
 
-[intermediate-representation](https://github.com/vnmakarov/mir)
-[intermediate-representation](https://github.com/sdiehl/write-you-a-haskell)
+[mir](https://github.com/vnmakarov/mir)
+[write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell)

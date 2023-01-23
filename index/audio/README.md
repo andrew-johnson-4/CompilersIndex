@@ -1,4 +1,4 @@
 # audio
 
-[audio](https://github.com/grame-cncm/faust)
-[audio](https://github.com/Gwion/Gwion)
+[faust](https://github.com/grame-cncm/faust)
+[Gwion](https://github.com/Gwion/Gwion)

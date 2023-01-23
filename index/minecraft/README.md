@@ -1,3 +1,3 @@
 # minecraft
 
-[minecraft](https://github.com/SuperTails/langcraft)
+[langcraft](https://github.com/SuperTails/langcraft)

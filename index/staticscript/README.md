@@ -1,3 +1,3 @@
 # staticscript
 
-[staticscript](https://github.com/StaticScript/StaticScript)
+[StaticScript](https://github.com/StaticScript/StaticScript)

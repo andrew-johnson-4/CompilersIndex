@@ -1,3 +1,3 @@
 # modules
 
-[modules](https://github.com/parcel-bundler/parcel)
+[parcel](https://github.com/parcel-bundler/parcel)

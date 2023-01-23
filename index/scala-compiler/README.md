@@ -1,5 +1,5 @@
 # scala-compiler
 
-[scala-compiler](https://github.com/softwaremill/scala-clippy)
-[scala-compiler](https://github.com/scala/scala)
-[scala-compiler](https://github.com/scapegoat-scala/scapegoat)
+[scala-clippy](https://github.com/softwaremill/scala-clippy)
+[scala](https://github.com/scala/scala)
+[scapegoat](https://github.com/scapegoat-scala/scapegoat)

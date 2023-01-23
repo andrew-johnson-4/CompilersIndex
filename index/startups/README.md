@@ -1,3 +1,3 @@
 # startups
 
-[startups](https://github.com/mmccaff/PlacesToPostYourStartup)
+[PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)

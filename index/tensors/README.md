@@ -1,3 +1,3 @@
 # tensors
 
-[tensors](https://github.com/Tiramisu-Compiler/tiramisu)
+[tiramisu](https://github.com/Tiramisu-Compiler/tiramisu)

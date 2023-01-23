@@ -1,3 +1,3 @@
 # cantonese-language
 
-[cantonese-language](https://github.com/StepfenShawn/Cantonese)
+[Cantonese](https://github.com/StepfenShawn/Cantonese)

@@ -1,3 +1,3 @@
 # pe-format
 
-[pe-format](https://github.com/MrSmith33/vox)
+[vox](https://github.com/MrSmith33/vox)

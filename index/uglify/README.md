@@ -1,3 +1,3 @@
 # uglify
 
-[uglify](https://github.com/bokub/lyo)
+[lyo](https://github.com/bokub/lyo)

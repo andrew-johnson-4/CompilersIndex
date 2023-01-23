@@ -1,3 +1,3 @@
 # matrix-library
 
-[matrix-library](https://github.com/Hedgehog-Computing/hedgehog-lab)
+[hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab)

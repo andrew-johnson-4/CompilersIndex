@@ -1,3 +1,3 @@
 # codemirror
 
-[codemirror](https://github.com/Rishabh-malhotraa/caucus)
+[caucus](https://github.com/Rishabh-malhotraa/caucus)

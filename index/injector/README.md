@@ -1,3 +1,3 @@
 # injector
 
-[injector](https://github.com/crosire/reshade)
+[reshade](https://github.com/crosire/reshade)

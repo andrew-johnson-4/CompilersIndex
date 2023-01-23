@@ -1,3 +1,3 @@
 # nanopass
 
-[nanopass](https://github.com/soegaard/urlang)
+[urlang](https://github.com/soegaard/urlang)

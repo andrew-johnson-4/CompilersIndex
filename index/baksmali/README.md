@@ -1,3 +1,3 @@
 # baksmali
 
-[baksmali](https://github.com/Konloch/bytecode-viewer)
+[bytecode-viewer](https://github.com/Konloch/bytecode-viewer)

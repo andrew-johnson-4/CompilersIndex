@@ -1,3 +1,3 @@
 # flowtype
 
-[flowtype](https://github.com/bcherny/flow-to-typescript)
+[flow-to-typescript](https://github.com/bcherny/flow-to-typescript)

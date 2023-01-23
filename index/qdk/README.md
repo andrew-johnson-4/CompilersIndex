@@ -1,3 +1,3 @@
 # qdk
 
-[qdk](https://github.com/microsoft/qsharp-compiler)
+[qsharp-compiler](https://github.com/microsoft/qsharp-compiler)

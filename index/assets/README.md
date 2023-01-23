@@ -1,5 +1,5 @@
 # assets
 
-[assets](https://github.com/choojs/bankai)
-[assets](https://github.com/parcel-bundler/parcel)
-[assets](https://github.com/thedodd/trunk)
+[bankai](https://github.com/choojs/bankai)
+[parcel](https://github.com/parcel-bundler/parcel)
+[trunk](https://github.com/thedodd/trunk)

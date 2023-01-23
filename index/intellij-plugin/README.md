@@ -1,4 +1,4 @@
 # intellij-plugin
 
-[intellij-plugin](https://github.com/arrow-kt/arrow-meta)
-[intellij-plugin](https://github.com/JetBrains/kotlin)
+[arrow-meta](https://github.com/arrow-kt/arrow-meta)
+[kotlin](https://github.com/JetBrains/kotlin)

@@ -1,7 +1,7 @@
 # graphql
 
-[graphql](https://github.com/apollographql/apollo-rs)
-[graphql](https://github.com/gatsbyjs/gatsby)
-[graphql](https://github.com/kensho-technologies/graphql-compiler)
-[graphql](https://github.com/manifold-systems/manifold)
-[graphql](https://github.com/railt/railt)
+[apollo-rs](https://github.com/apollographql/apollo-rs)
+[gatsby](https://github.com/gatsbyjs/gatsby)
+[graphql-compiler](https://github.com/kensho-technologies/graphql-compiler)
+[manifold](https://github.com/manifold-systems/manifold)
+[railt](https://github.com/railt/railt)

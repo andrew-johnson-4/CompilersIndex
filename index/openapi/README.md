@@ -1,4 +1,4 @@
 # openapi
 
-[openapi](https://github.com/google/gnostic)
-[openapi](https://github.com/juhaku/utoipa)
+[gnostic](https://github.com/google/gnostic)
+[utoipa](https://github.com/juhaku/utoipa)

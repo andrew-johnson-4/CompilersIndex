@@ -1,3 +1,3 @@
 # ffprobe
 
-[ffprobe](https://github.com/bravobit/FFmpeg-Android)
+[FFmpeg-Android](https://github.com/bravobit/FFmpeg-Android)

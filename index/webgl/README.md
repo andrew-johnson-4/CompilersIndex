@@ -1,4 +1,4 @@
 # webgl
 
-[webgl](https://github.com/Hedgehog-Computing/hedgehog-lab)
-[webgl](https://github.com/paulmg/ThreeJS-Webpack-ES6-Boilerplate)
+[hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab)
+[ThreeJS-Webpack-ES6-Boilerplate](https://github.com/paulmg/ThreeJS-Webpack-ES6-Boilerplate)

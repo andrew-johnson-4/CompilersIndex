@@ -1,4 +1,4 @@
 # big-data
 
-[big-data](https://github.com/cython/cython)
-[big-data](https://github.com/IntelPython/sdc)
+[cython](https://github.com/cython/cython)
+[sdc](https://github.com/IntelPython/sdc)

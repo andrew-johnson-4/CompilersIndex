@@ -1,3 +1,3 @@
 # responsive
 
-[responsive](https://github.com/bootstrap-email/bootstrap-email)
+[bootstrap-email](https://github.com/bootstrap-email/bootstrap-email)

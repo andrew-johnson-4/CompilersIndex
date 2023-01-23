@@ -1,3 +1,3 @@
 # design-tokens
 
-[design-tokens](https://github.com/diez/diez)
+[diez](https://github.com/diez/diez)

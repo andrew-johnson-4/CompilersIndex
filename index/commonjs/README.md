@@ -1,5 +1,5 @@
 # commonjs
 
-[commonjs](https://github.com/evanw/esbuild)
-[commonjs](https://github.com/parcel-bundler/parcel)
-[commonjs](https://github.com/webpack/webpack)
+[esbuild](https://github.com/evanw/esbuild)
+[parcel](https://github.com/parcel-bundler/parcel)
+[webpack](https://github.com/webpack/webpack)

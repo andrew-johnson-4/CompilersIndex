@@ -1,3 +1,3 @@
 # jupyter
 
-[jupyter](https://github.com/lfortran/lfortran)
+[lfortran](https://github.com/lfortran/lfortran)

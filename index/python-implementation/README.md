@@ -1,3 +1,3 @@
 # python-implementation
 
-[python-implementation](https://github.com/shedskin/shedskin)
+[shedskin](https://github.com/shedskin/shedskin)

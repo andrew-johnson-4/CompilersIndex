@@ -1,3 +1,3 @@
 # image-processing
 
-[image-processing](https://github.com/halide/Halide)
+[Halide](https://github.com/halide/Halide)

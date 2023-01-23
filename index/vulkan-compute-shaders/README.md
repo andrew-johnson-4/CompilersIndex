@@ -1,3 +1,3 @@
 # vulkan-compute-shaders
 
-[vulkan-compute-shaders](https://github.com/google/clspv)
+[clspv](https://github.com/google/clspv)

@@ -1,3 +1,3 @@
 # error-prone
 
-[error-prone](https://github.com/tbroyer/gradle-errorprone-plugin)
+[gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin)

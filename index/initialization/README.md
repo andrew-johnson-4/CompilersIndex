@@ -1,3 +1,3 @@
 # initialization
 
-[initialization](https://github.com/google/wire)
+[wire](https://github.com/google/wire)

@@ -1,4 +1,4 @@
 # deep-neural-networks
 
-[deep-neural-networks](https://github.com/NervanaSystems/ngraph)
-[deep-neural-networks](https://github.com/Tiramisu-Compiler/tiramisu)
+[ngraph](https://github.com/NervanaSystems/ngraph)
+[tiramisu](https://github.com/Tiramisu-Compiler/tiramisu)

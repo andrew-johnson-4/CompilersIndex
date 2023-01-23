@@ -1,3 +1,3 @@
 # bypass-av
 
-[bypass-av](https://github.com/screetsec/TheFatRat)
+[TheFatRat](https://github.com/screetsec/TheFatRat)

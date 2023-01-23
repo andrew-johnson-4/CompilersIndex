@@ -1,3 +1,3 @@
 # just-in-time
 
-[just-in-time](https://github.com/vmware-archive/cascade)
+[cascade](https://github.com/vmware-archive/cascade)

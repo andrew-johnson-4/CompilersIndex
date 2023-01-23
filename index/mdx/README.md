@@ -1,3 +1,3 @@
 # mdx
 
-[mdx](https://github.com/wooorm/xdm)
+[xdm](https://github.com/wooorm/xdm)

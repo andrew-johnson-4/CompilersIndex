@@ -1,3 +1,3 @@
 # distributed-systems
 
-[distributed-systems](https://github.com/zalopay-oss/go-advanced)
+[go-advanced](https://github.com/zalopay-oss/go-advanced)

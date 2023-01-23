@@ -1,7 +1,7 @@
 # programming
 
-[programming](https://github.com/zero-equals-false/awesome-programming-books)
-[programming](https://github.com/felix-lang/felix)
-[programming](https://github.com/VPanjeta/ModiScript)
-[programming](https://github.com/Nuitka/Nuitka)
-[programming](https://github.com/nottheswimmer/pytago)
+[awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books)
+[felix](https://github.com/felix-lang/felix)
+[ModiScript](https://github.com/VPanjeta/ModiScript)
+[Nuitka](https://github.com/Nuitka/Nuitka)
+[pytago](https://github.com/nottheswimmer/pytago)

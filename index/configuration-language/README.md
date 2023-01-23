@@ -1,3 +1,3 @@
 # configuration-language
 
-[configuration-language](https://github.com/KusionStack/KCLVM)
+[KCLVM](https://github.com/KusionStack/KCLVM)

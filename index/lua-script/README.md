@@ -1,3 +1,3 @@
 # lua-script
 
-[lua-script](https://github.com/phisko/kengine)
+[kengine](https://github.com/phisko/kengine)

@@ -1,4 +1,4 @@
 # osx
 
-[osx](https://github.com/vygr/ChrysaLisp)
-[osx](https://github.com/devernay/xcodelegacy)
+[ChrysaLisp](https://github.com/vygr/ChrysaLisp)
+[xcodelegacy](https://github.com/devernay/xcodelegacy)

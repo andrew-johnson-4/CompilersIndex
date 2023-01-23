@@ -1,4 +1,4 @@
 # dll
 
-[dll](https://github.com/huihut/OpenCV-MinGW-Build)
-[dll](https://github.com/onqtam/rcrl)
+[OpenCV-MinGW-Build](https://github.com/huihut/OpenCV-MinGW-Build)
+[rcrl](https://github.com/onqtam/rcrl)

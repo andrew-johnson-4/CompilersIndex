@@ -1,4 +1,4 @@
 # game-development
 
-[game-development](https://github.com/phisko/kengine)
-[game-development](https://github.com/reeseschultz/ReeseUnityDemos)
+[kengine](https://github.com/phisko/kengine)
+[ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)

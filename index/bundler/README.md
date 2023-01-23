@@ -1,7 +1,7 @@
 # bundler
 
-[bundler](https://github.com/evanw/esbuild)
-[bundler](https://github.com/packem/packem)
-[bundler](https://github.com/jacobdeichert/svelvet)
-[bundler](https://github.com/thedodd/trunk)
-[bundler](https://github.com/ctripcorp/wean)
+[esbuild](https://github.com/evanw/esbuild)
+[packem](https://github.com/packem/packem)
+[svelvet](https://github.com/jacobdeichert/svelvet)
+[trunk](https://github.com/thedodd/trunk)
+[wean](https://github.com/ctripcorp/wean)

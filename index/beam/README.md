@@ -1,4 +1,4 @@
 # beam
 
-[beam](https://github.com/kjnilsson/fez)
-[beam](https://github.com/GetFirefly/firefly)
+[fez](https://github.com/kjnilsson/fez)
+[firefly](https://github.com/GetFirefly/firefly)

@@ -1,4 +1,4 @@
 # msp430
 
-[msp430](https://github.com/larsbrinkhoff/lbForth)
-[msp430](https://github.com/windelbouwman/ppci)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)
+[ppci](https://github.com/windelbouwman/ppci)

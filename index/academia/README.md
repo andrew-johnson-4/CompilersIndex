@@ -1,3 +1,3 @@
 # academia
 
-[academia](https://github.com/amilajack/reading)
+[reading](https://github.com/amilajack/reading)

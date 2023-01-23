@@ -1,3 +1,3 @@
 # pycrypto
 
-[pycrypto](https://github.com/sithis993/Crypter)
+[Crypter](https://github.com/sithis993/Crypter)

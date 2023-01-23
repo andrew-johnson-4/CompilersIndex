@@ -1,4 +1,4 @@
 # cross-compilation
 
-[cross-compilation](https://github.com/tj/gobinaries)
-[cross-compilation](https://github.com/japaric/rust-cross)
+[gobinaries](https://github.com/tj/gobinaries)
+[rust-cross](https://github.com/japaric/rust-cross)

@@ -1,4 +1,4 @@
 # sml
 
-[sml](https://github.com/CakeML/cakeml)
-[sml](https://github.com/MLton/mlton)
+[cakeml](https://github.com/CakeML/cakeml)
+[mlton](https://github.com/MLton/mlton)

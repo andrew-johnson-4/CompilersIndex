@@ -1,4 +1,4 @@
 # angular
 
-[angular](https://github.com/BuilderIO/mitosis)
-[angular](https://github.com/ng-packagr/ng-packagr)
+[mitosis](https://github.com/BuilderIO/mitosis)
+[ng-packagr](https://github.com/ng-packagr/ng-packagr)

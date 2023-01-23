@@ -1,4 +1,4 @@
 # bpf
 
-[bpf](https://github.com/qmonnet/rbpf)
-[bpf](https://github.com/hyperledger/solang)
+[rbpf](https://github.com/qmonnet/rbpf)
+[solang](https://github.com/hyperledger/solang)

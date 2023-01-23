@@ -1,4 +1,4 @@
 # ecs
 
-[ecs](https://github.com/phisko/kengine)
-[ecs](https://github.com/reeseschultz/ReeseUnityDemos)
+[kengine](https://github.com/phisko/kengine)
+[ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)

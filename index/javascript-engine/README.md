@@ -1,4 +1,4 @@
 # javascript-engine
 
-[javascript-engine](https://github.com/quickjs-zh/QuickJS)
-[javascript-engine](https://github.com/v8/v8)
+[QuickJS](https://github.com/quickjs-zh/QuickJS)
+[v8](https://github.com/v8/v8)

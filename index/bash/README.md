@@ -1,4 +1,4 @@
 # bash
 
-[bash](https://github.com/neurobin/shc)
-[bash](https://github.com/aeroxis/sultan)
+[shc](https://github.com/neurobin/shc)
+[sultan](https://github.com/aeroxis/sultan)

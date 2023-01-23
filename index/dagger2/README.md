@@ -1,3 +1,3 @@
 # dagger2
 
-[dagger2](https://github.com/square/anvil)
+[anvil](https://github.com/square/anvil)

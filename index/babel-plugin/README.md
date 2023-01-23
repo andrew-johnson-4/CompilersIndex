@@ -1,9 +1,9 @@
 # babel-plugin
 
-[babel-plugin](https://github.com/kentcdodds/babel-plugin-macros)
-[babel-plugin](https://github.com/gajus/babel-plugin-react-css-modules)
-[babel-plugin](https://github.com/awto/effectfuljs)
-[babel-plugin](https://github.com/vzhou842/faster.js)
-[babel-plugin](https://github.com/developit/htm)
-[babel-plugin](https://github.com/johanholmerin/style9)
-[babel-plugin](https://github.com/tamagui/tamagui)
+[babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros)
+[babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules)
+[effectfuljs](https://github.com/awto/effectfuljs)
+[faster.js](https://github.com/vzhou842/faster.js)
+[htm](https://github.com/developit/htm)
+[style9](https://github.com/johanholmerin/style9)
+[tamagui](https://github.com/tamagui/tamagui)

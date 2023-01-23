@@ -1,5 +1,5 @@
 # lr1
 
-[lr1](https://github.com/LiuChangFreeman/C--Compiler)
-[lr1](https://github.com/peter-winter/ctpg)
-[lr1](https://github.com/linyacool/lexical_syntax_analysis)
+[C--Compiler](https://github.com/LiuChangFreeman/C--Compiler)
+[ctpg](https://github.com/peter-winter/ctpg)
+[lexical_syntax_analysis](https://github.com/linyacool/lexical_syntax_analysis)

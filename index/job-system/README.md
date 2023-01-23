@@ -1,3 +1,3 @@
 # job-system
 
-[job-system](https://github.com/hecomi/uLipSync)
+[uLipSync](https://github.com/hecomi/uLipSync)

@@ -1,4 +1,4 @@
 # shell
 
-[shell](https://github.com/MvsCode/frps-onekey)
-[shell](https://github.com/neurobin/shc)
+[frps-onekey](https://github.com/MvsCode/frps-onekey)
+[shc](https://github.com/neurobin/shc)

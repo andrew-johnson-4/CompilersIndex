@@ -1,3 +1,3 @@
 # cheerp
 
-[cheerp](https://github.com/leaningtech/cheerp-meta)
+[cheerp-meta](https://github.com/leaningtech/cheerp-meta)

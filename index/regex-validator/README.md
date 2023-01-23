@@ -1,3 +1,3 @@
 # regex-validator
 
-[regex-validator](https://github.com/katef/libfsm)
+[libfsm](https://github.com/katef/libfsm)

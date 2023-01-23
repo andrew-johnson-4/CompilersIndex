@@ -1,3 +1,3 @@
 # topcoder
 
-[topcoder](https://github.com/agrawal-d/cph)
+[cph](https://github.com/agrawal-d/cph)

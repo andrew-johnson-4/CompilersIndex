@@ -1,3 +1,3 @@
 # jsoo
 
-[jsoo](https://github.com/ocsigen/js_of_ocaml)
+[js_of_ocaml](https://github.com/ocsigen/js_of_ocaml)

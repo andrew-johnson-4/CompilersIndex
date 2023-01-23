@@ -1,3 +1,3 @@
 # developer-tools
 
-[developer-tools](https://github.com/scalacenter/bloop)
+[bloop](https://github.com/scalacenter/bloop)

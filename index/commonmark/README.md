@@ -1,3 +1,3 @@
 # commonmark
 
-[commonmark](https://github.com/markedjs/marked)
+[marked](https://github.com/markedjs/marked)

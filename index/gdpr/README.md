@@ -1,3 +1,3 @@
 # gdpr
 
-[gdpr](https://github.com/threeheartsdigital/email-marketing-regulations)
+[email-marketing-regulations](https://github.com/threeheartsdigital/email-marketing-regulations)

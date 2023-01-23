@@ -1,3 +1,3 @@
 # nxp-cortex
 
-[nxp-cortex](https://github.com/ai-techsystems/deepC)
+[deepC](https://github.com/ai-techsystems/deepC)

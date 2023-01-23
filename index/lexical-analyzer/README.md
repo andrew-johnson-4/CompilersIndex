@@ -1,4 +1,4 @@
 # lexical-analyzer
 
-[lexical-analyzer](https://github.com/Genivia/RE-flex)
-[lexical-analyzer](https://github.com/wizardpisces/tiny-sass-compiler)
+[RE-flex](https://github.com/Genivia/RE-flex)
+[tiny-sass-compiler](https://github.com/wizardpisces/tiny-sass-compiler)

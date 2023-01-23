@@ -1,3 +1,3 @@
 # fennel
 
-[fennel](https://github.com/Olical/aniseed)
+[aniseed](https://github.com/Olical/aniseed)

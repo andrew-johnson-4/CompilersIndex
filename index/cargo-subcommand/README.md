@@ -1,3 +1,3 @@
 # cargo-subcommand
 
-[cargo-subcommand](https://github.com/rust-cross/cargo-zigbuild)
+[cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)

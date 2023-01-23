@@ -1,4 +1,4 @@
 # parser-generator
 
-[parser-generator](https://github.com/peter-winter/ctpg)
-[parser-generator](https://github.com/usethesource/rascal)
+[ctpg](https://github.com/peter-winter/ctpg)
+[rascal](https://github.com/usethesource/rascal)

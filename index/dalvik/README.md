@@ -1,4 +1,4 @@
 # dalvik
 
-[dalvik](https://github.com/amimo/dcc)
-[dalvik](https://github.com/mmin18/Dex65536)
+[dcc](https://github.com/amimo/dcc)
+[Dex65536](https://github.com/mmin18/Dex65536)

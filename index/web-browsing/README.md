@@ -1,3 +1,3 @@
 # web-browsing
 
-[web-browsing](https://github.com/Lissy93/personal-security-checklist)
+[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)

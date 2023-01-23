@@ -1,3 +1,3 @@
 # di
 
-[di](https://github.com/YairHalberstadt/stronginject)
+[stronginject](https://github.com/YairHalberstadt/stronginject)

@@ -1,3 +1,3 @@
 # backup
 
-[backup](https://github.com/rsyncOSX/RsyncOSX)
+[RsyncOSX](https://github.com/rsyncOSX/RsyncOSX)

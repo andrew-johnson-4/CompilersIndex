@@ -1,3 +1,3 @@
 # google-closure-library
 
-[google-closure-library](https://github.com/webpack-contrib/closure-webpack-plugin)
+[closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin)

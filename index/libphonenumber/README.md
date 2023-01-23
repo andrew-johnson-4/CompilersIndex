@@ -1,3 +1,3 @@
 # libphonenumber
 
-[libphonenumber](https://github.com/grantila/awesome-phonenumber)
+[awesome-phonenumber](https://github.com/grantila/awesome-phonenumber)

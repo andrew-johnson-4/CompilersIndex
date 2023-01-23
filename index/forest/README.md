@@ -1,3 +1,3 @@
 # forest
 
-[forest](https://github.com/quil-lang/quilc)
+[quilc](https://github.com/quil-lang/quilc)

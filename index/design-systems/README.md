@@ -1,3 +1,3 @@
 # design-systems
 
-[design-systems](https://github.com/diez/diez)
+[diez](https://github.com/diez/diez)

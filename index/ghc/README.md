@@ -1,4 +1,4 @@
 # ghc
 
-[ghc](https://github.com/tweag/asterius)
-[ghc](https://github.com/valderman/haste-compiler)
+[asterius](https://github.com/tweag/asterius)
+[haste-compiler](https://github.com/valderman/haste-compiler)

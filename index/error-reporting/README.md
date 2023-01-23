@@ -1,3 +1,3 @@
 # error-reporting
 
-[error-reporting](https://github.com/zesterer/ariadne)
+[ariadne](https://github.com/zesterer/ariadne)

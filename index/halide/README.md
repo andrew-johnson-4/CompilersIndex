@@ -1,3 +1,3 @@
 # halide
 
-[halide](https://github.com/halide/Halide)
+[Halide](https://github.com/halide/Halide)

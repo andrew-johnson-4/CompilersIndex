@@ -1,3 +1,3 @@
 # fpga-acceleration
 
-[fpga-acceleration](https://github.com/JulianKemmerer/PipelineC)
+[PipelineC](https://github.com/JulianKemmerer/PipelineC)

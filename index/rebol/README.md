@@ -1,3 +1,3 @@
 # rebol
 
-[rebol](https://github.com/red/red)
+[red](https://github.com/red/red)

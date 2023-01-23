@@ -1,3 +1,3 @@
 # automata
 
-[automata](https://github.com/katef/libfsm)
+[libfsm](https://github.com/katef/libfsm)

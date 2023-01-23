@@ -1,10 +1,10 @@
 # metaprogramming
 
-[metaprogramming](https://github.com/arrow-kt/arrow-meta)
-[metaprogramming](https://github.com/apache/groovy)
-[metaprogramming](https://github.com/hylang/hy)
-[metaprogramming](https://github.com/manifold-systems/manifold)
-[metaprogramming](https://github.com/edubart/nelua-lang)
-[metaprogramming](https://github.com/nim-lang/Nim)
-[metaprogramming](https://github.com/usethesource/rascal)
-[metaprogramming](https://github.com/veselink1/refl-cpp)
+[arrow-meta](https://github.com/arrow-kt/arrow-meta)
+[groovy](https://github.com/apache/groovy)
+[hy](https://github.com/hylang/hy)
+[manifold](https://github.com/manifold-systems/manifold)
+[nelua-lang](https://github.com/edubart/nelua-lang)
+[Nim](https://github.com/nim-lang/Nim)
+[rascal](https://github.com/usethesource/rascal)
+[refl-cpp](https://github.com/veselink1/refl-cpp)

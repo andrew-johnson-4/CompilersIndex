@@ -1,3 +1,3 @@
 # frontend
 
-[frontend](https://github.com/one-aalam/awesome-solid-js)
+[awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)

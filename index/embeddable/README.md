@@ -1,3 +1,3 @@
 # embeddable
 
-[embeddable](https://github.com/gluon-lang/gluon)
+[gluon](https://github.com/gluon-lang/gluon)

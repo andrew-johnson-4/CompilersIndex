@@ -1,3 +1,3 @@
 # spark
 
-[spark](https://github.com/zio/zio-quill)
+[zio-quill](https://github.com/zio/zio-quill)

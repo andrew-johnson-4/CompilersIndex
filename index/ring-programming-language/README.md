@@ -1,3 +1,3 @@
 # ring-programming-language
 
-[ring-programming-language](https://github.com/ring-lang/ring)
+[ring](https://github.com/ring-lang/ring)

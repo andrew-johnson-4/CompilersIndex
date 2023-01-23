@@ -1,3 +1,3 @@
 # code-splitting
 
-[code-splitting](https://github.com/packem/packem)
+[packem](https://github.com/packem/packem)

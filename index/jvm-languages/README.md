@@ -1,5 +1,5 @@
 # jvm-languages
 
-[jvm-languages](https://github.com/apache/groovy)
-[jvm-languages](https://github.com/HaxeFoundation/haxe)
-[jvm-languages](https://github.com/scala/scala)
+[groovy](https://github.com/apache/groovy)
+[haxe](https://github.com/HaxeFoundation/haxe)
+[scala](https://github.com/scala/scala)

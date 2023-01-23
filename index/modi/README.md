@@ -1,3 +1,3 @@
 # modi
 
-[modi](https://github.com/VPanjeta/ModiScript)
+[ModiScript](https://github.com/VPanjeta/ModiScript)

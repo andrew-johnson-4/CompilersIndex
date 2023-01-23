@@ -1,3 +1,3 @@
 # dl
 
-[dl](https://github.com/XWHQSJ/ebooks)
+[ebooks](https://github.com/XWHQSJ/ebooks)

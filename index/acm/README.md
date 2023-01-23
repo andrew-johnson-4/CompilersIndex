@@ -1,3 +1,3 @@
 # acm
 
-[acm](https://github.com/cpeditor/cpeditor)
+[cpeditor](https://github.com/cpeditor/cpeditor)

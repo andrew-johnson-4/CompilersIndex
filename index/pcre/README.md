@@ -1,4 +1,4 @@
 # pcre
 
-[pcre](https://github.com/hanickadot/compile-time-regular-expressions)
-[pcre](https://github.com/Genivia/RE-flex)
+[compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions)
+[RE-flex](https://github.com/Genivia/RE-flex)

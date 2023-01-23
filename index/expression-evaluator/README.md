@@ -1,3 +1,3 @@
 # expression-evaluator
 
-[expression-evaluator](https://github.com/ArashPartow/exprtk)
+[exprtk](https://github.com/ArashPartow/exprtk)

@@ -1,4 +1,4 @@
 # bytecode-compiler
 
-[bytecode-compiler](https://github.com/hlorenzi/customasm)
-[bytecode-compiler](https://github.com/kuroko-lang/kuroko)
+[customasm](https://github.com/hlorenzi/customasm)
+[kuroko](https://github.com/kuroko-lang/kuroko)

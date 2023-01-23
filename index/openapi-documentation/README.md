@@ -1,3 +1,3 @@
 # openapi-documentation
 
-[openapi-documentation](https://github.com/juhaku/utoipa)
+[utoipa](https://github.com/juhaku/utoipa)

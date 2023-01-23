@@ -1,5 +1,5 @@
 # postgresql
 
-[postgresql](https://github.com/EvgSkv/logica)
-[postgresql](https://github.com/fsprojects/Rezoom.SQL)
-[postgresql](https://github.com/launchbadge/sqlx)
+[logica](https://github.com/EvgSkv/logica)
+[Rezoom.SQL](https://github.com/fsprojects/Rezoom.SQL)
+[sqlx](https://github.com/launchbadge/sqlx)

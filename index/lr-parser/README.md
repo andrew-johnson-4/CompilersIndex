@@ -1,3 +1,3 @@
 # lr-parser
 
-[lr-parser](https://github.com/peter-winter/ctpg)
+[ctpg](https://github.com/peter-winter/ctpg)

@@ -1,3 +1,3 @@
 # dryioc
 
-[dryioc](https://github.com/dadhi/FastExpressionCompiler)
+[FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler)

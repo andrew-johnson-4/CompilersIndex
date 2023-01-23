@@ -1,4 +1,4 @@
 # dotty
 
 [dotty](https://github.com/lampepfl/dotty)
-[dotty](https://github.com/scala/scala3-example-project)
+[scala3-example-project](https://github.com/scala/scala3-example-project)

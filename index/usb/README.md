@@ -1,3 +1,3 @@
 # usb
 
-[usb](https://github.com/FlingOS/FlingOS)
+[FlingOS](https://github.com/FlingOS/FlingOS)

@@ -1,3 +1,3 @@
 # nanopass-infrastructure
 
-[nanopass-infrastructure](https://github.com/nanopass/nanopass-framework-scheme)
+[nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme)

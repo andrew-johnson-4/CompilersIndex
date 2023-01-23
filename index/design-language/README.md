@@ -1,3 +1,3 @@
 # design-language
 
-[design-language](https://github.com/diez/diez)
+[diez](https://github.com/diez/diez)

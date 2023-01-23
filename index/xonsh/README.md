@@ -1,3 +1,3 @@
 # xonsh
 
-[xonsh](https://github.com/evhub/coconut)
+[coconut](https://github.com/evhub/coconut)

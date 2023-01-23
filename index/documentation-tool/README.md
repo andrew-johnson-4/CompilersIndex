@@ -1,3 +1,3 @@
 # documentation-tool
 
-[documentation-tool](https://github.com/vovkos/doxyrest)
+[doxyrest](https://github.com/vovkos/doxyrest)

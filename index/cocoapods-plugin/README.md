@@ -1,3 +1,3 @@
 # cocoapods-plugin
 
-[cocoapods-plugin](https://github.com/leavez/cocoapods-binary)
+[cocoapods-binary](https://github.com/leavez/cocoapods-binary)

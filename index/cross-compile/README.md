@@ -1,3 +1,3 @@
 # cross-compile
 
-[cross-compile](https://github.com/rust-cross/cargo-zigbuild)
+[cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild)

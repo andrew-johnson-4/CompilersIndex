@@ -1,3 +1,3 @@
 # cython-alternative
 
-[cython-alternative](https://github.com/Pebaz/nimporter)
+[nimporter](https://github.com/Pebaz/nimporter)

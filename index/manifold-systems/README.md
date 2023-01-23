@@ -1,3 +1,3 @@
 # manifold-systems
 
-[manifold-systems](https://github.com/manifold-systems/manifold)
+[manifold](https://github.com/manifold-systems/manifold)

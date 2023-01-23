@@ -1,3 +1,3 @@
 # scala-library
 
-[scala-library](https://github.com/scala/scala)
+[scala](https://github.com/scala/scala)

@@ -1,3 +1,3 @@
 # nelua
 
-[nelua](https://github.com/edubart/nelua-lang)
+[nelua-lang](https://github.com/edubart/nelua-lang)

@@ -1,6 +1,6 @@
 # dependency-injection
 
-[dependency-injection](https://github.com/nette/di)
-[dependency-injection](https://github.com/google/inject.dart)
-[dependency-injection](https://github.com/vanlooverenkoen/kiwi)
-[dependency-injection](https://github.com/google/wire)
+[di](https://github.com/nette/di)
+[inject.dart](https://github.com/google/inject.dart)
+[kiwi](https://github.com/vanlooverenkoen/kiwi)
+[wire](https://github.com/google/wire)

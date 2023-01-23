@@ -1,3 +1,3 @@
 # type-providers
 
-[type-providers](https://github.com/manifold-systems/manifold)
+[manifold](https://github.com/manifold-systems/manifold)

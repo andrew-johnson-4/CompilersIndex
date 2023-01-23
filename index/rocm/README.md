@@ -1,3 +1,3 @@
 # rocm
 
-[rocm](https://github.com/apache/tvm)
+[tvm](https://github.com/apache/tvm)

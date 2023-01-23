@@ -1,6 +1,6 @@
 # ide
 
-[ide](https://github.com/arrow-kt/arrow-meta)
-[ide](https://github.com/beefytech/Beef)
-[ide](https://github.com/cpeditor/cpeditor)
-[ide](https://github.com/dylan-lang/opendylan)
+[arrow-meta](https://github.com/arrow-kt/arrow-meta)
+[Beef](https://github.com/beefytech/Beef)
+[cpeditor](https://github.com/cpeditor/cpeditor)
+[opendylan](https://github.com/dylan-lang/opendylan)

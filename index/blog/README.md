@@ -1,5 +1,5 @@
 # blog
 
-[blog](https://github.com/gatsbyjs/gatsby)
-[blog](https://github.com/vercel/next.js)
-[blog](https://github.com/shining1984/PL-Compiler-Resource)
+[gatsby](https://github.com/gatsbyjs/gatsby)
+[next.js](https://github.com/vercel/next.js)
+[PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource)

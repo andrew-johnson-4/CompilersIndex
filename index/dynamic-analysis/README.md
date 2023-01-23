@@ -1,3 +1,3 @@
 # dynamic-analysis
 
-[dynamic-analysis](https://github.com/llvm-mirror/compiler-rt)
+[compiler-rt](https://github.com/llvm-mirror/compiler-rt)

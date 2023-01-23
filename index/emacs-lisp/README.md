@@ -1,3 +1,3 @@
 # emacs-lisp
 
-[emacs-lisp](https://github.com/quasilyte/goism)
+[goism](https://github.com/quasilyte/goism)

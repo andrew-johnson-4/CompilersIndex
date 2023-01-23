@@ -1,3 +1,3 @@
 # xtensa
 
-[xtensa](https://github.com/windelbouwman/ppci)
+[ppci](https://github.com/windelbouwman/ppci)

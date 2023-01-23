@@ -1,5 +1,5 @@
 # hacktoberfest2022
 
-[hacktoberfest2022](https://github.com/horsicq/Nauz-File-Detector)
-[hacktoberfest2022](https://github.com/peregrine-lang/Peregrine)
-[hacktoberfest2022](https://github.com/Lissy93/personal-security-checklist)
+[Nauz-File-Detector](https://github.com/horsicq/Nauz-File-Detector)
+[Peregrine](https://github.com/peregrine-lang/Peregrine)
+[personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)

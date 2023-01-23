@@ -1,9 +1,9 @@
 # build-tool
 
-[build-tool](https://github.com/multiarch/crossbuild)
-[build-tool](https://github.com/parcel-bundler/lightningcss)
-[build-tool](https://github.com/packem/packem)
-[build-tool](https://github.com/parcel-bundler/parcel)
-[build-tool](https://github.com/thedodd/trunk)
-[build-tool](https://github.com/webpack/webpack)
-[build-tool](https://github.com/YMFE/ykit)
+[crossbuild](https://github.com/multiarch/crossbuild)
+[lightningcss](https://github.com/parcel-bundler/lightningcss)
+[packem](https://github.com/packem/packem)
+[parcel](https://github.com/parcel-bundler/parcel)
+[trunk](https://github.com/thedodd/trunk)
+[webpack](https://github.com/webpack/webpack)
+[ykit](https://github.com/YMFE/ykit)

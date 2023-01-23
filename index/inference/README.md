@@ -1,4 +1,4 @@
 # inference
 
-[inference](https://github.com/Adlik/Adlik)
-[inference](https://github.com/nebuly-ai/nebullvm)
+[Adlik](https://github.com/Adlik/Adlik)
+[nebullvm](https://github.com/nebuly-ai/nebullvm)

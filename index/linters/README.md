@@ -1,3 +1,3 @@
 # linters
 
-[linters](https://github.com/google/gnostic)
+[gnostic](https://github.com/google/gnostic)

@@ -1,3 +1,3 @@
 # hash
 
-[hash](https://github.com/antelle/argon2-browser)
+[argon2-browser](https://github.com/antelle/argon2-browser)

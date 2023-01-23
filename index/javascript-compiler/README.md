@@ -1,4 +1,4 @@
 # javascript-compiler
 
-[javascript-compiler](https://github.com/scala-js/scala-js)
-[javascript-compiler](https://github.com/webpack/webpack)
+[scala-js](https://github.com/scala-js/scala-js)
+[webpack](https://github.com/webpack/webpack)

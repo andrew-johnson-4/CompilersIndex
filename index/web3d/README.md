@@ -1,3 +1,3 @@
 # web3d
 
-[web3d](https://github.com/jondgoodwin/cone)
+[cone](https://github.com/jondgoodwin/cone)

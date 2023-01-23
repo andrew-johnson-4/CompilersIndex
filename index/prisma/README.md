@@ -1,3 +1,3 @@
 # prisma
 
-[prisma](https://github.com/wasp-lang/wasp)
+[wasp](https://github.com/wasp-lang/wasp)

@@ -1,3 +1,3 @@
 # ios-style
 
-[ios-style](https://github.com/diez/diez)
+[diez](https://github.com/diez/diez)

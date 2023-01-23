@@ -1,3 +1,3 @@
 # msvc
 
-[msvc](https://github.com/gmh5225/awesome-llvm-security)
+[awesome-llvm-security](https://github.com/gmh5225/awesome-llvm-security)

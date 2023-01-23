@@ -1,3 +1,3 @@
 # machine-code
 
-[machine-code](https://github.com/hlorenzi/customasm)
+[customasm](https://github.com/hlorenzi/customasm)

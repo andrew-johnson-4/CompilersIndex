@@ -1,3 +1,3 @@
 # lua-compiler
 
-[lua-compiler](https://github.com/yanghuan/CSharp.lua)
+[CSharp.lua](https://github.com/yanghuan/CSharp.lua)

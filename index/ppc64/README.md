@@ -1,3 +1,3 @@
 # ppc64
 
-[ppc64](https://github.com/vnmakarov/mir)
+[mir](https://github.com/vnmakarov/mir)

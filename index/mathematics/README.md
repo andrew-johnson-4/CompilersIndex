@@ -1,3 +1,3 @@
 # mathematics
 
-[mathematics](https://github.com/ArashPartow/exprtk)
+[exprtk](https://github.com/ArashPartow/exprtk)

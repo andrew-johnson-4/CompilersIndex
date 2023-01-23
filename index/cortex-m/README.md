@@ -1,3 +1,3 @@
 # cortex-m
 
-[cortex-m](https://github.com/larsbrinkhoff/lbForth)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)

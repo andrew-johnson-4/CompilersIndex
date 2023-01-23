@@ -1,3 +1,3 @@
 # management
 
-[management](https://github.com/VGraupera/1on1-questions)
+[1on1-questions](https://github.com/VGraupera/1on1-questions)

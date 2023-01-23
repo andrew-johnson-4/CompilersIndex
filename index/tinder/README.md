@@ -1,3 +1,3 @@
 # tinder
 
-[tinder](https://github.com/janishar/PlaceHolderView)
+[PlaceHolderView](https://github.com/janishar/PlaceHolderView)

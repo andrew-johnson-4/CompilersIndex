@@ -1,3 +1,3 @@
 # optimization-algorithms
 
-[optimization-algorithms](https://github.com/ArashPartow/exprtk)
+[exprtk](https://github.com/ArashPartow/exprtk)

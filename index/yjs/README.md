@@ -1,3 +1,3 @@
 # yjs
 
-[yjs](https://github.com/Rishabh-malhotraa/caucus)
+[caucus](https://github.com/Rishabh-malhotraa/caucus)

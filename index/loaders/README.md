@@ -1,3 +1,3 @@
 # loaders
 
-[loaders](https://github.com/webpack/webpack)
+[webpack](https://github.com/webpack/webpack)

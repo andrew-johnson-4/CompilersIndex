@@ -1,3 +1,3 @@
 # atcoder
 
-[atcoder](https://github.com/agrawal-d/cph)
+[cph](https://github.com/agrawal-d/cph)

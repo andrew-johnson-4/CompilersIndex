@@ -1,3 +1,3 @@
 # burst-compiler
 
-[burst-compiler](https://github.com/hecomi/uLipSync)
+[uLipSync](https://github.com/hecomi/uLipSync)

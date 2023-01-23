@@ -1,3 +1,3 @@
 # size
 
-[size](https://github.com/privatenumber/minification-benchmarks)
+[minification-benchmarks](https://github.com/privatenumber/minification-benchmarks)

@@ -1,5 +1,5 @@
 # decompiler
 
-[decompiler](https://github.com/Konloch/bytecode-viewer)
-[decompiler](https://github.com/mirkosertic/Bytecoder)
-[decompiler](https://github.com/jac3km4/redscript)
+[bytecode-viewer](https://github.com/Konloch/bytecode-viewer)
+[Bytecoder](https://github.com/mirkosertic/Bytecoder)
+[redscript](https://github.com/jac3km4/redscript)

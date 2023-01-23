@@ -1,3 +1,3 @@
 # gcc-rust
 
-[gcc-rust](https://github.com/Rust-GCC/gccrs)
+[gccrs](https://github.com/Rust-GCC/gccrs)

@@ -1,3 +1,3 @@
 # react-native
 
-[react-native](https://github.com/tamagui/tamagui)
+[tamagui](https://github.com/tamagui/tamagui)

@@ -1,3 +1,3 @@
 # acm-icpc
 
-[acm-icpc](https://github.com/cpeditor/cpeditor)
+[cpeditor](https://github.com/cpeditor/cpeditor)

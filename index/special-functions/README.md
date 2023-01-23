@@ -1,3 +1,3 @@
 # special-functions
 
-[special-functions](https://github.com/kthohr/gcem)
+[gcem](https://github.com/kthohr/gcem)

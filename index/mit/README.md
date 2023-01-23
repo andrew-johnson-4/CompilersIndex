@@ -1,3 +1,3 @@
 # mit
 
-[mit](https://github.com/nottheswimmer/pytago)
+[pytago](https://github.com/nottheswimmer/pytago)

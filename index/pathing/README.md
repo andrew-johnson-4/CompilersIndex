@@ -1,3 +1,3 @@
 # pathing
 
-[pathing](https://github.com/reeseschultz/ReeseUnityDemos)
+[ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)

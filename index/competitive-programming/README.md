@@ -1,4 +1,4 @@
 # competitive-programming
 
-[competitive-programming](https://github.com/cpeditor/cpeditor)
-[competitive-programming](https://github.com/agrawal-d/cph)
+[cpeditor](https://github.com/cpeditor/cpeditor)
+[cph](https://github.com/agrawal-d/cph)

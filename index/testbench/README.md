@@ -1,3 +1,3 @@
 # testbench
 
-[testbench](https://github.com/ghdl/ghdl)
+[ghdl](https://github.com/ghdl/ghdl)

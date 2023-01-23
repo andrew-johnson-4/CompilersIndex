@@ -1,3 +1,3 @@
 # llvm-ir
 
-[llvm-ir](https://github.com/second-state/SOLL)
+[SOLL](https://github.com/second-state/SOLL)

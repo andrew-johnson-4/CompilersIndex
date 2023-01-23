@@ -1,3 +1,3 @@
 # firefox
 
-[firefox](https://github.com/jnmcfly/awesome-startpage)
+[awesome-startpage](https://github.com/jnmcfly/awesome-startpage)

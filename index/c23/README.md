@@ -1,3 +1,3 @@
 # c23
 
-[c23](https://github.com/thradams/cake)
+[cake](https://github.com/thradams/cake)

@@ -1,3 +1,3 @@
 # hexagon
 
-[hexagon](https://github.com/halide/Halide)
+[Halide](https://github.com/halide/Halide)

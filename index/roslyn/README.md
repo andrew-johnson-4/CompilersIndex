@@ -1,5 +1,5 @@
 # roslyn
 
-[roslyn](https://github.com/peachpiecompiler/peachpie)
+[peachpie](https://github.com/peachpiecompiler/peachpie)
 [roslyn](https://github.com/dotnet/roslyn)
-[roslyn](https://github.com/microsoft/RoslynClrHeapAllocationAnalyzer)
+[RoslynClrHeapAllocationAnalyzer](https://github.com/microsoft/RoslynClrHeapAllocationAnalyzer)

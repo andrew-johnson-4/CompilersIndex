@@ -1,3 +1,3 @@
 # alt-js
 
-[alt-js](https://github.com/purescript/purescript)
+[purescript](https://github.com/purescript/purescript)

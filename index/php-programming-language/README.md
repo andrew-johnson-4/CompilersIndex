@@ -1,3 +1,3 @@
 # php-programming-language
 
-[php-programming-language](https://github.com/symisc/PH7)
+[PH7](https://github.com/symisc/PH7)

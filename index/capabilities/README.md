@@ -1,3 +1,3 @@
 # capabilities
 
-[capabilities](https://github.com/austral/austral)
+[austral](https://github.com/austral/austral)

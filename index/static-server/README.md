@@ -1,3 +1,3 @@
 # static-server
 
-[static-server](https://github.com/pyrossh/rust-embed)
+[rust-embed](https://github.com/pyrossh/rust-embed)

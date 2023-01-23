@@ -1,4 +1,4 @@
 # logic-programming
 
-[logic-programming](https://github.com/ekzhang/crepe)
-[logic-programming](https://github.com/EvgSkv/logica)
+[crepe](https://github.com/ekzhang/crepe)
+[logica](https://github.com/EvgSkv/logica)

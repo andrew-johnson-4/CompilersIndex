@@ -1,3 +1,3 @@
 # hot-reload
 
-[hot-reload](https://github.com/onqtam/rcrl)
+[rcrl](https://github.com/onqtam/rcrl)

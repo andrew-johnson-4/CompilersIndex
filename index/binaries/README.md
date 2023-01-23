@@ -1,3 +1,3 @@
 # binaries
 
-[binaries](https://github.com/vercel/pkg)
+[pkg](https://github.com/vercel/pkg)

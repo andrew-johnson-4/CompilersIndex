@@ -1,3 +1,3 @@
 # shader-cross-compiler
 
-[shader-cross-compiler](https://github.com/LukasBanana/XShaderCompiler)
+[XShaderCompiler](https://github.com/LukasBanana/XShaderCompiler)

@@ -1,3 +1,3 @@
 # llvm-frontend
 
-[llvm-frontend](https://github.com/mirkosertic/Bytecoder)
+[Bytecoder](https://github.com/mirkosertic/Bytecoder)

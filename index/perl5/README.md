@@ -1,3 +1,3 @@
 # perl5
 
-[perl5](https://github.com/fglock/Perlito)
+[Perlito](https://github.com/fglock/Perlito)

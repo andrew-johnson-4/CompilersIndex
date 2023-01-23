@@ -1,3 +1,3 @@
 # tcc
 
-[tcc](https://github.com/TinyCC/tinycc)
+[tinycc](https://github.com/TinyCC/tinycc)

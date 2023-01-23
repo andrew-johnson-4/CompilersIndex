@@ -1,5 +1,5 @@
 # type-theory
 
-[type-theory](https://github.com/rntz/datafun)
-[type-theory](https://github.com/pikelet-lang/pikelet)
-[type-theory](https://github.com/sdiehl/write-you-a-haskell)
+[datafun](https://github.com/rntz/datafun)
+[pikelet](https://github.com/pikelet-lang/pikelet)
+[write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell)

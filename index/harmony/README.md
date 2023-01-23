@@ -1,3 +1,3 @@
 # harmony
 
-[harmony](https://github.com/c2s/OpenArkCompiler)
+[OpenArkCompiler](https://github.com/c2s/OpenArkCompiler)

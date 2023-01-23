@@ -1,3 +1,3 @@
 # 3des
 
-[3des](https://github.com/wbond/oscrypto)
+[oscrypto](https://github.com/wbond/oscrypto)

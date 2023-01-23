@@ -1,3 +1,3 @@
 # learn
 
-[learn](https://github.com/vasyop/miniC-hosting)
+[miniC-hosting](https://github.com/vasyop/miniC-hosting)

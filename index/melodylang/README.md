@@ -1,3 +1,3 @@
 # melodylang
 
-[melodylang](https://github.com/yoav-lavi/melody)
+[melody](https://github.com/yoav-lavi/melody)

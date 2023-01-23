@@ -1,3 +1,3 @@
 # fibers
 
-[fibers](https://github.com/vtereshkov/umka-lang)
+[umka-lang](https://github.com/vtereshkov/umka-lang)

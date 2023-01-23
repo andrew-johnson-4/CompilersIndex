@@ -1,3 +1,3 @@
 # monotonicity
 
-[monotonicity](https://github.com/rntz/datafun)
+[datafun](https://github.com/rntz/datafun)

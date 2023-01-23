@@ -1,3 +1,3 @@
 # lucy
 
-[lucy](https://github.com/lucydsl/liblucy)
+[liblucy](https://github.com/lucydsl/liblucy)

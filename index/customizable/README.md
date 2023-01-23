@@ -1,3 +1,3 @@
 # customizable
 
-[customizable](https://github.com/hlorenzi/customasm)
+[customasm](https://github.com/hlorenzi/customasm)

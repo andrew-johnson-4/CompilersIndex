@@ -1,3 +1,3 @@
 # cargo
 
-[cargo](https://github.com/bbqsrc/cargo-ndk)
+[cargo-ndk](https://github.com/bbqsrc/cargo-ndk)

@@ -1,3 +1,3 @@
 # java-compiler
 
-[java-compiler](https://github.com/janino-compiler/janino)
+[janino](https://github.com/janino-compiler/janino)

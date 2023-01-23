@@ -1,3 +1,3 @@
 # unittesting
 
-[unittesting](https://github.com/SimonKagstrom/kcov)
+[kcov](https://github.com/SimonKagstrom/kcov)

@@ -1,5 +1,5 @@
 # converter
 
-[converter](https://github.com/ikvm-revived/ikvm)
-[converter](https://github.com/neurobin/shc)
-[converter](https://github.com/TypeScriptToLua/TypeScriptToLua)
+[ikvm](https://github.com/ikvm-revived/ikvm)
+[shc](https://github.com/neurobin/shc)
+[TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua)

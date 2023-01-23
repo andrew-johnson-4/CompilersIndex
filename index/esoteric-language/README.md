@@ -1,5 +1,5 @@
 # esoteric-language
 
-[esoteric-language](https://github.com/fetlang/fetlang)
-[esoteric-language](https://github.com/VPanjeta/ModiScript)
-[esoteric-language](https://github.com/Rick-Lang/rickroll-lang)
+[fetlang](https://github.com/fetlang/fetlang)
+[ModiScript](https://github.com/VPanjeta/ModiScript)
+[rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)

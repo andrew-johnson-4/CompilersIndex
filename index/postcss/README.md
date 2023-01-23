@@ -1,3 +1,3 @@
 # postcss
 
-[postcss](https://github.com/symfony/webpack-encore)
+[webpack-encore](https://github.com/symfony/webpack-encore)

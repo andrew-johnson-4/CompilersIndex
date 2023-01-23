@@ -1,3 +1,3 @@
 # haskel
 
-[haskel](https://github.com/sdiehl/write-you-a-haskell)
+[write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell)

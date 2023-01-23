@@ -1,4 +1,4 @@
 # microsoft
 
-[microsoft](https://github.com/microsoft/checkedc)
-[microsoft](https://github.com/peachpiecompiler/peachpie)
+[checkedc](https://github.com/microsoft/checkedc)
+[peachpie](https://github.com/peachpiecompiler/peachpie)

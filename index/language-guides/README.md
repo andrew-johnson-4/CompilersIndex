@@ -1,3 +1,3 @@
 # language-guides
 
-[language-guides](https://github.com/purescript/documentation)
+[documentation](https://github.com/purescript/documentation)

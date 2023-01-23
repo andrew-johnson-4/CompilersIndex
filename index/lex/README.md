@@ -1,4 +1,4 @@
 # lex
 
-[lex](https://github.com/katef/libfsm)
-[lex](https://github.com/Genivia/RE-flex)
+[libfsm](https://github.com/katef/libfsm)
+[RE-flex](https://github.com/Genivia/RE-flex)

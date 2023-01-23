@@ -1,3 +1,3 @@
 # r
 
-[r](https://github.com/bedatadriven/renjin)
+[renjin](https://github.com/bedatadriven/renjin)

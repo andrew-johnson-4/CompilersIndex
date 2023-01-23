@@ -1,3 +1,3 @@
 # cloudflare
 
-[cloudflare](https://github.com/angristan/nginx-autoinstall)
+[nginx-autoinstall](https://github.com/angristan/nginx-autoinstall)

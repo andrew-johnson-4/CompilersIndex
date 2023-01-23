@@ -1,3 +1,3 @@
 # crypto
 
-[crypto](https://github.com/jedisct1/libsodium.js)
+[libsodium.js](https://github.com/jedisct1/libsodium.js)

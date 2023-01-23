@@ -1,5 +1,5 @@
 # embedded
 
-[embedded](https://github.com/symisc/PH7)
-[embedded](https://github.com/skiffos/SkiffOS)
-[embedded](https://github.com/z88dk/z88dk)
+[PH7](https://github.com/symisc/PH7)
+[SkiffOS](https://github.com/skiffos/SkiffOS)
+[z88dk](https://github.com/z88dk/z88dk)

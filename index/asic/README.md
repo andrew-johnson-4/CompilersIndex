@@ -1,3 +1,3 @@
 # asic
 
-[asic](https://github.com/clash-lang/clash-compiler)
+[clash-compiler](https://github.com/clash-lang/clash-compiler)

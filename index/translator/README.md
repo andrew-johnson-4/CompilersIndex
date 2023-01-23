@@ -1,3 +1,3 @@
 # translator
 
-[translator](https://github.com/ekzhang/crepe)
+[crepe](https://github.com/ekzhang/crepe)

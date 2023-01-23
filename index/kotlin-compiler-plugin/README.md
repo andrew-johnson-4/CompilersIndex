@@ -1,3 +1,3 @@
 # kotlin-compiler-plugin
 
-[kotlin-compiler-plugin](https://github.com/square/anvil)
+[anvil](https://github.com/square/anvil)

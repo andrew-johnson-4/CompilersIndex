@@ -1,3 +1,3 @@
 # hugo
 
-[hugo](https://github.com/Leaking/Hunter)
+[Hunter](https://github.com/Leaking/Hunter)

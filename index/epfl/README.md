@@ -1,4 +1,4 @@
 # epfl
 
-[epfl](https://github.com/lampepfl/dotty)
-[epfl](https://github.com/scala/scala3-example-project)
+[dotty](https://github.com/lampepfl/dotty)
+[scala3-example-project](https://github.com/scala/scala3-example-project)

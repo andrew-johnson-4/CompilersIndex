@@ -1,3 +1,3 @@
 # vrchat
 
-[vrchat](https://github.com/MerlinVR/UdonSharp)
+[UdonSharp](https://github.com/MerlinVR/UdonSharp)

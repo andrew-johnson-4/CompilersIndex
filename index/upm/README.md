@@ -1,3 +1,3 @@
 # upm
 
-[upm](https://github.com/reeseschultz/ReeseUnityDemos)
+[ReeseUnityDemos](https://github.com/reeseschultz/ReeseUnityDemos)

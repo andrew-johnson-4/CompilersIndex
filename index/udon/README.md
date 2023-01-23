@@ -1,3 +1,3 @@
 # udon
 
-[udon](https://github.com/MerlinVR/UdonSharp)
+[UdonSharp](https://github.com/MerlinVR/UdonSharp)

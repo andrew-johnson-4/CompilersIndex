@@ -1,3 +1,3 @@
 # substrate
 
-[substrate](https://github.com/hyperledger/solang)
+[solang](https://github.com/hyperledger/solang)

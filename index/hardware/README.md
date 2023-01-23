@@ -1,7 +1,7 @@
 # hardware
 
-[hardware](https://github.com/vmware-archive/cascade)
-[hardware](https://github.com/chipsalliance/firrtl)
-[hardware](https://github.com/ghdl/ghdl)
-[hardware](https://github.com/JulianKemmerer/PipelineC)
-[hardware](https://github.com/PyHDI/Pyverilog)
+[cascade](https://github.com/vmware-archive/cascade)
+[firrtl](https://github.com/chipsalliance/firrtl)
+[ghdl](https://github.com/ghdl/ghdl)
+[PipelineC](https://github.com/JulianKemmerer/PipelineC)
+[Pyverilog](https://github.com/PyHDI/Pyverilog)

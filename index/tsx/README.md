@@ -1,3 +1,3 @@
 # tsx
 
-[tsx](https://github.com/evanw/esbuild)
+[esbuild](https://github.com/evanw/esbuild)

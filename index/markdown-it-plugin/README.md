@@ -1,3 +1,3 @@
 # markdown-it-plugin
 
-[markdown-it-plugin](https://github.com/shikijs/twoslash)
+[twoslash](https://github.com/shikijs/twoslash)

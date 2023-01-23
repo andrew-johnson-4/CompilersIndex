@@ -1,4 +1,4 @@
 # evm
 
-[evm](https://github.com/huff-language/huff-rs)
-[evm](https://github.com/ethereum/remix-project)
+[huff-rs](https://github.com/huff-language/huff-rs)
+[remix-project](https://github.com/ethereum/remix-project)

@@ -1,3 +1,3 @@
 # ssa
 
-[ssa](https://github.com/libfirm/libfirm)
+[libfirm](https://github.com/libfirm/libfirm)

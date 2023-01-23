@@ -1,4 +1,4 @@
 # grammars
 
-[grammars](https://github.com/katef/kgt)
-[grammars](https://github.com/harc/ohm)
+[kgt](https://github.com/katef/kgt)
+[ohm](https://github.com/harc/ohm)

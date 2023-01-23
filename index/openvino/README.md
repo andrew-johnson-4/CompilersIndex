@@ -1,4 +1,4 @@
 # openvino
 
-[openvino](https://github.com/Adlik/Adlik)
-[openvino](https://github.com/nebuly-ai/nebullvm)
+[Adlik](https://github.com/Adlik/Adlik)
+[nebullvm](https://github.com/nebuly-ai/nebullvm)

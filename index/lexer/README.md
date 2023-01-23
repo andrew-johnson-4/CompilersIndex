@@ -1,8 +1,8 @@
 # lexer
 
-[lexer](https://github.com/ArashPartow/exprtk)
-[lexer](https://github.com/katef/libfsm)
-[lexer](https://github.com/DQNEO/minigo)
-[lexer](https://github.com/Genivia/RE-flex)
-[lexer](https://github.com/zakirullin/tiny-compiler)
-[lexer](https://github.com/wa-lang/ugo-compiler-book)
+[exprtk](https://github.com/ArashPartow/exprtk)
+[libfsm](https://github.com/katef/libfsm)
+[minigo](https://github.com/DQNEO/minigo)
+[RE-flex](https://github.com/Genivia/RE-flex)
+[tiny-compiler](https://github.com/zakirullin/tiny-compiler)
+[ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book)

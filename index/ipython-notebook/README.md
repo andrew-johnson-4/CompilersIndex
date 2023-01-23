@@ -1,3 +1,3 @@
 # ipython-notebook
 
-[ipython-notebook](https://github.com/sdiehl/numpile)
+[numpile](https://github.com/sdiehl/numpile)

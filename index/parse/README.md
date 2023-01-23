@@ -1,3 +1,3 @@
 # parse
 
-[parse](https://github.com/MikePopoloski/slang)
+[slang](https://github.com/MikePopoloski/slang)

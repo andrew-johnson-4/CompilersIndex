@@ -1,4 +1,4 @@
 # linear-algebra
 
-[linear-algebra](https://github.com/tensor-compiler/taco)
-[linear-algebra](https://github.com/Tiramisu-Compiler/tiramisu)
+[taco](https://github.com/tensor-compiler/taco)
+[tiramisu](https://github.com/Tiramisu-Compiler/tiramisu)

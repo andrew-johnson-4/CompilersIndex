@@ -1,3 +1,3 @@
 # libtorch
 
-[libtorch](https://github.com/pytorch/TensorRT)
+[TensorRT](https://github.com/pytorch/TensorRT)

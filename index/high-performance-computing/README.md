@@ -1,6 +1,6 @@
 # high-performance-computing
 
-[high-performance-computing](https://github.com/alpa-projects/alpa)
-[high-performance-computing](https://github.com/merrymercy/awesome-tensor-compilers)
-[high-performance-computing](https://github.com/GraphIt-DSL/graphit)
-[high-performance-computing](https://github.com/zanellia/prometeo)
+[alpa](https://github.com/alpa-projects/alpa)
+[awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers)
+[graphit](https://github.com/GraphIt-DSL/graphit)
+[prometeo](https://github.com/zanellia/prometeo)

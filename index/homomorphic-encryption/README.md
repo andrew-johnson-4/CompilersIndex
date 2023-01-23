@@ -1,4 +1,4 @@
 # homomorphic-encryption
 
-[homomorphic-encryption](https://github.com/CEA-LIST/Cingulata)
-[homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption)
+[Cingulata](https://github.com/CEA-LIST/Cingulata)
+[fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption)

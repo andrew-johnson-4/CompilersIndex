@@ -1,4 +1,4 @@
 # embedded-systems
 
-[embedded-systems](https://github.com/nakkaya/ferret)
-[embedded-systems](https://github.com/zanellia/prometeo)
+[ferret](https://github.com/nakkaya/ferret)
+[prometeo](https://github.com/zanellia/prometeo)

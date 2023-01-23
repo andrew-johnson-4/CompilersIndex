@@ -1,3 +1,3 @@
 # ebpf
 
-[ebpf](https://github.com/qmonnet/rbpf)
+[rbpf](https://github.com/qmonnet/rbpf)

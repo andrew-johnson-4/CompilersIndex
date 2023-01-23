@@ -1,3 +1,3 @@
 # macosx
 
-[macosx](https://github.com/MobiVM/robovm)
+[robovm](https://github.com/MobiVM/robovm)

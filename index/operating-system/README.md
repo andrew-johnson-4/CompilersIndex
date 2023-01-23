@@ -1,5 +1,5 @@
 # operating-system
 
-[operating-system](https://github.com/FlingOS/FlingOS)
-[operating-system](https://github.com/amilajack/reading)
-[operating-system](https://github.com/theseus-os/Theseus)
+[FlingOS](https://github.com/FlingOS/FlingOS)
+[reading](https://github.com/amilajack/reading)
+[Theseus](https://github.com/theseus-os/Theseus)

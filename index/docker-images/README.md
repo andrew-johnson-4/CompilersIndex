@@ -1,3 +1,3 @@
 # docker-images
 
-[docker-images](https://github.com/Adlik/Adlik)
+[Adlik](https://github.com/Adlik/Adlik)

@@ -1,4 +1,4 @@
 # numpy
 
-[numpy](https://github.com/numba/numba)
-[numpy](https://github.com/IntelPython/sdc)
+[numba](https://github.com/numba/numba)
+[sdc](https://github.com/IntelPython/sdc)

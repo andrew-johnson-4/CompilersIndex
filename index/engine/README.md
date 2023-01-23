@@ -1,4 +1,4 @@
 # engine
 
-[engine](https://github.com/phisko/kengine)
-[engine](https://github.com/cloudflare/wirefilter)
+[kengine](https://github.com/phisko/kengine)
+[wirefilter](https://github.com/cloudflare/wirefilter)

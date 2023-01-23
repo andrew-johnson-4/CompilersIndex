@@ -1,3 +1,3 @@
 # espertech
 
-[espertech](https://github.com/espertechinc/esper)
+[esper](https://github.com/espertechinc/esper)

@@ -1,10 +1,10 @@
 # arm
 
-[arm](https://github.com/jserv/amacc)
-[arm](https://github.com/merryhime/dynarmic)
-[arm](https://github.com/nakkaya/ferret)
-[arm](https://github.com/larsbrinkhoff/lbForth)
-[arm](https://github.com/windelbouwman/ppci)
-[arm](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
-[arm](https://github.com/jserv/shecc)
-[arm](https://github.com/tinygo-org/tinygo)
+[amacc](https://github.com/jserv/amacc)
+[dynarmic](https://github.com/merryhime/dynarmic)
+[ferret](https://github.com/nakkaya/ferret)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)
+[ppci](https://github.com/windelbouwman/ppci)
+[raspberry-pi-cross-compilers](https://github.com/abhiTronix/raspberry-pi-cross-compilers)
+[shecc](https://github.com/jserv/shecc)
+[tinygo](https://github.com/tinygo-org/tinygo)

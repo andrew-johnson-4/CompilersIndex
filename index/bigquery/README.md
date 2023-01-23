@@ -1,3 +1,3 @@
 # bigquery
 
-[bigquery](https://github.com/EvgSkv/logica)
+[logica](https://github.com/EvgSkv/logica)

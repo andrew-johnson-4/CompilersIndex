@@ -1,3 +1,3 @@
 # metrics
 
-[metrics](https://github.com/google/mtail)
+[mtail](https://github.com/google/mtail)

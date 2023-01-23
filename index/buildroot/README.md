@@ -1,3 +1,3 @@
 # buildroot
 
-[buildroot](https://github.com/skiffos/SkiffOS)
+[SkiffOS](https://github.com/skiffos/SkiffOS)

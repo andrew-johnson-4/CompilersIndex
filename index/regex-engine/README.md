@@ -1,3 +1,3 @@
 # regex-engine
 
-[regex-engine](https://github.com/Genivia/RE-flex)
+[RE-flex](https://github.com/Genivia/RE-flex)

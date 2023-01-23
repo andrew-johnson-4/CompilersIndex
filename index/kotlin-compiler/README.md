@@ -1,3 +1,3 @@
 # kotlin-compiler
 
-[kotlin-compiler](https://github.com/arrow-kt/arrow-meta)
+[arrow-meta](https://github.com/arrow-kt/arrow-meta)

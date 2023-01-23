@@ -1,4 +1,4 @@
 # shaders
 
-[shaders](https://github.com/aras-p/glsl-optimizer)
-[shaders](https://github.com/crosire/reshade)
+[glsl-optimizer](https://github.com/aras-p/glsl-optimizer)
+[reshade](https://github.com/crosire/reshade)

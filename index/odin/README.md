@@ -1,3 +1,3 @@
 # odin
 
-[odin](https://github.com/odin-lang/Odin)
+[Odin](https://github.com/odin-lang/Odin)

@@ -1,4 +1,4 @@
 # dsl
 
-[dsl](https://github.com/symfony/expression-language)
-[dsl](https://github.com/halide/Halide)
+[expression-language](https://github.com/symfony/expression-language)
+[Halide](https://github.com/halide/Halide)

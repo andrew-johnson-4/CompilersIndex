@@ -1,3 +1,3 @@
 # lisp-variant
 
-[lisp-variant](https://github.com/SquidDev/urn)
+[urn](https://github.com/SquidDev/urn)

@@ -1,3 +1,3 @@
 # chrome-extension
 
-[chrome-extension](https://github.com/sfvsfv/ComputerStudent)
+[ComputerStudent](https://github.com/sfvsfv/ComputerStudent)

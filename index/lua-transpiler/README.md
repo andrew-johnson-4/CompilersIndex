@@ -1,3 +1,3 @@
 # lua-transpiler
 
-[lua-transpiler](https://github.com/TypeScriptToLua/TypeScriptToLua)
+[TypeScriptToLua](https://github.com/TypeScriptToLua/TypeScriptToLua)

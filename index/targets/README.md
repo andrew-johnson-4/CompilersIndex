@@ -1,3 +1,3 @@
 # targets
 
-[targets](https://github.com/babel/babel-polyfills)
+[babel-polyfills](https://github.com/babel/babel-polyfills)

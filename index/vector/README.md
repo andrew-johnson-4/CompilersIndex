@@ -1,3 +1,3 @@
 # vector
 
-[vector](https://github.com/mn416/QPULib)
+[QPULib](https://github.com/mn416/QPULib)

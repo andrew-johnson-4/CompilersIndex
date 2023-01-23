@@ -1,4 +1,4 @@
 # asmjs
 
-[asmjs](https://github.com/appcypher/awesome-wasm-langs)
-[asmjs](https://github.com/larsbrinkhoff/lbForth)
+[awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)

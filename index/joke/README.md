@@ -1,3 +1,3 @@
 # joke
 
-[joke](https://github.com/keiichiw/constexpr-8cc)
+[constexpr-8cc](https://github.com/keiichiw/constexpr-8cc)

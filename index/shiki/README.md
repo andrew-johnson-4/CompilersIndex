@@ -1,3 +1,3 @@
 # shiki
 
-[shiki](https://github.com/shikijs/twoslash)
+[twoslash](https://github.com/shikijs/twoslash)

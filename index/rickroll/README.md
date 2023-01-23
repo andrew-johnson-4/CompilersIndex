@@ -1,3 +1,3 @@
 # rickroll
 
-[rickroll](https://github.com/Rick-Lang/rickroll-lang)
+[rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)

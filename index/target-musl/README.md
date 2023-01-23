@@ -1,3 +1,3 @@
 # target-musl
 
-[target-musl](https://github.com/richfelker/musl-cross-make)
+[musl-cross-make](https://github.com/richfelker/musl-cross-make)

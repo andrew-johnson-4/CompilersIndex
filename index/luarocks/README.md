@@ -1,3 +1,3 @@
 # luarocks
 
-[luarocks](https://github.com/luafun/luafun)
+[luafun](https://github.com/luafun/luafun)

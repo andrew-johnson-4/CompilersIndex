@@ -28,7 +28,7 @@ for key in indices:
     f = open("index/" + skey + "/README.md", "w")
     f.write("# " + skey + "\n\n")
     for (name,url) in indices[key]:
-        f.write("[" + skey + "](" + url + ")\n")
+        f.write("[" + name + "](" + url + ")\n")
 
 home = open("README.md","w")
 home.write("# Compilers Index\n")

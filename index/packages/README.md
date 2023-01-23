@@ -1,3 +1,3 @@
 # packages
 
-[packages](https://github.com/erlang/rebar3)
+[rebar3](https://github.com/erlang/rebar3)

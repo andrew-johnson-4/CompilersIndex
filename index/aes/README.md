@@ -1,3 +1,3 @@
 # aes
 
-[aes](https://github.com/wbond/oscrypto)
+[oscrypto](https://github.com/wbond/oscrypto)

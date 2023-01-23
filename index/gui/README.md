@@ -1,8 +1,8 @@
 # gui
 
-[gui](https://github.com/vygr/ChrysaLisp)
-[gui](https://github.com/ingokegel/jclasslib)
-[gui](https://github.com/randrew/layout)
-[gui](https://github.com/kitech/qt.go)
-[gui](https://github.com/red/red)
-[gui](https://github.com/jnmaloney/WebGui)
+[ChrysaLisp](https://github.com/vygr/ChrysaLisp)
+[jclasslib](https://github.com/ingokegel/jclasslib)
+[layout](https://github.com/randrew/layout)
+[qt.go](https://github.com/kitech/qt.go)
+[red](https://github.com/red/red)
+[WebGui](https://github.com/jnmaloney/WebGui)

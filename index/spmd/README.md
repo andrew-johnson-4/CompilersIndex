@@ -1,3 +1,3 @@
 # spmd
 
-[spmd](https://github.com/ispc/ispc)
+[ispc](https://github.com/ispc/ispc)

@@ -1,3 +1,3 @@
 # ebpf-programs
 
-[ebpf-programs](https://github.com/qmonnet/rbpf)
+[rbpf](https://github.com/qmonnet/rbpf)

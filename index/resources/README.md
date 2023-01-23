@@ -1,4 +1,4 @@
 # resources
 
-[resources](https://github.com/aalhour/awesome-compilers)
-[resources](https://github.com/one-aalam/awesome-solid-js)
+[awesome-compilers](https://github.com/aalhour/awesome-compilers)
+[awesome-solid-js](https://github.com/one-aalam/awesome-solid-js)

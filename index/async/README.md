@@ -1,3 +1,3 @@
 # async
 
-[async](https://github.com/launchbadge/sqlx)
+[sqlx](https://github.com/launchbadge/sqlx)

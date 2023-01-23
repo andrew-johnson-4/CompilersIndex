@@ -1,3 +1,3 @@
 # simulation
 
-[simulation](https://github.com/EnzymeAD/Enzyme)
+[Enzyme](https://github.com/EnzymeAD/Enzyme)

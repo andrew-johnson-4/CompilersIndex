@@ -1,3 +1,3 @@
 # filters
 
-[filters](https://github.com/cloudflare/wirefilter)
+[wirefilter](https://github.com/cloudflare/wirefilter)

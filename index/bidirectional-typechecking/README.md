@@ -1,3 +1,3 @@
 # bidirectional-typechecking
 
-[bidirectional-typechecking](https://github.com/pikelet-lang/pikelet)
+[pikelet](https://github.com/pikelet-lang/pikelet)

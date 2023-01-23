@@ -1,3 +1,3 @@
 # cretonne
 
-[cretonne](https://github.com/bytecodealliance/cranelift)
+[cranelift](https://github.com/bytecodealliance/cranelift)

@@ -1,5 +1,5 @@
 # tensorrt
 
-[tensorrt](https://github.com/Adlik/Adlik)
-[tensorrt](https://github.com/nebuly-ai/nebullvm)
-[tensorrt](https://github.com/pytorch/TensorRT)
+[Adlik](https://github.com/Adlik/Adlik)
+[nebullvm](https://github.com/nebuly-ai/nebullvm)
+[TensorRT](https://github.com/pytorch/TensorRT)

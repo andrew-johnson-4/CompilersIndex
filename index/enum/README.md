@@ -1,3 +1,3 @@
 # enum
 
-[enum](https://github.com/aantron/better-enums)
+[better-enums](https://github.com/aantron/better-enums)

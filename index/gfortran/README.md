@@ -1,3 +1,3 @@
 # gfortran
 
-[gfortran](https://github.com/fxcoudert/gfortran-for-macOS)
+[gfortran-for-macOS](https://github.com/fxcoudert/gfortran-for-macOS)

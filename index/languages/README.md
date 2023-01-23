@@ -1,4 +1,4 @@
 # languages
 
-[languages](https://github.com/wende/elchemy)
-[languages](https://github.com/jweinst1/Oblivion)
+[elchemy](https://github.com/wende/elchemy)
+[Oblivion](https://github.com/jweinst1/Oblivion)

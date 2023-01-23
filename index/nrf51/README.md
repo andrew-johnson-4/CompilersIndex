@@ -1,3 +1,3 @@
 # nrf51
 
-[nrf51](https://github.com/tinygo-org/tinygo)
+[tinygo](https://github.com/tinygo-org/tinygo)

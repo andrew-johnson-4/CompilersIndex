@@ -1,8 +1,8 @@
 # opencl
 
-[opencl](https://github.com/mirkosertic/Bytecoder)
-[opencl](https://github.com/google/clspv)
-[opencl](https://github.com/a2flo/floor)
-[opencl](https://github.com/diku-dk/futhark)
-[opencl](https://github.com/m4rs-mt/ILGPU)
-[opencl](https://github.com/apache/tvm)
+[Bytecoder](https://github.com/mirkosertic/Bytecoder)
+[clspv](https://github.com/google/clspv)
+[floor](https://github.com/a2flo/floor)
+[futhark](https://github.com/diku-dk/futhark)
+[ILGPU](https://github.com/m4rs-mt/ILGPU)
+[tvm](https://github.com/apache/tvm)

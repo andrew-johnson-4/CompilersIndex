@@ -1,3 +1,3 @@
 # edge-devices
 
-[edge-devices](https://github.com/ai-techsystems/deepC)
+[deepC](https://github.com/ai-techsystems/deepC)

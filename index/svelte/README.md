@@ -1,5 +1,5 @@
 # svelte
 
-[svelte](https://github.com/BuilderIO/mitosis)
-[svelte](https://github.com/pintariching/rustle)
-[svelte](https://github.com/jacobdeichert/svelvet)
+[mitosis](https://github.com/BuilderIO/mitosis)
+[rustle](https://github.com/pintariching/rustle)
+[svelvet](https://github.com/jacobdeichert/svelvet)

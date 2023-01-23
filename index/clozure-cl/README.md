@@ -1,3 +1,3 @@
 # clozure-cl
 
-[clozure-cl](https://github.com/Clozure/ccl)
+[ccl](https://github.com/Clozure/ccl)

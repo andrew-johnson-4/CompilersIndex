@@ -1,4 +1,4 @@
 # query
 
-[query](https://github.com/rntz/datafun)
-[query](https://github.com/erezsh/Preql)
+[datafun](https://github.com/rntz/datafun)
+[Preql](https://github.com/erezsh/Preql)

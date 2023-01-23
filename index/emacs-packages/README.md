@@ -1,3 +1,3 @@
 # emacs-packages
 
-[emacs-packages](https://github.com/quasilyte/goism)
+[goism](https://github.com/quasilyte/goism)

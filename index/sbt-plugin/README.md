@@ -1,3 +1,3 @@
 # sbt-plugin
 
-[sbt-plugin](https://github.com/softwaremill/scala-clippy)
+[scala-clippy](https://github.com/softwaremill/scala-clippy)

@@ -1,3 +1,3 @@
 # mirjit
 
-[mirjit](https://github.com/dibyendumajumdar/ravi)
+[ravi](https://github.com/dibyendumajumdar/ravi)

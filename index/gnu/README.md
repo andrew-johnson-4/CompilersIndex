@@ -1,3 +1,3 @@
 # gnu
 
-[gnu](https://github.com/jserv/MazuCC)
+[MazuCC](https://github.com/jserv/MazuCC)

@@ -1,3 +1,3 @@
 # packagecompiler
 
-[packagecompiler](https://github.com/JuliaLang/PackageCompiler.jl)
+[PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)

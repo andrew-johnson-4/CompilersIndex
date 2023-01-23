@@ -1,3 +1,3 @@
 # m
 
-[m](https://github.com/GraphIt-DSL/graphit)
+[graphit](https://github.com/GraphIt-DSL/graphit)

@@ -1,3 +1,3 @@
 # application
 
-[application](https://github.com/railt/railt)
+[railt](https://github.com/railt/railt)

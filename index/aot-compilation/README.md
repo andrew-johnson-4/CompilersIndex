@@ -1,3 +1,3 @@
 # aot-compilation
 
-[aot-compilation](https://github.com/bytecodealliance/cranelift)
+[cranelift](https://github.com/bytecodealliance/cranelift)

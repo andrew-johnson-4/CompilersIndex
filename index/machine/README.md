@@ -1,3 +1,3 @@
 # machine
 
-[machine](https://github.com/ikvm-revived/ikvm)
+[ikvm](https://github.com/ikvm-revived/ikvm)

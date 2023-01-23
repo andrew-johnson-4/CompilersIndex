@@ -1,3 +1,3 @@
 # restructured-text
 
-[restructured-text](https://github.com/vovkos/doxyrest)
+[doxyrest](https://github.com/vovkos/doxyrest)

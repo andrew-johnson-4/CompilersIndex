@@ -1,3 +1,3 @@
 # custom-derive
 
-[custom-derive](https://github.com/djc/askama)
+[askama](https://github.com/djc/askama)

@@ -1,3 +1,3 @@
 # vim
 
-[vim](https://github.com/stevearc/vim-arduino)
+[vim-arduino](https://github.com/stevearc/vim-arduino)

@@ -1,4 +1,4 @@
 # trojan
 
-[trojan](https://github.com/alvin-tosh/Malware-Exhibit)
-[trojan](https://github.com/screetsec/TheFatRat)
+[Malware-Exhibit](https://github.com/alvin-tosh/Malware-Exhibit)
+[TheFatRat](https://github.com/screetsec/TheFatRat)

@@ -1,3 +1,3 @@
 # tooling
 
-[tooling](https://github.com/NomicFoundation/hardhat)
+[hardhat](https://github.com/NomicFoundation/hardhat)

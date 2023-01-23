@@ -1,3 +1,3 @@
 # algebraic-effects
 
-[algebraic-effects](https://github.com/koka-lang/koka)
+[koka](https://github.com/koka-lang/koka)

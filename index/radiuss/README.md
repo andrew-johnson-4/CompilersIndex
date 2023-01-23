@@ -1,3 +1,3 @@
 # radiuss
 
-[radiuss](https://github.com/spack/spack)
+[spack](https://github.com/spack/spack)

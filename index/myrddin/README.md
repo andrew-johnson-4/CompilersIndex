@@ -1,3 +1,3 @@
 # myrddin
 
-[myrddin](https://github.com/oridb/mc)
+[mc](https://github.com/oridb/mc)

@@ -1,3 +1,3 @@
 # cling
 
-[cling](https://github.com/onqtam/rcrl)
+[rcrl](https://github.com/onqtam/rcrl)

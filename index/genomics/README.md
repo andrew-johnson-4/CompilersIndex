@@ -1,3 +1,3 @@
 # genomics
 
-[genomics](https://github.com/seq-lang/seq)
+[seq](https://github.com/seq-lang/seq)

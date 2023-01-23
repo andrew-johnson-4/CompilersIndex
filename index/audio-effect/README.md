@@ -1,3 +1,3 @@
 # audio-effect
 
-[audio-effect](https://github.com/vult-dsp/vult)
+[vult](https://github.com/vult-dsp/vult)

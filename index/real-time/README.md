@@ -1,3 +1,3 @@
 # real-time
 
-[real-time](https://github.com/Gwion/Gwion)
+[Gwion](https://github.com/Gwion/Gwion)

@@ -1,4 +1,4 @@
 # visual
 
-[visual](https://github.com/enso-org/enso)
-[visual](https://github.com/BuilderIO/mitosis)
+[enso](https://github.com/enso-org/enso)
+[mitosis](https://github.com/BuilderIO/mitosis)

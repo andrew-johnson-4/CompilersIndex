@@ -1,5 +1,5 @@
 # type-inference
 
-[type-inference](https://github.com/gluon-lang/gluon)
-[type-inference](https://github.com/ltcmelo/psychec)
-[type-inference](https://github.com/sdiehl/write-you-a-haskell)
+[gluon](https://github.com/gluon-lang/gluon)
+[psychec](https://github.com/ltcmelo/psychec)
+[write-you-a-haskell](https://github.com/sdiehl/write-you-a-haskell)

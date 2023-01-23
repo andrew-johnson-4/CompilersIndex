@@ -1,3 +1,3 @@
 # octoprint-plugin
 
-[octoprint-plugin](https://github.com/OctoPrint/OctoPrint-FirmwareUpdater)
+[OctoPrint-FirmwareUpdater](https://github.com/OctoPrint/OctoPrint-FirmwareUpdater)

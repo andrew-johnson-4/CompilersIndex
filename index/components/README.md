@@ -1,3 +1,3 @@
 # components
 
-[components](https://github.com/vercel/next.js)
+[next.js](https://github.com/vercel/next.js)

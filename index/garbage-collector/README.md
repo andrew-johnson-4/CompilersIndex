@@ -1,4 +1,4 @@
 # garbage-collector
 
-[garbage-collector](https://github.com/justinethier/cyclone)
-[garbage-collector](https://github.com/eclipse-openj9/openj9)
+[cyclone](https://github.com/justinethier/cyclone)
+[openj9](https://github.com/eclipse-openj9/openj9)

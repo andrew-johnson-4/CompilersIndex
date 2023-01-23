@@ -1,3 +1,3 @@
 # nuitka
 
-[nuitka](https://github.com/Nuitka/Nuitka)
+[Nuitka](https://github.com/Nuitka/Nuitka)

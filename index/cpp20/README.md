@@ -1,5 +1,5 @@
 # cpp20
 
-[cpp20](https://github.com/hanickadot/compile-time-regular-expressions)
-[cpp20](https://github.com/andreasfertig/cppinsights)
-[cpp20](https://github.com/mpusz/units)
+[compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions)
+[cppinsights](https://github.com/andreasfertig/cppinsights)
+[units](https://github.com/mpusz/units)

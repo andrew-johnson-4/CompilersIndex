@@ -1,3 +1,3 @@
 # monad
 
-[monad](https://github.com/awto/effectfuljs)
+[effectfuljs](https://github.com/awto/effectfuljs)

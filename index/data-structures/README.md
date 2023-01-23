@@ -1,3 +1,3 @@
 # data-structures
 
-[data-structures](https://github.com/sfvsfv/ComputerStudent)
+[ComputerStudent](https://github.com/sfvsfv/ComputerStudent)

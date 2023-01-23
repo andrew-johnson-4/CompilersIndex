@@ -1,5 +1,5 @@
 # esm
 
-[esm](https://github.com/evanw/esbuild)
-[esm](https://github.com/jacobdeichert/svelvet)
-[esm](https://github.com/webpack/webpack)
+[esbuild](https://github.com/evanw/esbuild)
+[svelvet](https://github.com/jacobdeichert/svelvet)
+[webpack](https://github.com/webpack/webpack)

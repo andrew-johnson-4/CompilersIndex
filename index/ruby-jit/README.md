@@ -1,3 +1,3 @@
 # ruby-jit
 
-[ruby-jit](https://github.com/Shopify/yjit)
+[yjit](https://github.com/Shopify/yjit)

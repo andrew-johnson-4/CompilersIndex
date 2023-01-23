@@ -1,3 +1,3 @@
 # csharp-sourcegenerator
 
-[csharp-sourcegenerator](https://github.com/YairHalberstadt/stronginject)
+[stronginject](https://github.com/YairHalberstadt/stronginject)

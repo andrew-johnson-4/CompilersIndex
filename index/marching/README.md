@@ -1,3 +1,3 @@
 # marching
 
-[marching](https://github.com/Eldemarkki/Marching-Cubes-Terrain)
+[Marching-Cubes-Terrain](https://github.com/Eldemarkki/Marching-Cubes-Terrain)

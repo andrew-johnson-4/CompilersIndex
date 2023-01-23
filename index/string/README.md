@@ -1,4 +1,4 @@
 # string
 
-[string](https://github.com/adamyaxley/Obfuscate)
-[string](https://github.com/JustasMasiulis/xorstr)
+[Obfuscate](https://github.com/adamyaxley/Obfuscate)
+[xorstr](https://github.com/JustasMasiulis/xorstr)

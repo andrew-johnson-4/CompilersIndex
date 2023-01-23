@@ -1,3 +1,3 @@
 # remix
 
-[remix](https://github.com/ethereum/remix-project)
+[remix-project](https://github.com/ethereum/remix-project)

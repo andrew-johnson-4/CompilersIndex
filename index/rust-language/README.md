@@ -1,3 +1,3 @@
 # rust-language
 
-[rust-language](https://github.com/thepowersgang/mrustc)
+[mrustc](https://github.com/thepowersgang/mrustc)

@@ -1,6 +1,6 @@
 # elixir
 
-[elixir](https://github.com/bake-bake-bake/bakeware)
-[elixir](https://github.com/AbstractMachinesLab/caramel)
-[elixir](https://github.com/wende/elchemy)
-[elixir](https://github.com/elixirscript/elixirscript)
+[bakeware](https://github.com/bake-bake-bake/bakeware)
+[caramel](https://github.com/AbstractMachinesLab/caramel)
+[elchemy](https://github.com/wende/elchemy)
+[elixirscript](https://github.com/elixirscript/elixirscript)

@@ -1,3 +1,3 @@
 # directx-shader-compiler
 
-[directx-shader-compiler](https://github.com/microsoft/DirectXShaderCompiler)
+[DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler)

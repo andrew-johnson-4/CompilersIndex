@@ -1,5 +1,5 @@
 # instrumentation
 
-[instrumentation](https://github.com/llogiq/flamer)
-[instrumentation](https://github.com/SimonKagstrom/kcov)
-[instrumentation](https://github.com/google/mtail)
+[flamer](https://github.com/llogiq/flamer)
+[kcov](https://github.com/SimonKagstrom/kcov)
+[mtail](https://github.com/google/mtail)

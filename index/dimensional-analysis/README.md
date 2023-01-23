@@ -1,3 +1,3 @@
 # dimensional-analysis
 
-[dimensional-analysis](https://github.com/mpusz/units)
+[units](https://github.com/mpusz/units)

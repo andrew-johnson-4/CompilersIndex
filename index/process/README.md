@@ -1,3 +1,3 @@
 # process
 
-[process](https://github.com/tinyclub/open-c-book)
+[open-c-book](https://github.com/tinyclub/open-c-book)

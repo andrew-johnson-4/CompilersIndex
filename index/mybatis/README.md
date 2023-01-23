@@ -1,3 +1,3 @@
 # mybatis
 
-[mybatis](https://github.com/rbatis/rbatis)
+[rbatis](https://github.com/rbatis/rbatis)

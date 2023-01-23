@@ -1,3 +1,3 @@
 # devops
 
-[devops](https://github.com/KusionStack/KCLVM)
+[KCLVM](https://github.com/KusionStack/KCLVM)

@@ -1,7 +1,7 @@
 # python3
 
-[python3](https://github.com/StepfenShawn/Cantonese)
-[python3](https://github.com/sithis993/Crypter)
-[python3](https://github.com/Rick-Lang/rickroll-lang)
-[python3](https://github.com/RustPython/RustPython)
-[python3](https://github.com/aeroxis/sultan)
+[Cantonese](https://github.com/StepfenShawn/Cantonese)
+[Crypter](https://github.com/sithis993/Crypter)
+[rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)
+[RustPython](https://github.com/RustPython/RustPython)
+[sultan](https://github.com/aeroxis/sultan)

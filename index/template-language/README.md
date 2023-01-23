@@ -1,3 +1,3 @@
 # template-language
 
-[template-language](https://github.com/usethesource/rascal)
+[rascal](https://github.com/usethesource/rascal)

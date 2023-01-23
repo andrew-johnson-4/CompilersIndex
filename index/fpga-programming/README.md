@@ -1,3 +1,3 @@
 # fpga-programming
 
-[fpga-programming](https://github.com/JulianKemmerer/PipelineC)
+[PipelineC](https://github.com/JulianKemmerer/PipelineC)

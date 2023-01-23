@@ -1,3 +1,3 @@
 # disassembler
 
-[disassembler](https://github.com/HexHive/retrowrite)
+[retrowrite](https://github.com/HexHive/retrowrite)

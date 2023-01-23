@@ -1,3 +1,3 @@
 # sass-reimplemented
 
-[sass-reimplemented](https://github.com/connorskees/grass)
+[grass](https://github.com/connorskees/grass)

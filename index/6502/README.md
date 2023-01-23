@@ -1,3 +1,3 @@
 # 6502
 
-[6502](https://github.com/larsbrinkhoff/lbForth)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)

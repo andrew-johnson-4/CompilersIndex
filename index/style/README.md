@@ -1,3 +1,3 @@
 # style
 
-[style](https://github.com/diez/diez)
+[diez](https://github.com/diez/diez)

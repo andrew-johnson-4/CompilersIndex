@@ -1,3 +1,3 @@
 # freebasic
 
-[freebasic](https://github.com/freebasic/fbc)
+[fbc](https://github.com/freebasic/fbc)

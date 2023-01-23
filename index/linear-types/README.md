@@ -1,3 +1,3 @@
 # linear-types
 
-[linear-types](https://github.com/austral/austral)
+[austral](https://github.com/austral/austral)

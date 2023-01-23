@@ -1,4 +1,4 @@
 # quantization
 
-[quantization](https://github.com/Xilinx/finn)
-[quantization](https://github.com/nebuly-ai/nebullvm)
+[finn](https://github.com/Xilinx/finn)
+[nebullvm](https://github.com/nebuly-ai/nebullvm)

@@ -1,3 +1,3 @@
 # dylan
 
-[dylan](https://github.com/dylan-lang/opendylan)
+[opendylan](https://github.com/dylan-lang/opendylan)

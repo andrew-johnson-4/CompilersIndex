@@ -1,4 +1,4 @@
 # systems-programming
 
-[systems-programming](https://github.com/pikelet-lang/pikelet)
-[systems-programming](https://github.com/ValeLang/Vale)
+[pikelet](https://github.com/pikelet-lang/pikelet)
+[Vale](https://github.com/ValeLang/Vale)

@@ -1,4 +1,4 @@
 # plugin
 
-[plugin](https://github.com/packem/packem)
-[plugin](https://github.com/improbable-eng/ts-protoc-gen)
+[packem](https://github.com/packem/packem)
+[ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen)

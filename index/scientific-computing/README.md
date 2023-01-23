@@ -1,6 +1,6 @@
 # scientific-computing
 
-[scientific-computing](https://github.com/EnzymeAD/Enzyme)
-[scientific-computing](https://github.com/ArashPartow/exprtk)
-[scientific-computing](https://github.com/Hedgehog-Computing/hedgehog-lab)
-[scientific-computing](https://github.com/spack/spack)
+[Enzyme](https://github.com/EnzymeAD/Enzyme)
+[exprtk](https://github.com/ArashPartow/exprtk)
+[hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab)
+[spack](https://github.com/spack/spack)

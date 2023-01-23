@@ -1,3 +1,3 @@
 # hacktoberfest-accepted
 
-[hacktoberfest-accepted](https://github.com/vlang/v)
+[v](https://github.com/vlang/v)

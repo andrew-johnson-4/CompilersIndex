@@ -1,3 +1,3 @@
 # nanopi-r4s
 
-[nanopi-r4s](https://github.com/SuLingGG/OpenWrt-Rpi)
+[OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)

@@ -1,3 +1,3 @@
 # fasterjs
 
-[fasterjs](https://github.com/vzhou842/faster.js)
+[faster.js](https://github.com/vzhou842/faster.js)

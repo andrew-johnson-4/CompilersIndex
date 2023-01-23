@@ -1,3 +1,3 @@
 # firewall-configuration
 
-[firewall-configuration](https://github.com/cloudflare/wirefilter)
+[wirefilter](https://github.com/cloudflare/wirefilter)

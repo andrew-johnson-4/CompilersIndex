@@ -1,3 +1,3 @@
 # self-hosted
 
-[self-hosted](https://github.com/larsbrinkhoff/lbForth)
+[lbForth](https://github.com/larsbrinkhoff/lbForth)

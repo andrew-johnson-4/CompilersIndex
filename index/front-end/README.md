@@ -1,3 +1,3 @@
 # front-end
 
-[front-end](https://github.com/thradams/cake)
+[cake](https://github.com/thradams/cake)

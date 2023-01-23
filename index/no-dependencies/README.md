@@ -1,4 +1,4 @@
 # no-dependencies
 
-[no-dependencies](https://github.com/veselink1/refl-cpp)
-[no-dependencies](https://github.com/julianneswinoga/yabfc)
+[refl-cpp](https://github.com/veselink1/refl-cpp)
+[yabfc](https://github.com/julianneswinoga/yabfc)
